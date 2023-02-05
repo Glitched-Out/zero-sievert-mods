@@ -2001,6 +2001,162 @@ pushi.e 105
 conv.i.v
 call.i draw_text(argc=3)
 popz.v
+pushi.e 0
+conv.i.v
+push.i 16777215
+conv.i.v
+push.i 16777215
+conv.i.v
+push.i 16777215
+conv.i.v
+push.i 16777215
+conv.i.v
+pushi.e 249
+conv.i.v
+pushi.e 276
+conv.i.v
+pushi.e 241
+conv.i.v
+pushi.e 204
+conv.i.v
+call.i draw_rectangle_color(argc=9)
+popz.v
+pushi.e 0
+conv.i.v
+push.i 16777215
+conv.i.v
+push.i 16777215
+conv.i.v
+push.i 16777215
+conv.i.v
+push.i 16777215
+conv.i.v
+pushi.e 257
+conv.i.v
+pushi.e 276
+conv.i.v
+pushi.e 249
+conv.i.v
+pushi.e 204
+conv.i.v
+call.i draw_rectangle_color(argc=9)
+popz.v
+pushi.e 0
+conv.i.v
+push.i 16777215
+conv.i.v
+push.i 16777215
+conv.i.v
+push.i 16777215
+conv.i.v
+push.i 16777215
+conv.i.v
+pushi.e 257
+conv.i.v
+pushi.e 303
+conv.i.v
+pushi.e 249
+conv.i.v
+pushi.e 276
+conv.i.v
+call.i draw_rectangle_color(argc=9)
+popz.v
+pushi.e 0
+conv.i.v
+push.i 1710618
+conv.i.v
+push.i 1710618
+conv.i.v
+push.i 1710618
+conv.i.v
+push.i 1710618
+conv.i.v
+pushi.e 248
+conv.i.v
+pushi.e 275
+conv.i.v
+pushi.e 242
+conv.i.v
+pushi.e 205
+conv.i.v
+call.i draw_rectangle_color(argc=9)
+popz.v
+pushi.e 0
+conv.i.v
+push.i 1710618
+conv.i.v
+push.i 1710618
+conv.i.v
+push.i 1710618
+conv.i.v
+push.i 1710618
+conv.i.v
+pushi.e 256
+conv.i.v
+pushi.e 275
+conv.i.v
+pushi.e 250
+conv.i.v
+pushi.e 205
+conv.i.v
+call.i draw_rectangle_color(argc=9)
+popz.v
+pushi.e 0
+conv.i.v
+push.i 1710618
+conv.i.v
+push.i 1710618
+conv.i.v
+push.i 1710618
+conv.i.v
+push.i 1710618
+conv.i.v
+pushi.e 256
+conv.i.v
+pushi.e 302
+conv.i.v
+pushi.e 250
+conv.i.v
+pushi.e 277
+conv.i.v
+call.i draw_rectangle_color(argc=9)
+popz.v
+push.i 16777215
+conv.i.v
+call.i draw_set_color(argc=1)
+popz.v
+push.s "Price / kg"@13259
+conv.s.v
+pushi.e 240
+conv.i.v
+pushi.e 240
+conv.i.v
+call.i draw_text(argc=3)
+popz.v
+push.i 16777215
+conv.i.v
+call.i draw_set_color(argc=1)
+popz.v
+push.s "Price / slot"@13285
+conv.s.v
+pushi.e 248
+conv.i.v
+pushi.e 240
+conv.i.v
+call.i draw_text(argc=3)
+popz.v
+push.i 16777215
+conv.i.v
+call.i draw_set_color(argc=1)
+popz.v
+push.s "(Max)"@13286
+conv.s.v
+pushi.e 248
+conv.i.v
+pushi.e 290
+conv.i.v
+call.i draw_text(argc=3)
+popz.v
 push.v self.loot_name
 pop.v.v local._name
 push.v 90.trading
