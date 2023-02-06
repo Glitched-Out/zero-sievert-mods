@@ -1,8 +1,8 @@
-# ZERO Sievert MOD: PDA for advanced information
+# ZERO Sievert MOD: PDA for Advanced Prices in Hunts
 
 ## Description
 
-The player will now have a PDA that will allow him to consult advanced information about the items he collects during a hunt.
+Now our brave hunter has acquired a PDA (Personal Digital Assistant), which will receive by radio frequency an updated price list from the radios of nearby merchants. In future updates it will be mandatory to install an Intelligence Center module (or something like that) in order to receive advanced information.
 
 The PDA will display information such as:
 - Selling price of each item (and of the stack)
