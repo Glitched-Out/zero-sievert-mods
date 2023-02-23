@@ -13,6 +13,7 @@ if (room != r_menu)
                     var _list_id = ds_list_create()
                     var _list_x = ds_list_create()
                     var _list_y = ds_list_create()
+                    var _list_rotation = ds_list_create()
                     var _list_peso = ds_list_create()
                     var _list_xx = ds_list_create()
                     var _list_yy = ds_list_create()
@@ -25,6 +26,7 @@ if (room != r_menu)
                         ds_list_add(_list_peso, (item_weight[my_id] * _stack))
                         ds_list_add(_list_xx, caselle_x)
                         ds_list_add(_list_yy, caselle_y)
+                        ds_list_add(_list_rotation, rotation)
                     }
                     for (var i = 0; i < ds_list_size(_list_id); i++)
                     {
@@ -48,56 +50,64 @@ if (room != r_menu)
                         var _yy = ds_list_find_value(_list_yy, i)
                         var _x = ds_list_find_value(_list_x, i)
                         var _y = ds_list_find_value(_list_y, i)
+                        var _rotation = ds_list_find_value(_list_rotation, i)
+                        if (_rotation != 0)
+                            _y -= (_yy * 16)
                         draw_sprite_ext(s_16x16, 0, (_x - camx), (_y - camy), _xx, _yy, 0, _col, 0.6)
                     }
                 }
             }
-            if scr_mouse_inside((camx + global.show_overlay_soldi_x), (camy + global.show_overlay_soldi_y), global.show_overlay_soldi_w, global.show_overlay_soldi_h)
-            {
-                if instance_exists(obj_item)
+                if scr_mouse_inside((camx + global.show_overlay_soldi_x), (camy + global.show_overlay_soldi_y), global.show_overlay_soldi_w, global.show_overlay_soldi_h)
                 {
-                    _list_id = ds_list_create()
-                    _list_x = ds_list_create()
-                    _list_y = ds_list_create()
-                    var _list_soldi = ds_list_create()
-                    _list_xx = ds_list_create()
-                    _list_yy = ds_list_create()
-                    with (obj_item)
+                    if instance_exists(obj_item)
                     {
-                        ds_list_add(_list_id, my_id)
-                        ds_list_add(_list_x, x)
-                        ds_list_add(_list_y, y)
-                        _stack = qnt
-                        ds_list_add(_list_soldi, (item_value[my_id] * _stack))
-                        ds_list_add(_list_xx, caselle_x)
-                        ds_list_add(_list_yy, caselle_y)
-                    }
-                    for (i = 0; i < ds_list_size(_list_id); i++)
-                    {
-                        var _soldi = ds_list_find_value(_list_soldi, i)
-                        _soldi = clamp(_soldi, global.show_overlay_soldi_min, global.show_overlay_soldi_max)
-                        _div = (_soldi / global.show_overlay_soldi_max)
-                        _step = ((global.show_overlay_soldi_max - global.show_overlay_soldi_min) / global.show_overlay_col_number)
-                        _a = global.show_overlay_soldi_min
-                        _col = c_white
-                        if (_soldi >= 0)
-                            _col = merge_color(global.show_overlay_col[4], global.show_overlay_col[3], (_soldi / (_a + _step)))
-                        if (_soldi >= (_a + _step))
-                            _col = merge_color(global.show_overlay_col[3], global.show_overlay_col[2], ((_soldi - _step) / (_a + (_step * 2))))
-                        if (_soldi >= (_a + (_step * 2)))
-                            _col = merge_color(global.show_overlay_col[2], global.show_overlay_col[1], ((_soldi - (_step * 2)) / (_a + (_step * 3))))
-                        if (_soldi >= (_a + (_step * 3)))
-                            _col = merge_color(global.show_overlay_col[1], global.show_overlay_col[0], ((_soldi - (_step * 3)) / (_a + (_step * 4))))
-                        if (_soldi >= (_a + (_step * 4)))
-                            _col = global.show_overlay_col[0]
-                        _xx = ds_list_find_value(_list_xx, i)
-                        _yy = ds_list_find_value(_list_yy, i)
-                        _x = ds_list_find_value(_list_x, i)
-                        _y = ds_list_find_value(_list_y, i)
-                        draw_sprite_ext(s_16x16, 0, (_x - camx), (_y - camy), _xx, _yy, 0, _col, 0.5)
+                        _list_id = ds_list_create()
+                        _list_x = ds_list_create()
+                        _list_y = ds_list_create()
+                        var _list_soldi = ds_list_create()
+                        _list_xx = ds_list_create()
+                        _list_yy = ds_list_create()
+                        _list_rotation = ds_list_create()
+                        with (obj_item)
+                        {
+                            ds_list_add(_list_id, my_id)
+                            ds_list_add(_list_x, x)
+                            ds_list_add(_list_y, y)
+                            _stack = qnt
+                            ds_list_add(_list_soldi, (item_value[my_id] * _stack))
+                            ds_list_add(_list_xx, caselle_x)
+                            ds_list_add(_list_yy, caselle_y)
+                            ds_list_add(_list_rotation, rotation)
+                        }
+                        for (i = 0; i < ds_list_size(_list_id); i++)
+                        {
+                            var _soldi = ds_list_find_value(_list_soldi, i)
+                            _soldi = clamp(_soldi, global.show_overlay_soldi_min, global.show_overlay_soldi_max)
+                            _div = (_soldi / global.show_overlay_soldi_max)
+                            _step = ((global.show_overlay_soldi_max - global.show_overlay_soldi_min) / global.show_overlay_col_number)
+                            _a = global.show_overlay_soldi_min
+                            _col = c_white
+                            if (_soldi >= 0)
+                                _col = merge_color(global.show_overlay_col[4], global.show_overlay_col[3], (_soldi / (_a + _step)))
+                            if (_soldi >= (_a + _step))
+                                _col = merge_color(global.show_overlay_col[3], global.show_overlay_col[2], ((_soldi - _step) / (_a + (_step * 2))))
+                            if (_soldi >= (_a + (_step * 2)))
+                                _col = merge_color(global.show_overlay_col[2], global.show_overlay_col[1], ((_soldi - (_step * 2)) / (_a + (_step * 3))))
+                            if (_soldi >= (_a + (_step * 3)))
+                                _col = merge_color(global.show_overlay_col[1], global.show_overlay_col[0], ((_soldi - (_step * 3)) / (_a + (_step * 4))))
+                            if (_soldi >= (_a + (_step * 4)))
+                                _col = global.show_overlay_col[0]
+                            _xx = ds_list_find_value(_list_xx, i)
+                            _yy = ds_list_find_value(_list_yy, i)
+                            _x = ds_list_find_value(_list_x, i)
+                            _y = ds_list_find_value(_list_y, i)
+                            _rotation = ds_list_find_value(_list_rotation, i)
+                            if (_rotation != 0)
+                                _y -= (_yy * 16)
+                            draw_sprite_ext(s_16x16, 0, (_x - camx), (_y - camy), _xx, _yy, 0, _col, 0.5)
+                        }
                     }
                 }
-            }
             if scr_mouse_inside((camx + global.show_overlay_price_kg_x), (camy + global.show_overlay_price_kg_y), global.show_overlay_price_kg_w, global.show_overlay_price_kg_h)
             {
                 if instance_exists(obj_item)
@@ -109,6 +119,7 @@ if (room != r_menu)
                     _list_peso = ds_list_create()
                     _list_xx = ds_list_create()
                     _list_yy = ds_list_create()
+                    _list_rotation = ds_list_create()
                     with (obj_item)
                     {
                         ds_list_add(_list_id, my_id)
@@ -119,6 +130,7 @@ if (room != r_menu)
                         ds_list_add(_list_peso, (item_weight[my_id] * _stack))
                         ds_list_add(_list_xx, caselle_x)
                         ds_list_add(_list_yy, caselle_y)
+                        ds_list_add(_list_rotation, rotation)
                     }
                     for (i = 0; i < ds_list_size(_list_id); i++)
                     {
@@ -144,6 +156,9 @@ if (room != r_menu)
                         _yy = ds_list_find_value(_list_yy, i)
                         _x = ds_list_find_value(_list_x, i)
                         _y = ds_list_find_value(_list_y, i)
+                        _rotation = ds_list_find_value(_list_rotation, i)
+                        if (_rotation != 0)
+                            _y -= (_yy * 16)
                         draw_sprite_ext(s_16x16, 0, (_x - camx), (_y - camy), _xx, _yy, 0, _col, 0.5)
                     }
                 }
@@ -159,6 +174,7 @@ if (room != r_menu)
                     var _list_slots = ds_list_create()
                     _list_xx = ds_list_create()
                     _list_yy = ds_list_create()
+                    _list_rotation = ds_list_create()
                     with (obj_item)
                     {
                         ds_list_add(_list_id, my_id)
@@ -169,6 +185,7 @@ if (room != r_menu)
                         ds_list_add(_list_slots, ((sprite_get_width(item_sprite_inv[my_id]) div 16) * (sprite_get_height(item_sprite_inv[my_id]) div 16)))
                         ds_list_add(_list_xx, caselle_x)
                         ds_list_add(_list_yy, caselle_y)
+                        ds_list_add(_list_rotation, rotation)
                     }
                     for (i = 0; i < ds_list_size(_list_id); i++)
                     {
@@ -194,6 +211,9 @@ if (room != r_menu)
                         _yy = ds_list_find_value(_list_yy, i)
                         _x = ds_list_find_value(_list_x, i)
                         _y = ds_list_find_value(_list_y, i)
+                        _rotation = ds_list_find_value(_list_rotation, i)
+                        if (_rotation != 0)
+                            _y -= (_yy * 16)
                         draw_sprite_ext(s_16x16, 0, (_x - camx), (_y - camy), _xx, _yy, 0, _col, 0.5)
                     }
                 }
@@ -209,6 +229,7 @@ if (room != r_menu)
                     var _list_slots = ds_list_create()
                     _list_xx = ds_list_create()
                     _list_yy = ds_list_create()
+                    _list_rotation = ds_list_create()
                     with (obj_item)
                     {
                         ds_list_add(_list_id, my_id)
@@ -219,6 +240,7 @@ if (room != r_menu)
                         ds_list_add(_list_slots, ((sprite_get_width(item_sprite_inv[my_id]) div 16) * (sprite_get_height(item_sprite_inv[my_id]) div 16)))
                         ds_list_add(_list_xx, caselle_x)
                         ds_list_add(_list_yy, caselle_y)
+                        ds_list_add(_list_rotation, rotation)
                     }
                     for (i = 0; i < ds_list_size(_list_id); i++)
                     {
@@ -244,6 +266,9 @@ if (room != r_menu)
                         _yy = ds_list_find_value(_list_yy, i)
                         _x = ds_list_find_value(_list_x, i)
                         _y = ds_list_find_value(_list_y, i)
+                        _rotation = ds_list_find_value(_list_rotation, i)
+                        if (_rotation != 0)
+                            _y -= (_yy * 16)
                         draw_sprite_ext(s_16x16, 0, (_x - camx), (_y - camy), _xx, _yy, 0, _col, 0.5)
                     }
                 }
@@ -348,17 +373,17 @@ if (go == 1)
         {
             if (obj_player.trading == 0)
             {
-                var soldi_ = item_value[item_id]
-                var soldi_2 = 0
-                if (item_categoria[item_id] == (0 << 0))
-                    soldi_2 = scr_get_money_weapon(id_instance)
-                var soldi_tot = (((((soldi_ * id_instance.durability) / 100) + soldi_2) * 0.2) * global.sk_k[(21 << 0)])
-                soldi_tot = round(soldi_tot)
-                _t_stack = ""
-                if (_qnt > 1)
-                    _t_stack = (" / " + string((soldi_tot * id_instance.qnt)))
-                _t = (("Sell for: " + string(soldi_tot)) + _t_stack)
-                draw_text((left_x + 2), (top_y + 24), _t)
+                    var soldi_ = item_value[item_id]
+                    var soldi_2 = 0
+                    if (item_categoria[item_id] == (0 << 0))
+                        soldi_2 = scr_get_money_weapon(id_instance)
+                    var soldi_tot = (((((soldi_ * id_instance.durability) / 100) + soldi_2) * global.diff_setting[(3 << 0)]) * global.sk_k[(21 << 0)])
+                    soldi_tot = round(soldi_tot)
+                    _t_stack = ""
+                    if (_qnt > 1)
+                        _t_stack = (" / " + string((soldi_tot * id_instance.qnt)))
+                    _t = (("Sell for: " + string(soldi_tot)) + _t_stack)
+                    draw_text((left_x + 2), (top_y + 24), _t)
                 var price_per_kg = (soldi_tot / item_weight[item_id])
                 _t = ("per kg: " + string(price_per_kg))
                 draw_text((left_x + 4), (top_y + 34), _t)
@@ -391,7 +416,7 @@ if (go == 1)
                 soldi_2 = 0
                 if (item_categoria[item_id] == (0 << 0))
                     soldi_2 = scr_get_money_weapon(id_instance)
-                soldi_tot = (((((soldi_ * id_instance.durability) / 100) + soldi_2) * 0.2) * global.sk_k[(21 << 0)])
+                soldi_tot = (((((soldi_ * id_instance.durability) / 100) + soldi_2) * global.diff_setting[(3 << 0)]) * global.sk_k[(21 << 0)])
                 soldi_tot = round(soldi_tot)
                 _t_stack = ""
                 if (_qnt > 1)

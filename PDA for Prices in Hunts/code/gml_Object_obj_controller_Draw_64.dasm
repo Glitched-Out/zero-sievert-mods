@@ -1,330 +1,334 @@
 .localvar 2 arguments
-.localvar 142 camx 5826
-.localvar 144 camy 5827
-.localvar 6492 _bleed 5828
-.localvar 6493 _alpha 5829
-.localvar 827 hp 5830
-.localvar 327 hp_max 5831
-.localvar 126 startx 5832
-.localvar 125 starty 5833
-.localvar 6494 bar_w_max 5834
-.localvar 6495 bar_w 5835
-.localvar 4999 c1 5836
-.localvar 6497 _wound 5837
-.localvar 6498 bar_wound_w 5838
-.localvar 545 stamina 5839
-.localvar 329 stamina_max 5841
-.localvar 111 _xx 5842
-.localvar 6500 _yy 5843
-.localvar 46 _t 5844
-.localvar 345 _w 5845
-.localvar 346 _h 5846
-.localvar 10 i 5847
-.localvar 983 oo 5848
-.localvar 369 xx 5849
-.localvar 6502 w_ 5850
-.localvar 6503 h_ 5851
-.localvar 6504 t_name 5852
-.localvar 6505 t1 5853
-.localvar 6507 t_amount 5854
-.localvar 6509 t_value_max 5855
-.localvar 5400 t_ 5856
-.localvar 6510 off_h 5857
-.localvar 6511 off_w 5858
-.localvar 6512 t_w_s 5859
-.localvar 6513 t_w_e 5860
-.localvar 6515 attivo 5861
-.localvar 4110 sx 5863
-.localvar 6516 list_injector 5864
-.localvar 3864 ww 5865
-.localvar 4230 tx 5866
-.localvar 4231 ty 5867
-.localvar 6517 sep_h 5868
-.localvar 1055 off 5869
-.localvar 1033 hh 5870
-.localvar 6518 quale 5871
-.localvar 6519 ammo_magazine 5872
-.localvar 3915 ammo_now 5873
-.localvar 6520 s_ammo 5874
-.localvar 1000 sh 5875
-.localvar 999 sw 5876
-.localvar 6521 offy 5877
-.localvar 6522 offx 5878
-.localvar 6523 sub 5879
-.localvar 5995 ff 5880
-.localvar 1509 cc 5883
-.localvar 867 deal_mine 5884
-.localvar 868 deal_trader 5885
-.localvar 871 deal 5886
-.localvar 6527 _number 5887
-.localvar 5685 _c 5888
-.localvar 6528 n_x 5889
-.localvar 6529 n_y 5890
-.localvar 368 yy 5891
-.localvar 945 _name 5892
-.localvar 6531 start_repx 5893
-.localvar 6532 start_repy 5894
-.localvar 6533 qs1 5895
-.localvar 6534 qs2 5896
-.localvar 6535 qs3 5897
-.localvar 6536 qs4 5898
-.localvar 6537 qs5 5899
-.localvar 6538 qs6 5900
-.localvar 6539 qs7 5901
-.localvar 6540 qs8 5902
-.localvar 6541 q_headset 5903
-.localvar 6044 offsetx 5904
-.localvar 4826 offsety 5905
-.localvar 6542 _npc_id 5906
-.localvar 6543 tra_id 5907
-.localvar 6544 mmoney 5908
-.localvar 633 _x 5909
-.localvar 635 _y 5910
-.localvar 6546 dragged_w 5911
-.localvar 6547 dragged_h 5912
-.localvar 6548 coll 5913
-.localvar 6549 prov_h_me 5914
-.localvar 6550 iip 5915
-.localvar 6551 sopra_id 5916
-.localvar 6552 checkx 5917
-.localvar 6553 checky 5918
-.localvar 1176 n_butt 5919
-.localvar 738 o 5920
-.localvar 6554 hover 5921
-.localvar 6555 rec_c 5922
-.localvar 1208 cx 5923
-.localvar 1209 cy 5924
-.localvar 6557 mouse_inside 5925
-.localvar 6558 _skill_req 5926
-.localvar 6559 _skill_lvl 5927
-.localvar 6560 _skill_mod 5928
-.localvar 6561 _skill_mod_lvl 5929
-.localvar 1241 _t_skill 5930
-.localvar 1244 _t_module 5931
-.localvar 5243 _sub 5932
-.localvar 6563 cc_red 5933
-.localvar 284 x1 5934
-.localvar 285 y1 5935
-.localvar 3996 x2 5936
-.localvar 3997 y2 5937
-.localvar 6567 offset_amount 5938
-.localvar 6568 off2 5939
-.localvar 1499 off3 5940
-.localvar 4151 s_w 5941
-.localvar 6569 get_id_weapon 5942
-.localvar 6570 somma_recoil 5943
-.localvar 6571 somma_ergo 5944
-.localvar 6572 somma_acc 5945
-.localvar 6573 somma_damage 5946
-.localvar 6574 somma_reload_speed 5947
-.localvar 446 k 5948
-.localvar 5397 get_id_ 5949
-.localvar 6575 new_recoil 5950
-.localvar 6576 new_ergo 5951
-.localvar 6577 new_acc 5952
-.localvar 6578 new_damage 5953
-.localvar 6579 new_reload_speed 5954
-.localvar 6580 slot_offset 5955
-.localvar 5394 stat_ 5956
-.localvar 6589 t_h 5957
-.localvar 6590 t_m 5958
-.localvar 4363 tt 5959
-.localvar 6592 _fatigue 5960
-.localvar 6593 _diff 5961
-.localvar 6594 _hours_needed 5963
-.localvar 6595 _ora_now 5964
-.localvar 6596 _min_now 5965
-.localvar 6597 h 5966
-.localvar 411 m 5967
-.localvar 6598 tot_m 5968
-.localvar 6599 _ora_next 5969
-.localvar 6601 _tt 5970
-.localvar 6602 _sub_image_dialogo 5971
-.localvar 1258 speak_nearest 5972
-.localvar 1259 speaker_id_ 5973
-.localvar 6604 start_text_x 5974
-.localvar 6605 start_text_y 5975
-.localvar 6606 c_hover 5976
-.localvar 6607 c_not_hover 5977
-.localvar 1307 quanti_text 5978
-.localvar 6608 c_text 5979
-.localvar 6612 ttext 5980
-.localvar 1032 quest_amount 5981
-.localvar 6615 quest_name_ 5982
-.localvar 4731 status 5983
-.localvar 289 j 5984
-.localvar 1038 quest_id_ 5985
-.localvar 6619 _c1 5986
-.localvar 6620 _c2 5987
-.localvar 6623 _total_text 5988
-.localvar 6624 _custom_text 5989
-.localvar 6625 _pre_text 5990
-.localvar 4635 _amount_max 5991
-.localvar 6626 _text_obj 5992
-.localvar 6627 _text_map 5993
-.localvar 6628 _text_obj_to_kill 5994
-.localvar 6630 _map_id 5995
-.localvar 6633 _array_npc 5996
-.localvar 6634 _name_faction 5998
-.localvar 6637 _text_obj_to_collect 5999
-.localvar 6642 _exp_min_amount 6000
-.localvar 6648 reward_amount 6002
-.localvar 6651 exp_amount 6003
-.localvar 6652 rep_amount 6004
-.localvar 1292 dur_price 6005
-.localvar 1287 p_wep1 6006
-.localvar 1288 dur1 6007
-.localvar 1289 wep_price 6008
-.localvar 628 _k 6009
-.localvar 6656 t_len 6010
-.localvar 1311 p_hp 6011
-.localvar 1313 p_wound 6012
-.localvar 1315 p_hp_max 6013
-.localvar 1317 money_hp 6014
-.localvar 1321 money_wound 6015
-.localvar 1323 p_rad 6016
-.localvar 6660 _faction_name 6017
-.localvar 1353 _faction_id 6018
-.localvar 6661 _faction_text_sure 6019
-.localvar 6666 _t_sure 6020
-.localvar 1326 _hunger 6021
-.localvar 1328 _hunger_max 6022
-.localvar 1329 _money 6023
-.localvar 1331 _thirst 6024
-.localvar 1333 _thirst_max 6025
-.localvar 12 a 6026
-.localvar 1342 _bw 6027
-.localvar 1344 _bh 6028
-.localvar 1345 _sx 6029
-.localvar 1347 _sy 6030
-.localvar 6669 _c_rettangolo 6031
-.localvar 6670 _c_text 6032
-.localvar 966 c 6033
-.localvar 6674 sub_str 6034
-.localvar 6676 size_ 6036
-.localvar 3920 dir_ 6038
-.localvar 6678 image_max 6039
-.localvar 6679 pda_index 6040
-.localvar 1510 start_x 6041
-.localvar 1511 start_y 6042
-.localvar 6681 space_w 6043
-.localvar 6682 space_h 6044
-.localvar 6683 surf_x 6045
-.localvar 6684 surf_y 6046
-.localvar 6685 surf_space_w 6047
-.localvar 6686 surf_space_h 6048
-.localvar 6687 surf_start_x 6049
-.localvar 6688 surf_start_y 6050
-.localvar 5315 surf_w 6052
-.localvar 5316 surf_h 6053
-.localvar 6690 im_index 6054
-.localvar 6691 l_size 6055
-.localvar 6692 q_pos 6056
-.localvar 1495 ox 6057
-.localvar 1497 oy 6058
-.localvar 1453 mx 6059
-.localvar 6693 my 6060
-.localvar 5641 _size 6061
-.localvar 6694 _col 6062
-.localvar 611 _id 6063
-.localvar 4188 px 6064
-.localvar 4189 py 6065
-.localvar 6696 circle_w 6067
-.localvar 6697 qx 6068
-.localvar 6698 qy 6069
-.localvar 4571 q_id 6070
-.localvar 5258 dd 6071
-.localvar 1249 t 6072
-.localvar 972 b_h 6073
-.localvar 6702 b_m 6074
-.localvar 6703 h1 6075
-.localvar 4183 h2 6076
-.localvar 6704 m1 6077
-.localvar 6705 m2 6078
-.localvar 6706 ts 6079
-.localvar 6708 day_text 6080
-.localvar 6709 sc_ 6081
-.localvar 6710 c_g 6082
-.localvar 6711 c_hp 6083
-.localvar 6712 hp_x 6084
-.localvar 6713 hp_y 6085
-.localvar 2823 pp 6086
-.localvar 6714 t_y 6087
-.localvar 6715 t_x 6088
-.localvar 6716 ferita 6089
-.localvar 6718 c_sta 6090
-.localvar 1034 sep 6091
-.localvar 6722 q_name_sx 6092
-.localvar 6723 q_name_sy 6093
-.localvar 6724 q_name_max 6094
-.localvar 1036 mm 6095
-.localvar 1037 _entry 6096
-.localvar 6725 name_width 6097
-.localvar 6726 substr 6098
-.localvar 4964 col 6099
-.localvar 1029 _n_active_quest 6100
-.localvar 1030 _clamp_basso 6101
-.localvar 6727 _alpha_down 6102
-.localvar 6728 _alpha_up 6103
-.localvar 6729 line_sx 6104
-.localvar 6730 t_name_x 6105
-.localvar 6731 _text_progress 6106
-.localvar 6732 name_speaker 6107
-.localvar 5000 c2 6108
-.localvar 6735 exp_da_livello 6109
-.localvar 6736 exp_da_livello_survived 6110
-.localvar 6737 exp_da_livello_succ 6111
-.localvar 6738 rect_esp_x 6112
-.localvar 1057 text_h 6113
-.localvar 666 _faction 6115
-.localvar 5768 _tx 6116
-.localvar 5769 _ty 6117
-.localvar 6743 _qx 6118
-.localvar 6744 _qw 6119
-.localvar 6745 _qh 6120
-.localvar 6746 _rep_value 6121
-.localvar 4111 sy 6122
-.localvar 1096 n_skill 6123
-.localvar 1098 id_ 6124
-.localvar 6748 skill_prima 6126
-.localvar 6749 t_w1 6127
-.localvar 6750 t_w2 6128
-.localvar 6751 t_w 6129
-.localvar 6752 bw 6130
-.localvar 6753 bh 6131
-.localvar 6755 xb 6132
-.localvar 6756 des_x 6133
-.localvar 1147 draw_normal 6134
-.localvar 6758 ttt 6135
-.localvar 6759 quante_spec 6136
-.localvar 6760 ss_id 6137
-.localvar 6762 des_h 6138
-.localvar 6763 _slot_id 6139
-.localvar 6764 get_base_id 6140
-.localvar 1133 list_already_installed 6141
-.localvar 1135 bbase_id 6142
-.localvar 6765 b_id 6143
-.localvar 409 aa 6144
-.localvar 1132 already_installed 6145
-.localvar 1136 ll 6146
-.localvar 1137 confronto 6147
-.localvar 1125 bb_id 6148
-.localvar 6776 _tipi_ammo 6149
-.localvar 6777 subi 6150
-.localvar 6778 key_name 6151
-.localvar 6779 _ammo_name 6152
-.localvar 6780 _ammo_qnt 6153
-.localvar 6782 _t_len 6154
-.localvar 6783 _offset_jam 6155
-.localvar 6785 _can_draw 6156
-.localvar 6787 _chest_id 6157
-.localvar 6788 _show_debug 6158
-.localvar 6790 box_x 6159
-.localvar 6791 box_y 6160
-.localvar 6792 box_w 6161
-.localvar 6793 box_h 6162
-.localvar 3539 get_id 6163
-.localvar 6795 collisione 6164
+.localvar 272 camx 5943
+.localvar 274 camy 5944
+.localvar 6713 _bleed 5945
+.localvar 6714 _alpha 5946
+.localvar 953 hp 5947
+.localvar 452 hp_max 5948
+.localvar 257 startx 5949
+.localvar 256 starty 5950
+.localvar 6715 bar_w_max 5951
+.localvar 6716 bar_w 5952
+.localvar 5215 c1 5953
+.localvar 6718 _wound 5954
+.localvar 6719 bar_wound_w 5955
+.localvar 670 stamina 5956
+.localvar 454 stamina_max 5958
+.localvar 242 _xx 5959
+.localvar 6721 _yy 5960
+.localvar 177 _t 5961
+.localvar 470 _w 5962
+.localvar 471 _h 5963
+.localvar 10 i 5964
+.localvar 1111 oo 5965
+.localvar 494 xx 5966
+.localvar 6723 w_ 5967
+.localvar 6724 h_ 5968
+.localvar 6725 t_name 5969
+.localvar 6726 t1 5970
+.localvar 6728 t_amount 5971
+.localvar 6730 t_value_max 5972
+.localvar 5614 t_ 5973
+.localvar 6731 off_h 5974
+.localvar 6732 off_w 5975
+.localvar 6733 t_w_s 5976
+.localvar 6734 t_w_e 5977
+.localvar 6736 attivo 5978
+.localvar 4262 sx 5980
+.localvar 6737 list_injector 5981
+.localvar 4016 ww 5982
+.localvar 4382 tx 5983
+.localvar 4383 ty 5984
+.localvar 6738 sep_h 5985
+.localvar 1183 off 5986
+.localvar 1161 hh 5987
+.localvar 6739 quale 5988
+.localvar 6740 ammo_magazine 5989
+.localvar 4067 ammo_now 5990
+.localvar 6741 s_ammo 5991
+.localvar 1128 sh 5992
+.localvar 1127 sw 5993
+.localvar 6742 offy 5994
+.localvar 6743 offx 5995
+.localvar 6744 sub 5996
+.localvar 6216 ff 5997
+.localvar 1655 cc 6000
+.localvar 993 deal_mine 6001
+.localvar 994 deal_trader 6002
+.localvar 997 deal 6003
+.localvar 6748 _number 6004
+.localvar 5899 _c 6005
+.localvar 6749 n_x 6006
+.localvar 6750 n_y 6007
+.localvar 493 yy 6008
+.localvar 1071 _name 6009
+.localvar 6752 start_repx 6010
+.localvar 6753 start_repy 6011
+.localvar 6754 qs1 6012
+.localvar 6755 qs2 6013
+.localvar 6756 qs3 6014
+.localvar 6757 qs4 6015
+.localvar 6758 qs5 6016
+.localvar 6759 qs6 6017
+.localvar 6760 qs7 6018
+.localvar 6761 qs8 6019
+.localvar 6762 q_headset 6020
+.localvar 6265 offsetx 6021
+.localvar 5041 offsety 6022
+.localvar 6763 _npc_id 6023
+.localvar 6764 tra_id 6024
+.localvar 6765 mmoney 6025
+.localvar 758 _x 6026
+.localvar 760 _y 6027
+.localvar 6767 dragged_w 6028
+.localvar 6768 dragged_h 6029
+.localvar 6769 coll 6030
+.localvar 6770 prov_h_me 6031
+.localvar 6771 iip 6032
+.localvar 6772 sopra_id 6033
+.localvar 6773 checkx 6034
+.localvar 6774 checky 6035
+.localvar 1304 n_butt 6036
+.localvar 864 o 6037
+.localvar 6775 hover 6038
+.localvar 6776 rec_c 6039
+.localvar 1336 cx 6040
+.localvar 1337 cy 6041
+.localvar 6778 mouse_inside 6042
+.localvar 6779 _skill_req 6043
+.localvar 6780 _skill_lvl 6044
+.localvar 6781 _skill_mod 6045
+.localvar 6782 _skill_mod_lvl 6046
+.localvar 1369 _t_skill 6047
+.localvar 1372 _t_module 6048
+.localvar 5459 _sub 6049
+.localvar 6784 cc_red 6050
+.localvar 410 x1 6051
+.localvar 411 y1 6052
+.localvar 4148 x2 6053
+.localvar 4149 y2 6054
+.localvar 6788 offset_amount 6055
+.localvar 6789 off2 6056
+.localvar 1645 off3 6057
+.localvar 4303 s_w 6058
+.localvar 6790 get_id_weapon 6059
+.localvar 6791 somma_recoil 6060
+.localvar 6792 somma_ergo 6061
+.localvar 6793 somma_acc 6062
+.localvar 6794 somma_damage 6063
+.localvar 6795 somma_reload_speed 6064
+.localvar 571 k 6065
+.localvar 5611 get_id_ 6066
+.localvar 6796 new_recoil 6067
+.localvar 6797 new_ergo 6068
+.localvar 6798 new_acc 6069
+.localvar 6799 new_damage 6070
+.localvar 6800 new_reload_speed 6071
+.localvar 6801 slot_offset 6072
+.localvar 5608 stat_ 6073
+.localvar 6810 t_h 6074
+.localvar 6811 t_m 6075
+.localvar 4515 tt 6076
+.localvar 6812 _fatigue 6077
+.localvar 6813 _diff 6078
+.localvar 6814 _hours_needed 6080
+.localvar 6815 _ora_now 6081
+.localvar 6816 _min_now 6082
+.localvar 6817 h 6083
+.localvar 536 m 6084
+.localvar 6818 tot_m 6085
+.localvar 6819 _ora_next 6086
+.localvar 6821 _tt 6087
+.localvar 6822 _sub_image_dialogo 6088
+.localvar 1386 speak_nearest 6089
+.localvar 1387 speaker_id_ 6090
+.localvar 6824 start_text_x 6091
+.localvar 6825 start_text_y 6092
+.localvar 6826 c_hover 6093
+.localvar 6827 c_not_hover 6094
+.localvar 1445 quanti_text 6095
+.localvar 6828 c_text 6096
+.localvar 6832 ttext 6097
+.localvar 1160 quest_amount 6098
+.localvar 6835 quest_name_ 6099
+.localvar 4884 status 6100
+.localvar 415 j 6101
+.localvar 1166 quest_id_ 6102
+.localvar 6839 _c1 6103
+.localvar 6840 _c2 6104
+.localvar 6843 _total_text 6105
+.localvar 6844 _custom_text 6106
+.localvar 6845 _pre_text 6107
+.localvar 4788 _amount_max 6108
+.localvar 6846 _text_obj 6109
+.localvar 6847 _text_map 6110
+.localvar 6848 _text_obj_to_kill 6111
+.localvar 6850 _map_id 6112
+.localvar 6853 _array_npc 6113
+.localvar 6854 _name_faction 6115
+.localvar 6857 _text_obj_to_collect 6116
+.localvar 6862 _exp_min_amount 6117
+.localvar 6868 reward_amount 6119
+.localvar 6871 exp_amount 6120
+.localvar 6872 rep_amount 6121
+.localvar 1430 dur_price 6122
+.localvar 1425 p_wep1 6123
+.localvar 1426 dur1 6124
+.localvar 1427 wep_price 6125
+.localvar 753 _k 6126
+.localvar 6876 t_len 6127
+.localvar 1449 p_hp 6128
+.localvar 1451 p_wound 6129
+.localvar 1453 p_hp_max 6130
+.localvar 1455 money_hp 6131
+.localvar 1460 money_wound 6132
+.localvar 1462 p_rad 6133
+.localvar 6880 _faction_name 6134
+.localvar 1493 _faction_id 6135
+.localvar 6881 _faction_text_sure 6136
+.localvar 6886 _t_sure 6137
+.localvar 1465 _hunger 6138
+.localvar 1467 _hunger_max 6139
+.localvar 1414 _money 6140
+.localvar 1470 _thirst 6141
+.localvar 1472 _thirst_max 6142
+.localvar 12 a 6143
+.localvar 1482 _bw 6144
+.localvar 1484 _bh 6145
+.localvar 1485 _sx 6146
+.localvar 1487 _sy 6147
+.localvar 6889 _c_rettangolo 6148
+.localvar 6890 _c_text 6149
+.localvar 6891 _bx 6150
+.localvar 6892 _by 6151
+.localvar 5991 _tx 6152
+.localvar 5992 _ty 6153
+.localvar 6894 _draw 6154
+.localvar 1073 _text 6155
+.localvar 1094 c 6156
+.localvar 6899 sub_str 6157
+.localvar 6901 size_ 6159
+.localvar 4072 dir_ 6161
+.localvar 6903 image_max 6162
+.localvar 6904 pda_index 6163
+.localvar 1656 start_x 6164
+.localvar 1657 start_y 6165
+.localvar 6906 space_w 6166
+.localvar 6907 space_h 6167
+.localvar 6908 surf_x 6168
+.localvar 6909 surf_y 6169
+.localvar 6910 surf_space_w 6170
+.localvar 6911 surf_space_h 6171
+.localvar 6912 surf_start_x 6172
+.localvar 6913 surf_start_y 6173
+.localvar 5529 surf_w 6175
+.localvar 5530 surf_h 6176
+.localvar 6915 im_index 6177
+.localvar 6916 l_size 6178
+.localvar 6917 q_pos 6179
+.localvar 1641 ox 6180
+.localvar 1643 oy 6181
+.localvar 1599 mx 6182
+.localvar 6918 my 6183
+.localvar 5855 _size 6184
+.localvar 6919 _col 6185
+.localvar 736 _id 6186
+.localvar 4340 px 6187
+.localvar 4341 py 6188
+.localvar 6921 circle_w 6190
+.localvar 6922 qx 6191
+.localvar 6923 qy 6192
+.localvar 4725 q_id 6193
+.localvar 5474 dd 6194
+.localvar 1377 t 6195
+.localvar 1100 b_h 6196
+.localvar 6927 b_m 6197
+.localvar 6928 h1 6198
+.localvar 4335 h2 6199
+.localvar 6929 m1 6200
+.localvar 6930 m2 6201
+.localvar 6931 ts 6202
+.localvar 6933 day_text 6203
+.localvar 6934 sc_ 6204
+.localvar 6935 c_g 6205
+.localvar 6936 c_hp 6206
+.localvar 6937 hp_x 6207
+.localvar 6938 hp_y 6208
+.localvar 2969 pp 6209
+.localvar 6939 t_y 6210
+.localvar 6940 t_x 6211
+.localvar 6941 ferita 6212
+.localvar 6943 c_sta 6213
+.localvar 1162 sep 6214
+.localvar 6947 q_name_sx 6215
+.localvar 6948 q_name_sy 6216
+.localvar 6949 q_name_max 6217
+.localvar 1164 mm 6218
+.localvar 1165 _entry 6219
+.localvar 6950 name_width 6220
+.localvar 6951 substr 6221
+.localvar 5179 col 6222
+.localvar 1157 _n_active_quest 6223
+.localvar 1158 _clamp_basso 6224
+.localvar 6952 _alpha_down 6225
+.localvar 6953 _alpha_up 6226
+.localvar 6954 line_sx 6227
+.localvar 6955 t_name_x 6228
+.localvar 6956 _text_progress 6229
+.localvar 6957 name_speaker 6230
+.localvar 5216 c2 6231
+.localvar 6960 exp_da_livello 6232
+.localvar 6961 exp_da_livello_survived 6233
+.localvar 6962 exp_da_livello_succ 6234
+.localvar 6963 rect_esp_x 6235
+.localvar 1185 text_h 6236
+.localvar 791 _faction 6238
+.localvar 6968 _qx 6239
+.localvar 6969 _qw 6240
+.localvar 6970 _qh 6241
+.localvar 6971 _rep_value 6242
+.localvar 4263 sy 6243
+.localvar 1224 n_skill 6244
+.localvar 1226 id_ 6245
+.localvar 6973 skill_prima 6247
+.localvar 6974 t_w1 6248
+.localvar 6975 t_w2 6249
+.localvar 6976 t_w 6250
+.localvar 6977 bw 6251
+.localvar 6978 bh 6252
+.localvar 6980 xb 6253
+.localvar 6981 des_x 6254
+.localvar 1275 draw_normal 6255
+.localvar 6983 ttt 6256
+.localvar 6984 quante_spec 6257
+.localvar 6985 ss_id 6258
+.localvar 6987 des_h 6259
+.localvar 6988 _slot_id 6260
+.localvar 6989 get_base_id 6261
+.localvar 1261 list_already_installed 6262
+.localvar 1263 bbase_id 6263
+.localvar 6990 b_id 6264
+.localvar 534 aa 6265
+.localvar 1260 already_installed 6266
+.localvar 1264 ll 6267
+.localvar 1265 confronto 6268
+.localvar 1253 bb_id 6269
+.localvar 7001 _tipi_ammo 6270
+.localvar 7002 subi 6271
+.localvar 7003 key_name 6272
+.localvar 7004 _ammo_name 6273
+.localvar 7005 _ammo_qnt 6274
+.localvar 7007 _t_len 6275
+.localvar 7008 _offset_jam 6276
+.localvar 7010 _can_draw 6277
+.localvar 7012 _chest_id 6278
+.localvar 7013 _show_debug 6279
+.localvar 7015 box_x 6280
+.localvar 7016 box_y 6281
+.localvar 7017 box_w 6282
+.localvar 7018 box_h 6283
+.localvar 3691 get_id 6284
+.localvar 7020 collisione 6285
 
 :[0]
 pushi.e 270
@@ -458,7 +462,7 @@ pushi.e 0
 conv.i.v
 pushi.e 0
 conv.i.v
-pushi.e 1304
+pushi.e 1305
 conv.i.v
 call.i draw_sprite_ext(argc=9)
 popz.v
@@ -614,7 +618,7 @@ pushloc.v local.starty
 pushloc.v local.startx
 pushi.e 0
 conv.i.v
-pushi.e 1944
+pushi.e 1945
 conv.i.v
 call.i draw_sprite(argc=4)
 popz.v
@@ -642,7 +646,7 @@ pushi.e 24
 conv.i.v
 pushi.e 1
 conv.i.v
-pushi.e 1944
+pushi.e 1945
 conv.i.v
 call.i draw_sprite_part_ext(argc=12)
 popz.v
@@ -668,7 +672,7 @@ pushi.e 61
 conv.i.v
 pushi.e 1
 conv.i.v
-pushi.e 1944
+pushi.e 1945
 conv.i.v
 call.i draw_sprite_part(argc=8)
 popz.v
@@ -714,7 +718,7 @@ pushi.e 24
 conv.i.v
 pushi.e 1
 conv.i.v
-pushi.e 1944
+pushi.e 1945
 conv.i.v
 call.i draw_sprite_part_ext(argc=12)
 popz.v
@@ -740,7 +744,7 @@ pushi.e 61
 conv.i.v
 pushi.e 1
 conv.i.v
-pushi.e 1944
+pushi.e 1945
 conv.i.v
 call.i draw_sprite_part(argc=8)
 popz.v
@@ -760,7 +764,7 @@ pushloc.v local._yy
 pushloc.v local._xx
 pushi.e 0
 conv.i.v
-pushi.e 1946
+pushi.e 1947
 conv.i.v
 call.i draw_sprite(argc=4)
 popz.v
@@ -804,13 +808,13 @@ conv.v.b
 bf [37]
 
 :[36]
-push.s "Bleeding ["@6501
+push.s "Bleeding ["@6722
 push.v 90.bleed
 pushi.e 1
 rem.i.v
 call.i string(argc=1)
 add.v.s
-push.s "]"@4678
+push.s "]"@4831
 add.s.v
 pop.v.v local._t
 pushloc.v local._t
@@ -839,7 +843,7 @@ div.d.v
 sub.v.v
 pushi.e 8
 add.i.v
-pushi.e 1936
+pushi.e 1937
 conv.i.v
 call.i gml_Script_scr_draw_box(argc=6)
 popz.v
@@ -973,7 +977,7 @@ push.v [array]self.status_state_now
 conv.v.i
 pushaf.e
 pop.v.v local.t_name
-push.s ""@45
+push.s ""@176
 pop.v.s local.t1
 pushloc.v local.oo
 push.l 0
@@ -994,7 +998,7 @@ pushaf.e
 pushi.e 100
 mul.i.v
 call.i string(argc=1)
-push.s "% stamina regeneration"@6506
+push.s "% stamina regeneration"@6727
 add.s.v
 pop.v.v local.t1
 push.v 90.fatigue
@@ -1018,7 +1022,7 @@ push.v [array]self.status_state_now
 conv.v.i
 pushaf.e
 call.i string(argc=1)
-push.s "kg max weight"@6508
+push.s "kg max weight"@6729
 add.s.v
 pop.v.v local.t1
 push.v 90.energy
@@ -1042,7 +1046,7 @@ push.v [array]self.status_state_now
 conv.v.i
 pushaf.e
 call.i string(argc=1)
-push.s "kg max weight"@6508
+push.s "kg max weight"@6729
 add.s.v
 pop.v.v local.t1
 push.v 90.thirst
@@ -1055,7 +1059,7 @@ cmp.l.v EQ
 bf [50]
 
 :[49]
-push.s ""@45
+push.s ""@176
 pop.v.s local.t1
 push.v 90.radiation_accumulata
 pop.v.v local.t_amount
@@ -1074,7 +1078,7 @@ pop.v.v local.t_amount
 :[52]
 pushloc.v local.t_amount
 call.i string(argc=1)
-push.s "/"@5535
+push.s "/"@5749
 add.s.v
 pushi.e -5
 pushloc.v local.oo
@@ -1084,13 +1088,13 @@ call.i string(argc=1)
 add.v.v
 pop.v.v local.t_value_max
 pushloc.v local.t_name
-push.s " "@1587
+push.s " "@1733
 add.s.v
 pushloc.v local.t_value_max
 add.v.v
 pop.v.v local.t_
 pushloc.v local.t1
-push.s ""@45
+push.s ""@176
 cmp.s.v NEQ
 bf [54]
 
@@ -1136,7 +1140,7 @@ pushi.e 2
 conv.i.d
 div.d.v
 sub.v.v
-pushi.e 1936
+pushi.e 1937
 conv.i.v
 call.i gml_Script_scr_draw_box(argc=6)
 popz.v
@@ -1314,7 +1318,7 @@ pushloc.v local.ty
 pushloc.v local.tx
 pushloc.v local.off
 sub.v.v
-pushi.e 1936
+pushi.e 1937
 conv.i.v
 call.i gml_Script_scr_draw_box(argc=6)
 popz.v
@@ -1399,7 +1403,7 @@ push.v 90.weapon_slot_now
 conv.v.i
 push.v [array]self.ammo_slot
 pop.v.v local.ammo_now
-pushi.e 1252
+pushi.e 1253
 pop.v.i local.s_ammo
 pushloc.v local.s_ammo
 call.i sprite_get_height(argc=1)
@@ -1470,7 +1474,7 @@ bf [81]
 :[80]
 pushi.e 0
 pop.v.b global.ammo_counter_i_fired
-pushi.e 855
+pushi.e 856
 conv.i.v
 pushi.e 0
 conv.i.v
@@ -1478,7 +1482,7 @@ pushloc.v local.camy
 pushloc.v local.camx
 call.i instance_create_depth(argc=4)
 pop.v.v local.ff
-pushi.e 1254
+pushi.e 1255
 pushloc.v local.ff
 pushi.e -9
 pop.v.i [stacktop]self.sprite_index
@@ -1535,7 +1539,7 @@ pushi.e 0
 conv.i.v
 pushi.e 0
 conv.i.v
-pushi.e 1310
+pushi.e 1311
 conv.i.v
 call.i draw_sprite(argc=4)
 popz.v
@@ -1548,7 +1552,7 @@ pushi.e 0
 conv.i.v
 pushi.e 0
 conv.i.v
-pushi.e 1312
+pushi.e 1313
 conv.i.v
 call.i draw_sprite(argc=4)
 popz.v
@@ -1563,7 +1567,7 @@ pushi.e 0
 conv.i.v
 pushi.e 0
 conv.i.v
-pushi.e 1311
+pushi.e 1312
 conv.i.v
 call.i draw_sprite(argc=4)
 popz.v
@@ -1620,7 +1624,7 @@ pushi.e 240
 conv.i.v
 pushi.e 0
 conv.i.v
-pushi.e 1342
+pushi.e 1343
 conv.i.v
 call.i draw_sprite(argc=4)
 popz.v
@@ -1630,7 +1634,7 @@ pushloc.v local.cc
 pushloc.v local.cc
 pushloc.v local.cc
 pushloc.v local.cc
-push.s "DEAL  "@6526
+push.s "DEAL  "@6747
 pushloc.v local.deal
 call.i string(argc=1)
 add.v.s
@@ -1692,7 +1696,7 @@ pushi.e -5
 pushloc.v local.i
 conv.v.i
 push.v [array]self.page_trader_sub
-pushi.e 1316
+pushi.e 1317
 conv.i.v
 call.i draw_sprite_ext(argc=9)
 popz.v
@@ -1749,7 +1753,7 @@ mul.i.v
 add.v.i
 pushi.e 0
 conv.i.v
-pushi.e 1917
+pushi.e 1918
 conv.i.v
 call.i draw_sprite_ext(argc=9)
 popz.v
@@ -1813,7 +1817,7 @@ mul.i.v
 add.v.i
 pushi.e 0
 conv.i.v
-pushi.e 1917
+pushi.e 1918
 conv.i.v
 call.i draw_sprite_ext(argc=9)
 popz.v
@@ -1883,7 +1887,7 @@ mul.i.v
 add.v.i
 pushi.e 0
 conv.i.v
-pushi.e 1917
+pushi.e 1918
 conv.i.v
 call.i draw_sprite_ext(argc=9)
 popz.v
@@ -1947,7 +1951,7 @@ mul.i.v
 add.v.i
 pushi.e 0
 conv.i.v
-pushi.e 1917
+pushi.e 1918
 conv.i.v
 call.i draw_sprite_ext(argc=9)
 popz.v
@@ -1981,7 +1985,7 @@ pushi.e 0
 conv.i.v
 call.i draw_set_color(argc=1)
 popz.v
-push.s "Inventory"@150
+push.s "Inventory"@279
 conv.s.v
 pushi.e 48
 conv.i.v
@@ -1993,7 +1997,7 @@ push.i 16777215
 conv.i.v
 call.i draw_set_color(argc=1)
 popz.v
-push.s "Inventory"@150
+push.s "Inventory"@279
 conv.s.v
 pushi.e 47
 conv.i.v
@@ -2298,10 +2302,10 @@ conv.l.i
 push.v [array]self.kb_now
 call.i gml_Script_scr_key_map(argc=1)
 pop.v.v local.q_headset
-push.s "["@4670
+push.s "["@4823
 pushloc.v local.qs1
 add.v.s
-push.s "]"@4678
+push.s "]"@4831
 add.s.v
 pushi.e 31
 conv.i.v
@@ -2309,10 +2313,10 @@ pushi.e 201
 conv.i.v
 call.i draw_text(argc=3)
 popz.v
-push.s "["@4670
+push.s "["@4823
 pushloc.v local.qs2
 add.v.s
-push.s "]"@4678
+push.s "]"@4831
 add.s.v
 pushi.e 76
 conv.i.v
@@ -2320,10 +2324,10 @@ pushi.e 201
 conv.i.v
 call.i draw_text(argc=3)
 popz.v
-push.s "["@4670
+push.s "["@4823
 pushloc.v local.q_headset
 add.v.s
-push.s "]"@4678
+push.s "]"@4831
 add.s.v
 pushi.e 162
 conv.i.v
@@ -2339,10 +2343,10 @@ pushi.e 1
 conv.i.v
 call.i draw_set_halign(argc=1)
 popz.v
-push.s "["@4670
+push.s "["@4823
 pushloc.v local.qs3
 add.v.s
-push.s "]"@4678
+push.s "]"@4831
 add.s.v
 pushi.e 223
 pushloc.v local.offsety
@@ -2352,10 +2356,10 @@ pushloc.v local.offsetx
 add.v.i
 call.i draw_text(argc=3)
 popz.v
-push.s "["@4670
+push.s "["@4823
 pushloc.v local.qs4
 add.v.s
-push.s "]"@4678
+push.s "]"@4831
 add.s.v
 pushi.e 223
 pushloc.v local.offsety
@@ -2365,10 +2369,10 @@ pushloc.v local.offsetx
 add.v.i
 call.i draw_text(argc=3)
 popz.v
-push.s "["@4670
+push.s "["@4823
 pushloc.v local.qs5
 add.v.s
-push.s "]"@4678
+push.s "]"@4831
 add.s.v
 pushi.e 223
 pushloc.v local.offsety
@@ -2378,10 +2382,10 @@ pushloc.v local.offsetx
 add.v.i
 call.i draw_text(argc=3)
 popz.v
-push.s "["@4670
+push.s "["@4823
 pushloc.v local.qs6
 add.v.s
-push.s "]"@4678
+push.s "]"@4831
 add.s.v
 pushi.e 223
 pushloc.v local.offsety
@@ -2391,10 +2395,10 @@ pushloc.v local.offsetx
 add.v.i
 call.i draw_text(argc=3)
 popz.v
-push.s "["@4670
+push.s "["@4823
 pushloc.v local.qs7
 add.v.s
-push.s "]"@4678
+push.s "]"@4831
 add.s.v
 pushi.e 223
 pushloc.v local.offsety
@@ -2404,10 +2408,10 @@ pushloc.v local.offsetx
 add.v.i
 call.i draw_text(argc=3)
 popz.v
-push.s "["@4670
+push.s "["@4823
 pushloc.v local.qs8
 add.v.s
-push.s "]"@4678
+push.s "]"@4831
 add.s.v
 pushi.e 223
 pushloc.v local.offsety
@@ -2446,7 +2450,7 @@ pushi.e 155
 conv.i.v
 pushi.e 0
 conv.i.v
-pushi.e 1953
+pushi.e 1954
 conv.i.v
 call.i draw_sprite(argc=4)
 popz.v
@@ -2496,7 +2500,7 @@ pushi.e 426
 conv.i.v
 pushi.e 0
 conv.i.v
-pushi.e 1953
+pushi.e 1954
 conv.i.v
 call.i draw_sprite(argc=4)
 popz.v
@@ -2568,7 +2572,7 @@ add.v.v
 pushloc.v local._x
 pushi.e 0
 conv.i.v
-pushi.e 1313
+pushi.e 1314
 conv.i.v
 call.i draw_sprite_ext(argc=9)
 popz.v
@@ -2601,7 +2605,7 @@ add.v.v
 pushloc.v local._x
 pushi.e 0
 conv.i.v
-pushi.e 1313
+pushi.e 1314
 conv.i.v
 call.i draw_sprite_ext(argc=9)
 popz.v
@@ -2677,12 +2681,12 @@ pushloc.v local.c1
 pushloc.v local.c1
 pushglb.v global.player_weight
 call.i string(argc=1)
-push.s "/"@5535
+push.s "/"@5749
 add.s.v
 pushglb.v global.max_weight
 call.i string(argc=1)
 add.v.v
-push.s " kg"@6545
+push.s " kg"@6766
 add.s.v
 pushi.e 243
 conv.i.v
@@ -2895,7 +2899,7 @@ pushi.e 0
 conv.i.v
 pushi.e 0
 conv.i.v
-pushi.e 1322
+pushi.e 1323
 conv.i.v
 call.i draw_sprite(argc=4)
 popz.v
@@ -3035,7 +3039,7 @@ pushi.e 0
 conv.i.v
 call.i draw_set_valign(argc=1)
 popz.v
-push.s "Required items"@6556
+push.s "Required items"@6777
 conv.s.v
 pushi.e 244
 conv.i.v
@@ -3047,11 +3051,11 @@ pushi.e 368
 pop.v.i local.cx
 pushi.e 208
 pop.v.i local.cy
-pushi.e 1329
+pushi.e 1330
 conv.i.v
 call.i sprite_get_width(argc=1)
 pop.v.v local.sw
-pushi.e 1329
+pushi.e 1330
 conv.i.v
 call.i sprite_get_height(argc=1)
 pop.v.v local.sh
@@ -3076,7 +3080,7 @@ pop.v.b local.mouse_inside
 pushloc.v local.cy
 pushloc.v local.cx
 pushloc.v local.mouse_inside
-pushi.e 1329
+pushi.e 1330
 conv.i.v
 call.i draw_sprite(argc=4)
 popz.v
@@ -3092,7 +3096,7 @@ pushi.e 1
 conv.i.v
 call.i draw_set_valign(argc=1)
 popz.v
-push.s "Craft"@6121
+push.s "Craft"@6342
 conv.s.v
 pushloc.v local.cy
 pushloc.v local.cx
@@ -3136,7 +3140,7 @@ pushglb.v global.craft_selected
 conv.v.i
 push.v [array]self.craft_req_module_lvl
 pop.v.v local._skill_mod_lvl
-push.s ""@45
+push.s ""@176
 pop.v.s local._t_skill
 pushloc.v local._skill_req
 pushi.e 0
@@ -3148,17 +3152,17 @@ pushi.e -5
 pushloc.v local._skill_req
 conv.v.i
 push.v [array]self.sk_name
-push.s " lvl "@1242
+push.s " lvl "@1370
 add.s.v
 pushloc.v local._skill_lvl
 call.i string(argc=1)
 add.v.v
-push.s " ; "@1243
+push.s " ; "@1371
 add.s.v
 pop.v.v local._t_skill
 
 :[166]
-push.s ""@45
+push.s ""@176
 pop.v.s local._t_module
 pushloc.v local._skill_mod
 pushi.e -1
@@ -3170,7 +3174,7 @@ pushi.e -5
 pushloc.v local._skill_mod
 conv.v.i
 push.v [array]self.base_name
-push.s " lvl "@1242
+push.s " lvl "@1370
 add.s.v
 pushloc.v local._skill_mod_lvl
 call.i string(argc=1)
@@ -3179,13 +3183,13 @@ pop.v.v local._t_module
 
 :[168]
 pushloc.v local._t_skill
-push.s ""@45
+push.s ""@176
 cmp.s.v NEQ
 bt [170]
 
 :[169]
 pushloc.v local._t_module
-push.s ""@45
+push.s ""@176
 cmp.s.v NEQ
 b [171]
 
@@ -3196,7 +3200,7 @@ push.e 1
 bf [173]
 
 :[172]
-push.s "Requirment:"@6562
+push.s "Requirment:"@6783
 conv.s.v
 pushloc.v local.cy
 pushi.e 37
@@ -3259,7 +3263,7 @@ conv.i.v
 pushi.e 304
 conv.i.v
 pushloc.v local._sub
-pushi.e 1320
+pushi.e 1321
 conv.i.v
 call.i draw_sprite(argc=4)
 popz.v
@@ -3275,7 +3279,7 @@ pushi.e 0
 conv.i.v
 call.i draw_set_valign(argc=1)
 popz.v
-push.s "Track items"@5700
+push.s "Track items"@5914
 conv.s.v
 pushi.e 229
 conv.i.v
@@ -3297,7 +3301,7 @@ pushi.e 0
 conv.i.v
 pushi.e 0
 conv.i.v
-pushi.e 1323
+pushi.e 1324
 conv.i.v
 call.i draw_sprite(argc=4)
 popz.v
@@ -3454,7 +3458,7 @@ pushi.e 0
 conv.i.v
 push.i 16777215
 conv.i.v
-push.s "Installed"@6564
+push.s "Installed"@6785
 conv.s.v
 pushi.e 148
 conv.i.v
@@ -3470,7 +3474,7 @@ pushi.e 0
 conv.i.v
 push.i 16777215
 conv.i.v
-push.s "Available"@6565
+push.s "Available"@6786
 conv.s.v
 pushi.e 148
 conv.i.v
@@ -3544,7 +3548,7 @@ pushi.e 0
 conv.i.v
 push.i 16777215
 conv.i.v
-push.s "REMOVE"@6566
+push.s "REMOVE"@6787
 conv.s.v
 pushloc.v local.yy
 pushloc.v local.xx
@@ -3560,7 +3564,7 @@ pushi.e 2
 pop.v.i local.off2
 pushi.e -1
 pop.v.i local.off3
-pushi.e 1343
+pushi.e 1344
 conv.i.v
 call.i sprite_get_width(argc=1)
 pop.v.v local.s_w
@@ -3948,7 +3952,7 @@ conv.b.v
 pushloc.v local.stat_
 pushi.e 35
 conv.i.v
-push.s "DAMAGE"@6581
+push.s "DAMAGE"@6802
 conv.s.v
 pushloc.v local.y1
 pushloc.v local.slot_offset
@@ -3986,7 +3990,7 @@ conv.b.v
 pushloc.v local.stat_
 pushi.e 10
 conv.i.v
-push.s "ACCURACY"@6582
+push.s "ACCURACY"@6803
 conv.s.v
 pushloc.v local.y1
 pushloc.v local.slot_offset
@@ -4026,7 +4030,7 @@ conv.b.v
 pushloc.v local.stat_
 pushi.e 8
 conv.i.v
-push.s "RECOIL"@6583
+push.s "RECOIL"@6804
 conv.s.v
 pushloc.v local.y1
 pushloc.v local.slot_offset
@@ -4066,7 +4070,7 @@ conv.b.v
 pushloc.v local.stat_
 pushi.e 1
 conv.i.v
-push.s "ERGONOMICS"@6584
+push.s "ERGONOMICS"@6805
 conv.s.v
 pushloc.v local.y1
 pushloc.v local.slot_offset
@@ -4120,7 +4124,7 @@ push.v [array]self.mod_magazine_size
 pop.v.v local.stat_
 
 :[224]
-push.s "MAGAZINE"@6585
+push.s "MAGAZINE"@6806
 conv.s.v
 pushloc.v local.y1
 pushloc.v local.slot_offset
@@ -4164,7 +4168,7 @@ pushi.e 2
 conv.i.v
 call.i draw_set_font(argc=1)
 popz.v
-push.s "Unload the weapon before changing the magazine otherwise you will lose its current ammo"@6586
+push.s "Unload the weapon before changing the magazine otherwise you will lose its current ammo"@6807
 pop.v.s local._t
 pushi.e 140
 conv.i.v
@@ -4183,7 +4187,7 @@ cmp.i.v EQ
 bf [242]
 
 :[228]
-pushi.e 868
+pushi.e 869
 conv.i.v
 call.i instance_exists(argc=1)
 conv.v.b
@@ -4195,7 +4199,7 @@ push.v self.sleep_y
 push.v self.sleep_x
 pushi.e 0
 conv.i.v
-pushi.e 1317
+pushi.e 1318
 conv.i.v
 call.i draw_sprite(argc=4)
 popz.v
@@ -4219,7 +4223,7 @@ pushi.e 0
 conv.i.v
 push.i 16777215
 conv.i.v
-push.s "How long do you want to sleep?"@6587
+push.s "How long do you want to sleep?"@6808
 conv.s.v
 pushi.e 110
 conv.i.v
@@ -4250,7 +4254,7 @@ conv.i.v
 pushi.e 0
 conv.i.v
 pushloc.v local.cc
-push.s "Sleep"@5474
+push.s "Sleep"@5688
 conv.s.v
 push.v self.sleep_b_sleep_y
 pushloc.v local.hh
@@ -4285,7 +4289,7 @@ conv.i.v
 pushi.e 0
 conv.i.v
 pushloc.v local.cc
-push.s "Back"@6588
+push.s "Back"@6809
 conv.s.v
 push.v self.sleep_b_back_y
 pushloc.v local.hh
@@ -4309,7 +4313,7 @@ conv.v.i
 push.v [array]self.sleep_h_x
 pushi.e 0
 conv.i.v
-pushi.e 1318
+pushi.e 1319
 conv.i.v
 call.i draw_sprite(argc=4)
 popz.v
@@ -4334,7 +4338,7 @@ mul.i.v
 call.i string(argc=1)
 pop.v.v local.t_m
 pushloc.v local.t_h
-push.s ":"@6591
+push.s ":"@135
 add.s.v
 pushloc.v local.t_m
 add.v.v
@@ -4450,11 +4454,11 @@ bt [236]
 
 :[241]
 popz.i
-push.s "Time: "@6600
+push.s "Time: "@6820
 pushloc.v local._ora_next
 call.i string(argc=1)
 add.v.s
-push.s ":"@6591
+push.s ":"@135
 add.s.v
 pushloc.v local._min_now
 call.i string(argc=1)
@@ -4576,7 +4580,7 @@ conv.i.v
 pushi.e 0
 conv.i.v
 pushloc.v local._sub_image_dialogo
-pushi.e 1309
+pushi.e 1310
 conv.i.v
 call.i draw_sprite(argc=4)
 popz.v
@@ -4726,7 +4730,7 @@ pushloc.v local.c_text
 pushloc.v local.c_text
 pushloc.v local.c_text
 pushloc.v local.c_text
-push.s "- "@6609
+push.s "- "@6829
 pushloc.v local.speak_nearest
 pushi.e -9
 pushloc.v local.speaker_id_
@@ -4823,7 +4827,7 @@ pushloc.v local.c_text
 pushloc.v local.c_text
 pushloc.v local.c_text
 pushloc.v local.c_text
-push.s "- Back"@6610
+push.s "- Back"@6830
 conv.s.v
 pushloc.v local.start_text_y
 pushloc.v local.i
@@ -4842,7 +4846,7 @@ pushloc.v local.c_text
 pushloc.v local.c_text
 pushloc.v local.c_text
 pushloc.v local.c_text
-push.s "- "@6609
+push.s "- "@6829
 pushloc.v local.speak_nearest
 pushi.e -9
 pushloc.v local.speaker_id_
@@ -4883,7 +4887,7 @@ cmp.b.v EQ
 bf [279]
 
 :[278]
-push.s "No, that's not true...\nIf you find any, bring them to me"@6611
+push.s "No, that's not true...\nIf you find any, bring them to me"@6831
 pop.v.s local.ttext
 pushi.e 215
 conv.i.v
@@ -4899,7 +4903,7 @@ popz.v
 b [280]
 
 :[279]
-push.s "Great! Give them to me!\nThe more you bring the more gear our trader will sell to you"@6613
+push.s "Great! Give them to me!\nThe more you bring the more gear our trader will sell to you"@6833
 pop.v.s local.ttext
 pushi.e 215
 conv.i.v
@@ -4952,7 +4956,7 @@ pushloc.v local.c_text
 pushloc.v local.c_text
 pushloc.v local.c_text
 pushloc.v local.c_text
-push.s "- Back"@6610
+push.s "- Back"@6830
 conv.s.v
 pushloc.v local.start_text_y
 pushloc.v local.start_text_x
@@ -4996,7 +5000,7 @@ pushloc.v local.c_text
 pushloc.v local.c_text
 pushloc.v local.c_text
 pushloc.v local.c_text
-push.s "- Ok, take this"@6614
+push.s "- Ok, take this"@6834
 conv.s.v
 pushloc.v local.start_text_y
 pushi.e 12
@@ -5056,7 +5060,7 @@ pushloc.v local.c_text
 pushloc.v local.c_text
 pushloc.v local.c_text
 pushloc.v local.c_text
-push.s "- Back"@6610
+push.s "- Back"@6830
 conv.s.v
 pushloc.v local.start_text_y
 pushloc.v local.start_text_x
@@ -5126,7 +5130,7 @@ pushloc.v local.c_text
 pushloc.v local.c_text
 pushloc.v local.c_text
 pushloc.v local.c_text
-push.s "- Back"@6610
+push.s "- Back"@6830
 conv.s.v
 pushloc.v local.start_text_y
 pushloc.v local.start_text_x
@@ -5183,7 +5187,7 @@ pushloc.v local.c_text
 pushloc.v local.c_text
 pushloc.v local.c_text
 pushloc.v local.c_text
-push.s "- Back"@6610
+push.s "- Back"@6830
 conv.s.v
 pushloc.v local.start_text_y
 pushloc.v local.start_text_x
@@ -5262,7 +5266,7 @@ push.v [array]self.quest_array
 conv.v.i
 push.v [array]self.quest_name
 pop.v.v local.quest_name_
-push.s " "@1587
+push.s " "@1733
 pop.v.s local.status
 pushi.e 0
 pop.v.i local.j
@@ -5324,12 +5328,12 @@ cmp.v.v EQ
 bf [318]
 
 :[317]
-push.s "[Completed]"@6616
+push.s "[Completed]"@6836
 pop.v.s local.status
 b [319]
 
 :[318]
-push.s "[Active]"@6617
+push.s "[Active]"@6837
 pop.v.s local.status
 
 :[319]
@@ -5364,10 +5368,10 @@ pushloc.v local.c_text
 pushloc.v local.c_text
 pushloc.v local.c_text
 pushloc.v local.c_text
-push.s "- "@6609
+push.s "- "@6829
 pushloc.v local.quest_name_
 add.v.s
-push.s " "@1587
+push.s " "@1733
 add.s.v
 pushloc.v local.status
 add.v.v
@@ -5401,7 +5405,7 @@ pushi.e 0
 conv.i.v
 call.i draw_set_valign(argc=1)
 popz.v
-push.s "I have nothing for you"@6618
+push.s "I have nothing for you"@6838
 conv.s.v
 pushi.e 72
 conv.i.v
@@ -5467,7 +5471,7 @@ mul.i.v
 add.v.i
 pushi.e 0
 conv.i.v
-pushi.e 1917
+pushi.e 1918
 conv.i.v
 call.i draw_sprite_ext(argc=9)
 popz.v
@@ -5547,7 +5551,7 @@ pushloc.v local._c1
 pushloc.v local._c1
 pushloc.v local._c1
 pushloc.v local._c1
-push.s "OBJECTIVE"@6621
+push.s "OBJECTIVE"@6841
 conv.s.v
 push.v self.talk_quest_obj_y
 push.v self.talk_quest_obj_x
@@ -5564,7 +5568,7 @@ pushloc.v local._c2
 pushloc.v local._c2
 pushloc.v local._c2
 pushloc.v local._c2
-push.s "TEXT"@6622
+push.s "TEXT"@6842
 conv.s.v
 push.v self.talk_quest_text_y
 push.v self.talk_quest_text_x
@@ -5603,7 +5607,7 @@ cmp.i.v EQ
 bf [385]
 
 :[348]
-push.s ""@45
+push.s ""@176
 pop.v.s local._total_text
 pushglb.v global.which_quest_is_shown
 pop.v.v local.quest_id_
@@ -5621,7 +5625,7 @@ bf [384]
 :[350]
 pushi.e 0
 pop.v.b local._custom_text
-push.s "- "@6609
+push.s "- "@6829
 pushi.e -5
 pushloc.v local.quest_id_
 conv.v.i
@@ -5639,12 +5643,12 @@ pushloc.v local.i
 conv.v.i
 pushaf.e
 call.i string(argc=1)
-push.s " "@1587
+push.s " "@1733
 add.s.v
 pop.v.v local._amount_max
-push.s ""@45
+push.s ""@176
 pop.v.s local._text_obj
-push.s ""@45
+push.s ""@176
 pop.v.s local._text_map
 pushi.e -5
 pushloc.v local.quest_id_
@@ -5653,7 +5657,7 @@ push.v [arraypushaf]self.quest_text_obj
 pushloc.v local.i
 conv.v.i
 pushaf.e
-push.s ""@45
+push.s ""@176
 cmp.s.v EQ
 bf [380]
 
@@ -5670,11 +5674,11 @@ cmp.l.v EQ
 bf [359]
 
 :[352]
-push.s ""@45
+push.s ""@176
 pop.v.s local._text_map
-push.s ""@45
+push.s ""@176
 pop.v.s local._text_obj_to_kill
-push.s "Eliminate "@6629
+push.s "Eliminate "@6849
 pop.v.s local._pre_text
 pushi.e 1
 pop.v.b local._custom_text
@@ -5692,19 +5696,19 @@ cmp.i.v NEQ
 bf [354]
 
 :[353]
-push.s "in the "@6631
+push.s "in the "@6851
 pushi.e -1
 pushloc.v local._map_id
 conv.v.i
 push.v [array]self.map_nome
 add.v.s
-push.s " "@1587
+push.s " "@1733
 add.s.v
 pop.v.v local._text_map
 b [355]
 
 :[354]
-push.s "in any map"@6632
+push.s "in any map"@6852
 pop.v.s local._text_map
 
 :[355]
@@ -5736,7 +5740,7 @@ pushi.e -1
 pushloc.v local._npc_id
 conv.v.i
 push.v [array]self.npc_name
-push.s " "@1587
+push.s " "@1733
 add.s.v
 pop.v.v local._text_obj_to_kill
 b [358]
@@ -5751,7 +5755,7 @@ conv.v.i
 pushaf.e
 pop.v.v local._name_faction
 pushloc.v local._name_faction
-push.s " "@1587
+push.s " "@1733
 add.s.v
 pop.v.v local._text_obj_to_kill
 
@@ -5778,15 +5782,15 @@ cmp.l.v EQ
 bf [361]
 
 :[360]
-push.s ""@45
+push.s ""@176
 pop.v.s local._text_map
-push.s ""@45
+push.s ""@176
 pop.v.s local._text_obj_to_kill
-push.s "Eliminate the target "@6635
+push.s "Eliminate the target "@6855
 pop.v.s local._pre_text
 pushi.e 1
 pop.v.b local._custom_text
-push.s "in the "@6631
+push.s "in the "@6851
 pushi.e -1
 pushi.e -5
 pushloc.v local.quest_id_
@@ -5798,7 +5802,7 @@ pushaf.e
 conv.v.i
 push.v [array]self.map_nome
 add.v.s
-push.s " "@1587
+push.s " "@1733
 add.s.v
 pop.v.v local._text_map
 pushloc.v local._pre_text
@@ -5821,7 +5825,7 @@ bf [363]
 :[362]
 pushi.e 1
 pop.v.b local._custom_text
-push.s "Collect "@6636
+push.s "Collect "@6856
 pop.v.s local._pre_text
 pushi.e -1
 pushi.e -5
@@ -5833,7 +5837,7 @@ conv.v.i
 pushaf.e
 conv.v.i
 push.v [array]self.item_name
-push.s " "@1587
+push.s " "@1733
 add.s.v
 pop.v.v local._text_obj_to_collect
 pushloc.v local._pre_text
@@ -5858,7 +5862,7 @@ bf [365]
 :[364]
 pushi.e 1
 pop.v.b local._custom_text
-push.s "Collect "@6636
+push.s "Collect "@6856
 pop.v.s local._pre_text
 pushi.e -1
 pushi.e -5
@@ -5870,7 +5874,7 @@ conv.v.i
 pushaf.e
 conv.v.i
 push.v [array]self.item_name
-push.s " "@1587
+push.s " "@1733
 add.s.v
 pop.v.v local._text_obj_to_collect
 pushloc.v local._pre_text
@@ -5895,7 +5899,7 @@ bf [370]
 :[366]
 pushi.e 1
 pop.v.b local._custom_text
-push.s "Survive "@6638
+push.s "Survive "@6858
 pop.v.s local._pre_text
 pushi.e -5
 pushloc.v local.quest_id_
@@ -5909,7 +5913,7 @@ cmp.i.v NEQ
 bf [368]
 
 :[367]
-push.s "in the "@6631
+push.s "in the "@6851
 pushi.e -1
 pushi.e -5
 pushloc.v local.quest_id_
@@ -5921,20 +5925,20 @@ pushaf.e
 conv.v.i
 push.v [array]self.map_nome
 add.v.s
-push.s " "@1587
+push.s " "@1733
 add.s.v
 pop.v.v local._text_map
 b [369]
 
 :[368]
-push.s "in any map"@6632
+push.s "in any map"@6852
 pop.v.s local._text_map
 
 :[369]
 pushloc.v local._pre_text
 pushloc.v local._amount_max
 add.v.v
-push.s "times "@6639
+push.s "times "@6859
 add.s.v
 pushloc.v local._text_map
 add.v.v
@@ -5955,7 +5959,7 @@ bf [375]
 :[371]
 pushi.e 1
 pop.v.b local._custom_text
-push.s "Survive "@6638
+push.s "Survive "@6858
 pop.v.s local._pre_text
 pushi.e -5
 pushloc.v local.quest_id_
@@ -5969,7 +5973,7 @@ cmp.i.v NEQ
 bf [373]
 
 :[372]
-push.s "in the "@6631
+push.s "in the "@6851
 pushi.e -1
 pushi.e -5
 pushloc.v local.quest_id_
@@ -5981,17 +5985,17 @@ pushaf.e
 conv.v.i
 push.v [array]self.map_nome
 add.v.s
-push.s " "@1587
+push.s " "@1733
 add.s.v
 pop.v.v local._text_map
 b [374]
 
 :[373]
-push.s "in any map"@6632
+push.s "in any map"@6852
 pop.v.s local._text_map
 
 :[374]
-push.s " with at least "@6640
+push.s " with at least "@6860
 pushi.e -5
 pushloc.v local.quest_id_
 conv.v.i
@@ -6001,13 +6005,13 @@ conv.v.i
 pushaf.e
 call.i string(argc=1)
 add.v.s
-push.s " exp made"@6641
+push.s " exp made"@6861
 add.s.v
 pop.v.v local._exp_min_amount
 pushloc.v local._pre_text
 pushloc.v local._amount_max
 add.v.v
-push.s "times "@6639
+push.s "times "@6859
 add.s.v
 pushloc.v local._text_map
 add.v.v
@@ -6030,7 +6034,7 @@ bf [380]
 :[376]
 pushi.e 1
 pop.v.b local._custom_text
-push.s "Survive "@6638
+push.s "Survive "@6858
 pop.v.s local._pre_text
 pushi.e -5
 pushloc.v local.quest_id_
@@ -6044,7 +6048,7 @@ cmp.i.v NEQ
 bf [378]
 
 :[377]
-push.s "in the "@6631
+push.s "in the "@6851
 pushi.e -1
 pushi.e -5
 pushloc.v local.quest_id_
@@ -6056,17 +6060,17 @@ pushaf.e
 conv.v.i
 push.v [array]self.map_nome
 add.v.s
-push.s " "@1587
+push.s " "@1733
 add.s.v
 pop.v.v local._text_map
 b [379]
 
 :[378]
-push.s "in any map"@6632
+push.s "in any map"@6852
 pop.v.s local._text_map
 
 :[379]
-push.s " with at least "@6640
+push.s " with at least "@6860
 pushi.e -5
 pushloc.v local.quest_id_
 conv.v.i
@@ -6076,13 +6080,13 @@ conv.v.i
 pushaf.e
 call.i string(argc=1)
 add.v.s
-push.s " roubles made"@6643
+push.s " roubles made"@6863
 add.s.v
 pop.v.v local._exp_min_amount
 pushloc.v local._pre_text
 pushloc.v local._amount_max
 add.v.v
-push.s "times "@6639
+push.s "times "@6859
 add.s.v
 pushloc.v local._text_map
 add.v.v
@@ -6091,7 +6095,7 @@ add.v.v
 pop.v.v local._text_obj
 
 :[380]
-push.s ""@45
+push.s ""@176
 pop.v.s local.tt
 pushloc.v local._custom_text
 pushi.e 1
@@ -6099,16 +6103,16 @@ cmp.b.v EQ
 bf [382]
 
 :[381]
-push.s "- "@6609
+push.s "- "@6829
 pushloc.v local._text_obj
 add.v.s
-push.s ". "@6644
+push.s ". "@6864
 add.s.v
 pop.v.v local.tt
 b [383]
 
 :[382]
-push.s "- "@6609
+push.s "- "@6829
 pushi.e -5
 pushloc.v local.quest_id_
 conv.v.i
@@ -6117,13 +6121,13 @@ pushloc.v local.i
 conv.v.i
 pushaf.e
 add.v.s
-push.s ". "@6644
+push.s ". "@6864
 add.s.v
 pop.v.v local.tt
 
 :[383]
 pushloc.v local.tt
-push.s "\n"@6645
+push.s "\n"@6865
 add.s.v
 pop.v.v local.tt
 pushloc.v local._total_text
@@ -6179,7 +6183,7 @@ pushloc.v local.c_text
 pushloc.v local.c_text
 pushloc.v local.c_text
 pushloc.v local.c_text
-push.s "- Back"@6610
+push.s "- Back"@6830
 conv.s.v
 pushloc.v local.start_text_y
 pushloc.v local.start_text_x
@@ -6217,7 +6221,7 @@ pushloc.v local.c_text
 pushloc.v local.c_text
 pushloc.v local.c_text
 pushloc.v local.c_text
-push.s "- Accept"@6646
+push.s "- Accept"@6866
 conv.s.v
 pushloc.v local.start_text_y
 pushi.e 12
@@ -6257,7 +6261,7 @@ pushloc.v local.c_text
 pushloc.v local.c_text
 pushloc.v local.c_text
 pushloc.v local.c_text
-push.s "- Gain reward"@6647
+push.s "- Gain reward"@6867
 conv.s.v
 pushloc.v local.start_text_y
 pushi.e 24
@@ -6276,11 +6280,11 @@ push.v [array]self.sk_k
 mul.v.v
 call.i round(argc=1)
 pop.v.v local.reward_amount
-push.s "Reward: "@6649
+push.s "Reward: "@6869
 pushloc.v local.reward_amount
 call.i string(argc=1)
 add.v.s
-push.s " Roubles"@6650
+push.s " Roubles"@6870
 add.s.v
 pushloc.v local.start_text_y
 pushi.e 20
@@ -6305,7 +6309,7 @@ conv.v.i
 push.v [array]self.quest_rep
 call.i round(argc=1)
 pop.v.v local.rep_amount
-push.s "Exp: "@6653
+push.s "Exp: "@6873
 pushloc.v local.exp_amount
 call.i string(argc=1)
 add.v.s
@@ -6329,7 +6333,7 @@ pushi.e 0
 conv.i.v
 call.i draw_set_valign(argc=1)
 popz.v
-push.s "Choose an item as reward"@6654
+push.s "Choose an item as reward"@6874
 conv.s.v
 pushi.e 146
 conv.i.v
@@ -6383,7 +6387,7 @@ pushloc.v local.c_text
 pushloc.v local.c_text
 pushloc.v local.c_text
 pushloc.v local.c_text
-push.s "- Back"@6610
+push.s "- Back"@6830
 conv.s.v
 pushloc.v local.start_text_y
 pushloc.v local.start_text_x
@@ -6428,7 +6432,7 @@ call.i round(argc=1)
 pop.v.v local.dur_price
 
 :[401]
-push.s "- Repair armor for "@6655
+push.s "- Repair armor for "@6875
 pushloc.v local.dur_price
 call.i string(argc=1)
 add.v.s
@@ -6532,7 +6536,7 @@ pushloc.v local.c_text
 pushloc.v local.c_text
 pushloc.v local.c_text
 pushloc.v local.c_text
-push.s "- Back"@6610
+push.s "- Back"@6830
 conv.s.v
 pushloc.v local.start_text_y
 pushloc.v local.start_text_x
@@ -6553,11 +6557,11 @@ pushglb.v global.heal_hp_k
 mul.v.v
 call.i floor(argc=1)
 pop.v.v local.money_hp
-push.s "- Heal health for "@6657
+push.s "- Heal health for "@6877
 pushloc.v local.money_hp
 call.i string(argc=1)
 add.v.s
-push.s " Roubles"@6650
+push.s " Roubles"@6870
 add.s.v
 pop.v.v local.t_
 pushloc.v local.t_
@@ -6612,11 +6616,11 @@ pushglb.v global.heal_wound_k
 mul.v.v
 call.i floor(argc=1)
 pop.v.v local.money_wound
-push.s "- Heal wounds for "@6658
+push.s "- Heal wounds for "@6878
 pushloc.v local.money_wound
 call.i string(argc=1)
 add.v.s
-push.s " Roubles"@6650
+push.s " Roubles"@6870
 add.s.v
 pop.v.v local.t_
 pushloc.v local.t_
@@ -6671,11 +6675,11 @@ pushglb.v global.heal_rad_k
 mul.v.v
 call.i floor(argc=1)
 pop.v.v local.money_wound
-push.s "- Heal radiation for "@6659
+push.s "- Heal radiation for "@6879
 pushloc.v local.money_wound
 call.i string(argc=1)
 add.v.s
-push.s " Roubles"@6650
+push.s " Roubles"@6870
 add.s.v
 pop.v.v local.t_
 pushloc.v local.t_
@@ -6777,17 +6781,17 @@ pushloc.v local.c_text
 pushloc.v local.c_text
 pushloc.v local.c_text
 pushloc.v local.c_text
-push.s "- Back"@6610
+push.s "- Back"@6830
 conv.s.v
 pushloc.v local.start_text_y
 pushloc.v local.start_text_x
 call.i draw_text_color(argc=8)
 popz.v
-push.s ""@45
+push.s ""@176
 pop.v.s local._faction_name
 pushi.e 0
 pop.v.i local._faction_id
-push.s ""@45
+push.s ""@176
 pop.v.s local._faction_text_sure
 pushi.e -1
 pushloc.v local.speak_nearest
@@ -6800,11 +6804,11 @@ cmp.l.v EQ
 bf [425]
 
 :[424]
-push.s "Green Army"@3430
+push.s "Green Army"@3582
 pop.v.s local._faction_name
 push.l 2
 pop.v.l local._faction_id
-push.s "\nCrimson Corporation will be set to 0 and you can no longer be neutral with them.\nYou can no longer be allied with Loners"@6662
+push.s "\nCrimson Corporation will be set to 0 and you can no longer be neutral with them.\nYou can no longer be allied with Loners"@6882
 pop.v.s local._faction_text_sure
 
 :[425]
@@ -6819,15 +6823,15 @@ cmp.l.v EQ
 bf [427]
 
 :[426]
-push.s "Crimson Corporation"@6297
+push.s "Crimson Corporation"@6518
 pop.v.s local._faction_name
 push.l 3
 pop.v.l local._faction_id
-push.s "\nGreen Army will be set to 0 and you can no longer be neutral with them.\nYou can no longer be allied with Loners"@6663
+push.s "\nGreen Army will be set to 0 and you can no longer be neutral with them.\nYou can no longer be allied with Loners"@6883
 pop.v.s local._faction_text_sure
 
 :[427]
-push.s "- Join "@6664
+push.s "- Join "@6884
 pushloc.v local._faction_name
 add.v.s
 pop.v.v local._t
@@ -6880,7 +6884,7 @@ pushi.e 0
 conv.i.v
 call.i draw_set_valign(argc=1)
 popz.v
-push.s "Are you sure?\nBeing part of one faction will give you access to unique equipment but will change your relationship with the others.\nIt is a permanent choice so think carefully"@6665
+push.s "Are you sure?\nBeing part of one faction will give you access to unique equipment but will change your relationship with the others.\nIt is a permanent choice so think carefully"@6885
 pop.v.s local._t_sure
 pushi.e 215
 conv.i.v
@@ -6941,7 +6945,7 @@ pushloc.v local.c_text
 pushloc.v local.c_text
 pushloc.v local.c_text
 pushloc.v local.c_text
-push.s "- Back"@6610
+push.s "- Back"@6830
 conv.s.v
 pushloc.v local.start_text_y
 pushloc.v local.start_text_x
@@ -6954,15 +6958,15 @@ pop.v.v local._hunger_max
 pushloc.v local._hunger_max
 pushloc.v local._hunger
 sub.v.v
-pushi.e 30
-mul.i.v
+pushglb.v global.refill_hunger_k
+mul.v.v
 call.i floor(argc=1)
 pop.v.v local._money
-push.s "- Refill hunger for "@6667
+push.s "- Refill hunger for "@6887
 pushloc.v local._money
 call.i string(argc=1)
 add.v.s
-push.s " Roubles"@6650
+push.s " Roubles"@6870
 add.s.v
 pop.v.v local.t_
 pushloc.v local.t_
@@ -7013,15 +7017,15 @@ pop.v.v local._thirst_max
 pushloc.v local._thirst_max
 pushloc.v local._thirst
 sub.v.v
-pushi.e 40
-mul.i.v
+pushglb.v global.refill_thirst_k
+mul.v.v
 call.i floor(argc=1)
 pop.v.v local._money
-push.s "- Quench thirst for "@6668
+push.s "- Quench thirst for "@6888
 pushloc.v local._money
 call.i string(argc=1)
 add.v.s
-push.s " Roubles"@6650
+push.s " Roubles"@6870
 add.s.v
 pop.v.v local.t_
 pushloc.v local.t_
@@ -7091,7 +7095,7 @@ pushglb.v global.dialogue_type_text_box_h
 pushglb.v global.dialogue_type_text_box_w
 pushglb.v global.dialogue_type_text_box_starty
 pushglb.v global.dialogue_type_text_box_startx
-pushi.e 1933
+pushi.e 1934
 conv.i.v
 call.i gml_Script_scr_draw_box(argc=6)
 popz.v
@@ -7278,11 +7282,166 @@ popz.v
 
 :[449]
 push.v 90.state
-push.i gml_Script_scr_player_new_game
+push.i gml_Script_scr_player_state_teleport
 cmp.i.v EQ
-bf [457]
+bf [459]
 
 :[450]
+pushi.e 220
+pop.v.i local._bw
+pushi.e 120
+pop.v.i local._bh
+pushi.e 240
+pushloc.v local._bw
+pushi.e 2
+conv.i.d
+div.d.v
+sub.v.i
+pop.v.v local._bx
+pushi.e 135
+pushloc.v local._bh
+pushi.e 2
+conv.i.d
+div.d.v
+sub.v.i
+pop.v.v local._by
+pushi.e 1
+conv.i.v
+pushloc.v local._bh
+pushloc.v local._bw
+pushloc.v local._by
+pushloc.v local._bx
+pushi.e 1935
+conv.i.v
+call.i gml_Script_scr_draw_box(argc=6)
+popz.v
+pushi.e 2
+conv.i.v
+call.i draw_set_font(argc=1)
+popz.v
+pushi.e 1
+conv.i.v
+call.i draw_set_halign(argc=1)
+popz.v
+pushi.e 0
+conv.i.v
+call.i draw_set_valign(argc=1)
+popz.v
+push.s "Teleport to:"@6893
+conv.s.v
+pushglb.v global.tp_to_npc_starty
+pushi.e 20
+sub.i.v
+pushi.e 240
+conv.i.v
+call.i draw_text(argc=3)
+popz.v
+pushi.e 2
+conv.i.v
+call.i draw_set_font(argc=1)
+popz.v
+pushi.e 0
+conv.i.v
+call.i draw_set_halign(argc=1)
+popz.v
+pushi.e 0
+conv.i.v
+call.i draw_set_valign(argc=1)
+popz.v
+pushi.e 0
+pop.v.i local.i
+
+:[451]
+pushloc.v local.i
+pushglb.v global.tp_to_npc_x
+call.i array_length(argc=1)
+cmp.v.v LT
+bf [459]
+
+:[452]
+pushglb.v global.tp_to_npc_startx
+pop.v.v local._tx
+pushglb.v global.tp_to_npc_starty
+pop.v.v local._ty
+pushi.e 12
+pop.v.i local._h
+push.i 16777215
+pop.v.i local._c
+pushloc.v local.i
+pushglb.v global.tp_to_npc_hover
+cmp.v.v EQ
+bf [454]
+
+:[453]
+push.i 9564927
+pop.v.i local._c
+
+:[454]
+pushi.e 1
+pop.v.b local._draw
+push.s "["@4823
+pushloc.v local.i
+pushi.e 1
+add.i.v
+call.i string(argc=1)
+add.v.s
+push.s "] - "@6895
+add.s.v
+pushi.e -5
+pushloc.v local.i
+conv.v.i
+push.v [array]self.tp_to_npc_name
+add.v.v
+pop.v.v local._text
+pushi.e -5
+pushloc.v local.i
+conv.v.i
+push.v [array]self.tp_to_npc_can_tp
+pushi.e 0
+cmp.b.v EQ
+bf [456]
+
+:[455]
+pushi.e 0
+pop.v.b local._draw
+
+:[456]
+pushloc.v local._draw
+pushi.e 1
+cmp.b.v EQ
+bf [458]
+
+:[457]
+pushi.e 1
+conv.i.v
+pushloc.v local._c
+pushloc.v local._c
+pushloc.v local._c
+pushloc.v local._c
+pushloc.v local._text
+pushloc.v local._ty
+pushloc.v local._h
+pushloc.v local.i
+mul.v.v
+add.v.v
+pushloc.v local._tx
+call.i draw_text_color(argc=8)
+popz.v
+
+:[458]
+push.v local.i
+push.e 1
+add.i.v
+pop.v.v local.i
+b [451]
+
+:[459]
+push.v 90.state
+push.i gml_Script_scr_player_new_game
+cmp.i.v EQ
+bf [467]
+
+:[460]
 pushi.e 0
 pop.v.i local.c
 pushi.e 0
@@ -7332,7 +7491,7 @@ pushi.e 0
 conv.i.v
 call.i draw_set_valign(argc=1)
 popz.v
-push.s "[SPACE] skip the introduction"@6671
+push.s "[SPACE] skip the introduction"@6896
 conv.s.v
 pushi.e 25
 conv.i.v
@@ -7347,10 +7506,10 @@ conv.v.i
 push.v [array]self.tut_text
 call.i string_length(argc=1)
 cmp.v.v GTE
-bf [454]
+bf [464]
 
-:[451]
-push.s "[LMB] next page"@6672
+:[461]
+push.s "[LMB] next page"@6897
 pop.v.s local.t_
 push.v self.tut_text_page
 push.v self.tut_text
@@ -7358,13 +7517,13 @@ call.i array_length_1d(argc=1)
 pushi.e 1
 sub.i.v
 cmp.v.v GTE
-bf [453]
+bf [463]
 
-:[452]
-push.s "[LMB] exit"@6673
+:[462]
+push.s "[LMB] exit"@6898
 pop.v.s local.t_
 
-:[453]
+:[463]
 pushloc.v local.t_
 pushi.e 255
 conv.i.v
@@ -7373,7 +7532,7 @@ conv.i.v
 call.i draw_text(argc=3)
 popz.v
 
-:[454]
+:[464]
 push.v self.tut_text_counter
 pushi.e -1
 push.v self.tut_text_page
@@ -7381,15 +7540,15 @@ conv.v.i
 push.v [array]self.tut_text
 call.i string_length(argc=1)
 cmp.v.v LT
-bf [456]
+bf [466]
 
-:[455]
+:[465]
 push.v self.tut_text_counter
 push.d 0.75
 add.d.v
 pop.v.v self.tut_text_counter
 
-:[456]
+:[466]
 push.v self.tut_text_counter
 call.i ceil(argc=1)
 pushi.e 1
@@ -7416,64 +7575,64 @@ conv.i.v
 call.i draw_text_ext(argc=5)
 popz.v
 
-:[457]
+:[467]
 pushbltn.v builtin.room
 pushi.e 16
 cmp.i.v EQ
-bf [470]
+bf [480]
 
-:[458]
+:[468]
 pushi.e 90
 conv.i.v
 call.i instance_exists(argc=1)
 conv.v.b
-bf [460]
+bf [470]
 
-:[459]
+:[469]
 pushi.e 18
 conv.i.v
 call.i instance_exists(argc=1)
 conv.v.b
-b [461]
+b [471]
 
-:[460]
+:[470]
 push.e 0
 
-:[461]
-bf [470]
+:[471]
+bf [480]
 
-:[462]
+:[472]
 push.v 90.state
 push.i gml_Script_scr_player_state_move
 cmp.i.v EQ
-bf [470]
+bf [480]
 
-:[463]
+:[473]
 push.v 90.y
 push.v 18.map_height
 cmp.v.v LT
-bf [470]
+bf [480]
 
-:[464]
+:[474]
 pushglb.v global.list_minimap_marker_x
 call.i ds_list_size(argc=1)
 pop.v.v local.size_
 pushloc.v local.size_
 pushi.e 0
 cmp.i.v GT
-bf [470]
+bf [480]
 
-:[465]
+:[475]
 pushi.e 0
 pop.v.i local.i
 
-:[466]
+:[476]
 pushloc.v local.i
 pushloc.v local.size_
 cmp.v.v LT
-bf [470]
+bf [480]
 
-:[467]
+:[477]
 pushloc.v local.i
 pushglb.v global.list_minimap_marker_x
 call.i ds_list_find_value(argc=2)
@@ -7502,9 +7661,9 @@ pushi.e 25
 dup.i 0
 push.i 0
 cmp.i.i LTE
-bt [469]
+bt [479]
 
-:[468]
+:[478]
 push.v local.x1
 pushloc.v local.dir_
 pushi.e 15
@@ -7545,9 +7704,9 @@ push.i 1
 sub.i.i
 dup.i 0
 conv.i.b
-bt [468]
+bt [478]
 
-:[469]
+:[479]
 popz.i
 pushi.e 1
 conv.i.v
@@ -7568,7 +7727,7 @@ pushloc.v local.camx
 sub.v.v
 pushi.e 0
 conv.i.v
-pushi.e 1274
+pushi.e 1275
 conv.i.v
 call.i draw_sprite_ext(argc=9)
 popz.v
@@ -7576,15 +7735,15 @@ push.v local.i
 push.e 1
 add.i.v
 pop.v.v local.i
-b [466]
+b [476]
 
-:[470]
+:[480]
 push.v 90.state
 push.i gml_Script_scr_player_map
 cmp.i.v EQ
-bf [567]
+bf [577]
 
-:[471]
+:[481]
 push.d 222.5
 pop.v.d local.xx
 push.d 126.5
@@ -7595,21 +7754,21 @@ pushi.e 0
 conv.i.v
 pushi.e 0
 conv.i.v
-pushi.e 1269
+pushi.e 1270
 conv.i.v
 call.i draw_sprite(argc=4)
 popz.v
 push.v self.pda_loading_map_now
 push.v self.pda_loading_map_max
 cmp.v.v LT
-bf [473]
+bf [483]
 
-:[472]
+:[482]
 push.v self.pda_loading_map_now
 push.e 1
 add.i.v
 pop.v.v self.pda_loading_map_now
-pushi.e 1272
+pushi.e 1273
 conv.i.v
 call.i sprite_get_number(argc=1)
 pushi.e 1
@@ -7625,7 +7784,7 @@ pop.v.v local.pda_index
 pushloc.v local.yy
 pushloc.v local.xx
 pushloc.v local.pda_index
-pushi.e 1272
+pushi.e 1273
 conv.i.v
 call.i draw_sprite(argc=4)
 popz.v
@@ -7647,7 +7806,7 @@ pushi.e 3
 conv.i.v
 pushi.e 3
 conv.i.v
-push.s "ACQUIRING GPS SIGNAL"@6680
+push.s "ACQUIRING GPS SIGNAL"@6905
 conv.s.v
 pushloc.v local.yy
 pushi.e 32
@@ -7656,13 +7815,13 @@ pushloc.v local.xx
 call.i draw_text_transformed(argc=6)
 popz.v
 
-:[473]
+:[483]
 push.v self.pda_loading_map_now
 push.v self.pda_loading_map_max
 cmp.v.v GTE
-bf [566]
+bf [576]
 
-:[474]
+:[484]
 push.v self.pda_loading_map_now
 push.e 1
 add.i.v
@@ -7670,9 +7829,9 @@ pop.v.v self.pda_loading_map_now
 pushbltn.v builtin.room
 pushi.e 16
 cmp.i.v EQ
-bf [563]
+bf [573]
 
-:[475]
+:[485]
 pushi.e 57
 pop.v.i local.start_x
 pushi.e 37
@@ -7693,7 +7852,7 @@ pushloc.v local.start_y
 pushloc.v local.start_x
 pushi.e 0
 conv.i.v
-pushi.e 1962
+pushi.e 1963
 conv.i.v
 call.i draw_sprite_ext(argc=9)
 popz.v
@@ -7720,9 +7879,9 @@ pop.v.i local.surf_start_y
 pushloc.v local.surf_x
 pushloc.v local.start_x
 cmp.v.v LT
-bf [477]
+bf [487]
 
-:[476]
+:[486]
 pushglb.v global.minimap_off_x
 call.i abs(argc=1)
 pop.v.v local.surf_start_x
@@ -7731,13 +7890,13 @@ pop.v.v local.surf_x
 pushloc.v local.space_w
 pop.v.v local.surf_space_w
 
-:[477]
+:[487]
 pushloc.v local.surf_y
 pushloc.v local.start_y
 cmp.v.v LT
-bf [479]
+bf [489]
 
-:[478]
+:[488]
 pushglb.v global.minimap_off_y
 call.i abs(argc=1)
 pop.v.v local.surf_start_y
@@ -7746,14 +7905,14 @@ pop.v.v local.surf_y
 pushloc.v local.space_h
 pop.v.v local.surf_space_h
 
-:[479]
+:[489]
 push.v 31.surface_map_dinamica
 call.i surface_exists(argc=1)
 conv.v.b
 not.b
-bf [510]
+bf [520]
 
-:[480]
+:[490]
 pushbltn.v builtin.room_width
 pushi.e 16
 rem.i.v
@@ -7787,20 +7946,20 @@ pushglb.v global.list_intresting_id
 call.i ds_list_size(argc=1)
 pushi.e 0
 cmp.i.v GT
-bf [484]
+bf [494]
 
-:[481]
+:[491]
 pushi.e 0
 pop.v.i local.i
 
-:[482]
+:[492]
 pushloc.v local.i
 pushglb.v global.list_intresting_id
 call.i ds_list_size(argc=1)
 cmp.v.v LT
-bf [484]
+bf [494]
 
-:[483]
+:[493]
 pushloc.v local.i
 pushglb.v global.list_intresting_id
 call.i ds_list_find_value(argc=2)
@@ -7837,9 +7996,9 @@ push.v local.i
 push.e 1
 add.i.v
 pop.v.v local.i
-b [482]
+b [492]
 
-:[484]
+:[494]
 pushglb.v global.list_obj_marker_x
 call.i ds_list_size(argc=1)
 pop.v.v local.l_size
@@ -7848,13 +8007,13 @@ pop.v.i local.oo
 pushi.e 0
 pop.v.i local.i
 
-:[485]
+:[495]
 pushloc.v local.i
 pushloc.v local.l_size
 cmp.v.v LT
-bf [489]
+bf [499]
 
-:[486]
+:[496]
 pushloc.v local.i
 pushglb.v global.list_obj_marker_quest_pos
 call.i ds_list_find_value(argc=2)
@@ -7865,9 +8024,9 @@ conv.v.i
 push.v [array]self.save_quest_status
 pushi.e 1
 cmp.i.v EQ
-bf [488]
+bf [498]
 
-:[487]
+:[497]
 pushloc.v local.i
 pushglb.v global.list_obj_marker_x
 call.i ds_list_find_value(argc=2)
@@ -7898,27 +8057,27 @@ conv.i.v
 call.i draw_sprite_ext(argc=9)
 popz.v
 
-:[488]
+:[498]
 push.v local.i
 push.e 1
 add.i.v
 pop.v.v local.i
-b [485]
+b [495]
 
-:[489]
+:[499]
 pushglb.v global.list_extraction_x
 call.i ds_list_size(argc=1)
 pop.v.v local.l_size
 pushi.e 0
 pop.v.i local.i
 
-:[490]
+:[500]
 pushloc.v local.i
 pushloc.v local.l_size
 cmp.v.v LT
-bf [492]
+bf [502]
 
-:[491]
+:[501]
 pushloc.v local.i
 pushglb.v global.list_extraction_y
 call.i ds_list_find_value(argc=2)
@@ -7927,7 +8086,7 @@ pushglb.v global.list_extraction_x
 call.i ds_list_find_value(argc=2)
 pushi.e 0
 conv.i.v
-pushi.e 1279
+pushi.e 1280
 conv.i.v
 call.i draw_sprite(argc=4)
 popz.v
@@ -7935,27 +8094,27 @@ push.v local.i
 push.e 1
 add.i.v
 pop.v.v local.i
-b [490]
+b [500]
 
-:[492]
+:[502]
 pushglb.v global.list_minimap_marker_x
 call.i ds_list_size(argc=1)
 pushi.e 0
 cmp.i.v GT
-bf [496]
+bf [506]
 
-:[493]
+:[503]
 pushi.e 0
 pop.v.i local.i
 
-:[494]
+:[504]
 pushloc.v local.i
 pushglb.v global.list_minimap_marker_x
 call.i ds_list_size(argc=1)
 cmp.v.v LT
-bf [496]
+bf [506]
 
-:[495]
+:[505]
 pushloc.v local.i
 pushglb.v global.list_minimap_marker_x
 call.i ds_list_find_value(argc=2)
@@ -7982,7 +8141,7 @@ pushloc.v local.my
 pushloc.v local.mx
 pushi.e 0
 conv.i.v
-pushi.e 1274
+pushi.e 1275
 conv.i.v
 call.i draw_sprite_ext(argc=9)
 popz.v
@@ -7990,34 +8149,34 @@ push.v local.i
 push.e 1
 add.i.v
 pop.v.v local.i
-b [494]
+b [504]
 
-:[496]
+:[506]
 pushglb.v global.general_debug
 pushi.e 1
 cmp.b.v EQ
-bf [507]
+bf [517]
 
-:[497]
+:[507]
 pushglb.v global.list_n_id
 call.i array_length_1d(argc=1)
 pop.v.v local._size
 pushloc.v local._size
 pushi.e 0
 cmp.i.v GT
-bf [507]
+bf [517]
 
-:[498]
+:[508]
 pushi.e 0
 pop.v.i local.i
 
-:[499]
+:[509]
 pushloc.v local.i
 pushloc.v local._size
 cmp.v.v LT
-bf [507]
+bf [517]
 
-:[500]
+:[510]
 pushi.e -5
 pushloc.v local.i
 conv.v.i
@@ -8040,26 +8199,26 @@ conv.v.i
 push.v [array]self.list_n_follow_path
 pushi.e 1
 cmp.b.v EQ
-bf [502]
+bf [512]
 
-:[501]
+:[511]
 push.i 65535
 pop.v.i local._col
 
-:[502]
+:[512]
 pushi.e -5
 pushloc.v local.i
 conv.v.i
 push.v [array]self.list_n_hp
 pushi.e 0
 cmp.i.v LTE
-bf [504]
+bf [514]
 
-:[503]
+:[513]
 pushi.e 255
 pop.v.i local._col
 
-:[504]
+:[514]
 pushi.e -5
 pushloc.v local.i
 conv.v.i
@@ -8068,13 +8227,13 @@ pop.v.v local._id
 pushloc.v local._id
 push.l 7
 cmp.l.v EQ
-bf [506]
+bf [516]
 
-:[505]
+:[515]
 push.i 16776960
 pop.v.i local._col
 
-:[506]
+:[516]
 pushi.e 1
 conv.i.v
 pushloc.v local._col
@@ -8092,7 +8251,7 @@ pushi.e 1
 sub.i.v
 pushi.e 0
 conv.i.v
-pushi.e 1976
+pushi.e 1977
 conv.i.v
 call.i draw_sprite_ext(argc=9)
 popz.v
@@ -8100,15 +8259,15 @@ push.v local.i
 push.e 1
 add.i.v
 pop.v.v local.i
-b [499]
+b [509]
 
-:[507]
+:[517]
 push.v 90.y
 push.v 18.map_height
 cmp.v.v LTE
-bf [509]
+bf [519]
 
-:[508]
+:[518]
 push.v 90.x
 pushi.e 16
 rem.i.v
@@ -8131,16 +8290,16 @@ pushloc.v local.py
 pushloc.v local.px
 pushi.e 0
 conv.i.v
-pushi.e 1275
+pushi.e 1276
 conv.i.v
 call.i draw_sprite_ext(argc=9)
 popz.v
 
-:[509]
+:[519]
 call.i surface_reset_target(argc=0)
 popz.v
 
-:[510]
+:[520]
 pushloc.v local.surf_y
 pushloc.v local.surf_x
 pushloc.v local.surf_space_h
@@ -8157,9 +8316,9 @@ popz.v
 push.v 31.surface_cover
 call.i surface_exists(argc=1)
 conv.v.b
-bf [512]
+bf [522]
 
-:[511]
+:[521]
 pushloc.v local.surf_y
 pushloc.v local.surf_x
 pushloc.v local.surf_space_h
@@ -8174,7 +8333,7 @@ push.v 31.surface_cover
 call.i draw_surface_part(argc=7)
 popz.v
 
-:[512]
+:[522]
 pushloc.v local.surf_y
 pushloc.v local.surf_x
 pushloc.v local.surf_space_h
@@ -8203,7 +8362,7 @@ call.i draw_surface_part(argc=7)
 popz.v
 pushi.e 22
 pop.v.i local.oo
-pushi.e 1278
+pushi.e 1279
 conv.i.v
 call.i sprite_get_width(argc=1)
 pushi.e 2
@@ -8213,20 +8372,20 @@ pushglb.v global.list_obj_marker_x
 call.i ds_list_size(argc=1)
 pushi.e 0
 cmp.i.v GT
-bf [529]
+bf [539]
 
-:[513]
+:[523]
 pushi.e 0
 pop.v.i local.i
 
-:[514]
+:[524]
 pushloc.v local.i
 pushglb.v global.list_obj_marker_x
 call.i ds_list_size(argc=1)
 cmp.v.v LT
-bf [529]
+bf [539]
 
-:[515]
+:[525]
 pushloc.v local.i
 pushglb.v global.list_obj_marker_quest_pos
 call.i ds_list_find_value(argc=2)
@@ -8237,9 +8396,9 @@ conv.v.i
 push.v [array]self.save_quest_status
 pushi.e 1
 cmp.i.v EQ
-bf [528]
+bf [538]
 
-:[516]
+:[526]
 pushi.e 0
 pop.v.i local.surf_start_x
 pushi.e 0
@@ -8247,29 +8406,29 @@ pop.v.i local.surf_start_y
 pushloc.v local.surf_x
 pushloc.v local.start_x
 cmp.v.v LT
-bf [518]
+bf [528]
 
-:[517]
+:[527]
 pushglb.v global.minimap_off_x
 call.i abs(argc=1)
 pop.v.v local.surf_start_x
 pushloc.v local.start_x
 pop.v.v local.surf_x
 
-:[518]
+:[528]
 pushloc.v local.surf_y
 pushloc.v local.start_y
 cmp.v.v LT
-bf [520]
+bf [530]
 
-:[519]
+:[529]
 pushglb.v global.minimap_off_y
 call.i abs(argc=1)
 pop.v.v local.surf_start_y
 pushloc.v local.start_y
 pop.v.v local.surf_y
 
-:[520]
+:[530]
 pushbltn.v builtin.mouse_x
 pushloc.v local.camx
 sub.v.v
@@ -8314,9 +8473,9 @@ pushloc.v local.camx
 add.v.i
 call.i gml_Script_scr_mouse_inside(argc=4)
 conv.v.b
-bf [528]
+bf [538]
 
-:[521]
+:[531]
 pushloc.v local.qy
 pushloc.v local.qx
 pushloc.v local.my
@@ -8324,9 +8483,9 @@ pushloc.v local.mx
 call.i point_distance(argc=4)
 pushloc.v local.circle_w
 cmp.v.v LT
-bf [528]
+bf [538]
 
-:[522]
+:[532]
 pushloc.v local.i
 pushglb.v global.list_obj_marker_quest_id
 call.i ds_list_find_value(argc=2)
@@ -8340,28 +8499,28 @@ pushi.e 1
 conv.i.v
 call.i mouse_check_button_pressed(argc=1)
 conv.v.b
-bf [528]
+bf [538]
 
-:[523]
-pushi.e 844
+:[533]
+pushi.e 845
 conv.i.v
 call.i instance_exists(argc=1)
 conv.v.b
-bf [527]
+bf [537]
 
-:[524]
-pushi.e 844
-pushenv [526]
+:[534]
+pushi.e 845
+pushenv [536]
 
-:[525]
+:[535]
 call.i instance_destroy(argc=0)
 popz.v
 
-:[526]
-popenv [525]
+:[536]
+popenv [535]
 
-:[527]
-pushi.e 844
+:[537]
+pushi.e 845
 conv.i.v
 pushi.e -9999
 conv.i.v
@@ -8376,15 +8535,15 @@ pushloc.v local.dd
 pushi.e -9
 pop.v.v [stacktop]self.t
 
-:[528]
+:[538]
 push.v local.i
 push.e 1
 add.i.v
 pop.v.v local.i
-b [514]
+b [524]
 
-:[529]
-pushi.e 1279
+:[539]
+pushi.e 1280
 conv.i.v
 call.i sprite_get_width(argc=1)
 pushi.e 2
@@ -8396,20 +8555,20 @@ pushglb.v global.list_extraction_x
 call.i ds_list_size(argc=1)
 pushi.e 0
 cmp.i.v GT
-bf [545]
+bf [555]
 
-:[530]
+:[540]
 pushi.e 0
 pop.v.i local.i
 
-:[531]
+:[541]
 pushloc.v local.i
 pushglb.v global.list_extraction_x
 call.i ds_list_size(argc=1)
 cmp.v.v LT
-bf [545]
+bf [555]
 
-:[532]
+:[542]
 pushi.e 0
 pop.v.i local.surf_start_x
 pushi.e 0
@@ -8417,29 +8576,29 @@ pop.v.i local.surf_start_y
 pushloc.v local.surf_x
 pushloc.v local.start_x
 cmp.v.v LT
-bf [534]
+bf [544]
 
-:[533]
+:[543]
 pushglb.v global.minimap_off_x
 call.i abs(argc=1)
 pop.v.v local.surf_start_x
 pushloc.v local.start_x
 pop.v.v local.surf_x
 
-:[534]
+:[544]
 pushloc.v local.surf_y
 pushloc.v local.start_y
 cmp.v.v LT
-bf [536]
+bf [546]
 
-:[535]
+:[545]
 pushglb.v global.minimap_off_y
 call.i abs(argc=1)
 pop.v.v local.surf_start_y
 pushloc.v local.start_y
 pop.v.v local.surf_y
 
-:[536]
+:[546]
 pushbltn.v builtin.mouse_x
 pushloc.v local.camx
 sub.v.v
@@ -8484,9 +8643,9 @@ pushloc.v local.camx
 add.v.i
 call.i gml_Script_scr_mouse_inside(argc=4)
 conv.v.b
-bf [544]
+bf [554]
 
-:[537]
+:[547]
 pushloc.v local.qy
 pushloc.v local.qx
 pushloc.v local.my
@@ -8494,35 +8653,35 @@ pushloc.v local.mx
 call.i point_distance(argc=4)
 pushloc.v local.circle_w
 cmp.v.v LT
-bf [544]
+bf [554]
 
-:[538]
+:[548]
 pushi.e 1
 conv.i.v
 call.i mouse_check_button_pressed(argc=1)
 conv.v.b
-bf [544]
+bf [554]
 
-:[539]
-pushi.e 844
+:[549]
+pushi.e 845
 conv.i.v
 call.i instance_exists(argc=1)
 conv.v.b
-bf [543]
+bf [553]
 
-:[540]
-pushi.e 844
-pushenv [542]
+:[550]
+pushi.e 845
+pushenv [552]
 
-:[541]
+:[551]
 call.i instance_destroy(argc=0)
 popz.v
 
-:[542]
-popenv [541]
+:[552]
+popenv [551]
 
-:[543]
-pushi.e 844
+:[553]
+pushi.e 845
 conv.i.v
 pushi.e -9999
 conv.i.v
@@ -8532,19 +8691,19 @@ sub.i.v
 pushbltn.v builtin.mouse_x
 call.i instance_create_depth(argc=4)
 pop.v.v local.dd
-push.s "Extraction point"@6699
+push.s "Extraction point"@6924
 pushloc.v local.dd
 pushi.e -9
 pop.v.s [stacktop]self.t
 
-:[544]
+:[554]
 push.v local.i
 push.e 1
 add.i.v
 pop.v.v local.i
-b [531]
+b [541]
 
-:[545]
+:[555]
 pushi.e 179
 conv.i.v
 pushi.e 331
@@ -8557,10 +8716,10 @@ pushloc.v local.camx
 add.v.i
 call.i gml_Script_scr_mouse_inside(argc=4)
 conv.v.b
-bf [562]
+bf [572]
 
-:[546]
-pushi.e 1279
+:[556]
+pushi.e 1280
 conv.i.v
 call.i sprite_get_width(argc=1)
 pushi.e 2
@@ -8572,20 +8731,20 @@ pushglb.v global.list_intresting_id
 call.i ds_list_size(argc=1)
 pushi.e 0
 cmp.i.v GT
-bf [562]
+bf [572]
 
-:[547]
+:[557]
 pushi.e 0
 pop.v.i local.i
 
-:[548]
+:[558]
 pushloc.v local.i
 pushglb.v global.list_intresting_id
 call.i ds_list_size(argc=1)
 cmp.v.v LT
-bf [562]
+bf [572]
 
-:[549]
+:[559]
 pushi.e 0
 pop.v.i local.surf_start_x
 pushi.e 0
@@ -8593,29 +8752,29 @@ pop.v.i local.surf_start_y
 pushloc.v local.surf_x
 pushloc.v local.start_x
 cmp.v.v LT
-bf [551]
+bf [561]
 
-:[550]
+:[560]
 pushglb.v global.minimap_off_x
 call.i abs(argc=1)
 pop.v.v local.surf_start_x
 pushloc.v local.start_x
 pop.v.v local.surf_x
 
-:[551]
+:[561]
 pushloc.v local.surf_y
 pushloc.v local.start_y
 cmp.v.v LT
-bf [553]
+bf [563]
 
-:[552]
+:[562]
 pushglb.v global.minimap_off_y
 call.i abs(argc=1)
 pop.v.v local.surf_start_y
 pushloc.v local.start_y
 pop.v.v local.surf_y
 
-:[553]
+:[563]
 pushbltn.v builtin.mouse_x
 pushloc.v local.camx
 sub.v.v
@@ -8660,9 +8819,9 @@ pushloc.v local.camx
 add.v.i
 call.i gml_Script_scr_mouse_inside(argc=4)
 conv.v.b
-bf [561]
+bf [571]
 
-:[554]
+:[564]
 pushloc.v local.qy
 pushloc.v local.qx
 pushloc.v local.my
@@ -8670,35 +8829,35 @@ pushloc.v local.mx
 call.i point_distance(argc=4)
 pushloc.v local.circle_w
 cmp.v.v LT
-bf [561]
+bf [571]
 
-:[555]
+:[565]
 pushi.e 1
 conv.i.v
 call.i mouse_check_button_pressed(argc=1)
 conv.v.b
-bf [561]
+bf [571]
 
-:[556]
-pushi.e 844
+:[566]
+pushi.e 845
 conv.i.v
 call.i instance_exists(argc=1)
 conv.v.b
-bf [560]
+bf [570]
 
-:[557]
-pushi.e 844
-pushenv [559]
+:[567]
+pushi.e 845
+pushenv [569]
 
-:[558]
+:[568]
 call.i instance_destroy(argc=0)
 popz.v
 
-:[559]
-popenv [558]
+:[569]
+popenv [568]
 
-:[560]
-pushi.e 844
+:[570]
+pushi.e 845
 conv.i.v
 pushi.e -9999
 conv.i.v
@@ -8717,25 +8876,25 @@ pushloc.v local.dd
 pushi.e -9
 pop.v.v [stacktop]self.t
 
-:[561]
+:[571]
 push.v local.i
 push.e 1
 add.i.v
 pop.v.v local.i
-b [548]
+b [558]
 
-:[562]
+:[572]
 push.v 31.surface_map_dinamica
 call.i surface_free(argc=1)
 popz.v
 
-:[563]
+:[573]
 pushbltn.v builtin.room
 pushi.e 13
 cmp.i.v EQ
-bf [565]
+bf [575]
 
-:[564]
+:[574]
 pushi.e 0
 conv.i.v
 call.i draw_set_font(argc=1)
@@ -8754,7 +8913,7 @@ pushi.e 2
 conv.i.v
 pushi.e 2
 conv.i.v
-push.s "NOT AVAILABLE NOW"@6700
+push.s "NOT AVAILABLE NOW"@6925
 conv.s.v
 pushloc.v local.yy
 pushi.e 32
@@ -8763,45 +8922,45 @@ pushloc.v local.xx
 call.i draw_text_transformed(argc=6)
 popz.v
 
-:[565]
+:[575]
 call.i gml_Script_scr_draw_geiger_counter(argc=0)
 popz.v
 
-:[566]
-b [568]
+:[576]
+b [578]
 
-:[567]
+:[577]
 pushi.e 0
 pop.v.i self.pda_loading_map_now
 
-:[568]
+:[578]
 push.v 90.state
 push.i gml_Script_scr_player_state_pda
 cmp.i.v EQ
-bf [587]
+bf [597]
 
-:[569]
+:[579]
 pushi.e 0
 conv.i.v
 pushi.e 0
 conv.i.v
 pushi.e 0
 conv.i.v
-pushi.e 1269
+pushi.e 1270
 conv.i.v
 call.i draw_sprite(argc=4)
 popz.v
 push.v self.pda_loading_now
 push.v self.pda_loading_max
 cmp.v.v LT
-bf [571]
+bf [581]
 
-:[570]
+:[580]
 push.v self.pda_loading_now
 push.e 1
 add.i.v
 pop.v.v self.pda_loading_now
-pushi.e 1272
+pushi.e 1273
 conv.i.v
 call.i sprite_get_number(argc=1)
 pushi.e 1
@@ -8821,7 +8980,7 @@ pop.v.v local.pda_index
 pushloc.v local.yy
 pushloc.v local.xx
 pushloc.v local.pda_index
-pushi.e 1272
+pushi.e 1273
 conv.i.v
 call.i draw_sprite(argc=4)
 popz.v
@@ -8837,7 +8996,7 @@ pushi.e 0
 conv.i.v
 call.i draw_set_valign(argc=1)
 popz.v
-push.s "LOADING"@6701
+push.s "LOADING"@6926
 conv.s.v
 pushloc.v local.yy
 pushi.e 32
@@ -8846,13 +9005,13 @@ pushloc.v local.xx
 call.i draw_text(argc=3)
 popz.v
 
-:[571]
+:[581]
 push.v self.pda_loading_now
 push.v self.pda_loading_max
 cmp.v.v GTE
-bf [586]
+bf [596]
 
-:[572]
+:[582]
 pushi.e 0
 conv.i.v
 call.i draw_set_font(argc=1)
@@ -8871,34 +9030,34 @@ push.d 126.5
 pop.v.d local.yy
 pushi.e 21
 pop.v.i local.oo
-push.s ""@45
+push.s ""@176
 pop.v.s local.b_h
-push.s ""@45
+push.s ""@176
 pop.v.s local.b_m
 pushloc.v local.oo
 pushi.e -9
 push.v [stacktop]self.hour
 pushi.e 10
 cmp.i.v LT
-bf [574]
+bf [584]
 
-:[573]
-push.s "0"@5431
+:[583]
+push.s "0"@5645
 pop.v.s local.b_h
 
-:[574]
+:[584]
 pushloc.v local.oo
 pushi.e -9
 push.v [stacktop]self.minute
 pushi.e 10
 cmp.i.v LT
-bf [576]
+bf [586]
 
-:[575]
-push.s "0"@5431
+:[585]
+push.s "0"@5645
 pop.v.s local.b_m
 
-:[576]
+:[586]
 pushloc.v local.oo
 pushi.e -9
 push.v [stacktop]self.hour
@@ -8963,7 +9122,7 @@ pushi.e 0
 conv.i.v
 pushloc.v local.ts
 pushloc.v local.ts
-push.s ":"@6591
+push.s ":"@135
 conv.s.v
 pushloc.v local.yy
 pushloc.v local.offy
@@ -9006,21 +9165,21 @@ pushi.e -9
 push.v [stacktop]self.day_now
 conv.v.i
 push.v [array]self.day_name
-push.s " , "@5748
+push.s " , "@5963
 add.s.v
 pushloc.v local.oo
 pushi.e -9
 push.v [stacktop]self.day
 call.i string(argc=1)
 add.v.v
-push.s " / "@6707
+push.s " / "@6932
 add.s.v
 pushloc.v local.oo
 pushi.e -9
 push.v [stacktop]self.month
 call.i string(argc=1)
 add.v.v
-push.s " / "@6707
+push.s " / "@6932
 add.s.v
 pushloc.v local.oo
 pushi.e -9
@@ -9058,14 +9217,14 @@ popz.v
 pushi.e 0
 pop.v.i local.i
 
-:[577]
+:[587]
 pushloc.v local.i
 push.v self.pda_icon_id
 call.i array_length_1d(argc=1)
 cmp.v.v LT
-bf [581]
+bf [591]
 
-:[578]
+:[588]
 pushi.e 0
 pop.v.i local.offy
 pushi.e 0
@@ -9078,9 +9237,9 @@ pushloc.v local.i
 conv.v.i
 push.v [array]self.pda_icon_id
 cmp.v.v EQ
-bf [580]
+bf [590]
 
-:[579]
+:[589]
 pushi.e 0
 pop.v.i local.offy
 push.d 1.25
@@ -9095,7 +9254,7 @@ conv.i.d
 div.d.v
 pop.v.v local.off
 
-:[580]
+:[590]
 pushi.e 1
 conv.i.v
 push.i 16777215
@@ -9130,9 +9289,9 @@ push.v local.i
 push.e 1
 add.i.v
 pop.v.v local.i
-b [577]
+b [587]
 
-:[581]
+:[591]
 pushi.e 90
 pop.v.i local.off
 pushi.e 180
@@ -9162,7 +9321,7 @@ call.i ceil(argc=1)
 pop.v.v local.p_hp
 push.v 90.hp_max_total
 pop.v.v local.p_hp_max
-pushi.e 1296
+pushi.e 1297
 conv.i.v
 call.i sprite_get_height(argc=1)
 pushi.e 2
@@ -9190,7 +9349,7 @@ add.i.v
 pushloc.v local.hp_x
 pushi.e 0
 conv.i.v
-pushi.e 1297
+pushi.e 1298
 conv.i.v
 call.i draw_sprite_ext(argc=9)
 popz.v
@@ -9222,7 +9381,7 @@ pushloc.v local.c_hp
 pushloc.v local.c_hp
 pushloc.v local.p_hp
 call.i string(argc=1)
-push.s "/"@5535
+push.s "/"@5749
 add.s.v
 pushloc.v local.p_hp_max
 call.i string(argc=1)
@@ -9236,14 +9395,14 @@ pop.v.v local.ferita
 pushloc.v local.ferita
 pushi.e 0
 cmp.i.v GT
-bf [583]
+bf [593]
 
-:[582]
+:[592]
 pushloc.v local.ferita
 neg.v
 call.i floor(argc=1)
 call.i string(argc=1)
-push.s " wounds"@6717
+push.s " wounds"@6942
 add.s.v
 pop.v.v local.t
 pushi.e 1
@@ -9280,12 +9439,12 @@ add.i.v
 pushloc.v local.hp_x
 pushi.e 0
 conv.i.v
-pushi.e 1297
+pushi.e 1298
 conv.i.v
 call.i draw_sprite_ext(argc=9)
 popz.v
 
-:[583]
+:[593]
 pushi.e 1
 conv.i.v
 pushloc.v local.c_hp
@@ -9299,7 +9458,7 @@ pushloc.v local.hp_y
 pushloc.v local.hp_x
 pushi.e 0
 conv.i.v
-pushi.e 1296
+pushi.e 1297
 conv.i.v
 call.i draw_sprite_ext(argc=9)
 popz.v
@@ -9322,7 +9481,7 @@ call.i ceil(argc=1)
 pop.v.v local.p_hp
 push.v 90.stamina_max_total
 pop.v.v local.p_hp_max
-pushi.e 1296
+pushi.e 1297
 conv.i.v
 call.i sprite_get_height(argc=1)
 pushi.e 2
@@ -9350,7 +9509,7 @@ add.i.v
 pushloc.v local.hp_x
 pushi.e 0
 conv.i.v
-pushi.e 1297
+pushi.e 1298
 conv.i.v
 call.i draw_sprite_ext(argc=9)
 popz.v
@@ -9371,7 +9530,7 @@ pushloc.v local.c_sta
 pushloc.v local.p_hp
 call.i floor(argc=1)
 call.i string(argc=1)
-push.s "/"@5535
+push.s "/"@5749
 add.s.v
 pushloc.v local.p_hp_max
 call.i string(argc=1)
@@ -9386,12 +9545,12 @@ pop.v.v local.ferita
 pushloc.v local.ferita
 pushi.e 0
 cmp.i.v LT
-bf [585]
+bf [595]
 
-:[584]
+:[594]
 pushloc.v local.ferita
 call.i string(argc=1)
-push.s " Fatigue"@6719
+push.s " Fatigue"@6944
 add.s.v
 pop.v.v local.t
 pushi.e 1
@@ -9437,12 +9596,12 @@ add.i.v
 pushloc.v local.hp_x
 pushi.e 0
 conv.i.v
-pushi.e 1297
+pushi.e 1298
 conv.i.v
 call.i draw_sprite_ext(argc=9)
 popz.v
 
-:[585]
+:[595]
 pushi.e 1
 conv.i.v
 pushloc.v local.c_sta
@@ -9456,27 +9615,27 @@ pushloc.v local.hp_y
 pushloc.v local.hp_x
 pushi.e 0
 conv.i.v
-pushi.e 1296
+pushi.e 1297
 conv.i.v
 call.i draw_sprite_ext(argc=9)
 popz.v
 call.i gml_Script_scr_draw_geiger_counter(argc=0)
 popz.v
 
-:[586]
-b [588]
+:[596]
+b [598]
 
-:[587]
+:[597]
 pushi.e 0
 pop.v.i self.pda_loading_now
 
-:[588]
+:[598]
 push.v 90.state
 push.i gml_Script_scr_player_state_quest
 cmp.i.v EQ
-bf [675]
+bf [685]
 
-:[589]
+:[599]
 push.d 222.5
 pop.v.d local.xx
 push.d 126.5
@@ -9487,21 +9646,21 @@ pushi.e 0
 conv.i.v
 pushi.e 0
 conv.i.v
-pushi.e 1269
+pushi.e 1270
 conv.i.v
 call.i draw_sprite(argc=4)
 popz.v
 push.v self.pda_loading_quest_now
 push.v self.pda_loading_quest_max
 cmp.v.v LT
-bf [591]
+bf [601]
 
-:[590]
+:[600]
 push.v self.pda_loading_quest_now
 push.e 1
 add.i.v
 pop.v.v self.pda_loading_quest_now
-pushi.e 1272
+pushi.e 1273
 conv.i.v
 call.i sprite_get_number(argc=1)
 pushi.e 1
@@ -9517,7 +9676,7 @@ pop.v.v local.pda_index
 pushloc.v local.yy
 pushloc.v local.xx
 pushloc.v local.pda_index
-pushi.e 1272
+pushi.e 1273
 conv.i.v
 call.i draw_sprite(argc=4)
 popz.v
@@ -9539,7 +9698,7 @@ pushi.e 3
 conv.i.v
 pushi.e 3
 conv.i.v
-push.s "LOADING DATA"@6720
+push.s "LOADING DATA"@6945
 conv.s.v
 pushloc.v local.yy
 pushi.e 32
@@ -9548,13 +9707,13 @@ pushloc.v local.xx
 call.i draw_text_transformed(argc=6)
 popz.v
 
-:[591]
+:[601]
 push.v self.pda_loading_quest_now
 push.v self.pda_loading_quest_max
 cmp.v.v GTE
-bf [674]
+bf [684]
 
-:[592]
+:[602]
 call.i gml_Script_scr_draw_geiger_counter(argc=0)
 popz.v
 pushi.e -1
@@ -9585,13 +9744,13 @@ popz.v
 pushi.e 0
 pop.v.i local.i
 
-:[593]
+:[603]
 pushloc.v local.i
 pushi.e 30
 cmp.i.v LT
-bf [595]
+bf [605]
 
-:[594]
+:[604]
 pushi.e -1
 conv.i.v
 pushi.e -7
@@ -9602,30 +9761,30 @@ push.v local.i
 push.e 1
 add.i.v
 pop.v.v local.i
-b [593]
+b [603]
 
-:[595]
+:[605]
 pushi.e 0
 pop.v.i local.mm
 pushi.e 0
 pop.v.i local.i
 
-:[596]
+:[606]
 pushloc.v local.i
 pushi.e 30
 cmp.i.v LT
-bf [600]
+bf [610]
 
-:[597]
+:[607]
 pushi.e -5
 pushloc.v local.i
 conv.v.i
 push.v [array]self.save_quest_id
 pushi.e -1
 cmp.i.v NEQ
-bf [599]
+bf [609]
 
-:[598]
+:[608]
 pushloc.v local.i
 pushi.e -7
 pushloc.v local.mm
@@ -9636,26 +9795,26 @@ push.e 1
 add.i.v
 pop.v.v local.mm
 
-:[599]
+:[609]
 push.v local.i
 push.e 1
 add.i.v
 pop.v.v local.i
-b [596]
+b [606]
 
-:[600]
+:[610]
 pushglb.v global.pda_quest_scroll_entry
 pop.v.v local.j
 
-:[601]
+:[611]
 pushloc.v local.j
 pushglb.v global.pda_quest_scroll_entry
 pushi.e 12
 add.i.v
 cmp.v.v LT
-bf [612]
+bf [622]
 
-:[602]
+:[612]
 pushi.e -7
 pushloc.v local.j
 conv.v.i
@@ -9664,9 +9823,9 @@ pop.v.v local._entry
 pushloc.v local._entry
 pushi.e -1
 cmp.i.v NEQ
-bf [611]
+bf [621]
 
-:[603]
+:[613]
 pushi.e -5
 pushloc.v local._entry
 conv.v.i
@@ -9675,14 +9834,14 @@ pop.v.v local.quest_id_
 pushloc.v local.quest_id_
 pushi.e -1
 cmp.i.v NEQ
-bf [611]
+bf [621]
 
-:[604]
+:[614]
 push.v local.hh
 push.e 1
 add.i.v
 pop.v.v local.hh
-push.s "- "@6609
+push.s "- "@6829
 pushi.e -5
 pushloc.v local.quest_id_
 conv.v.i
@@ -9697,20 +9856,20 @@ pop.v.v local.substr
 pushloc.v local.name_width
 pushloc.v local.q_name_max
 cmp.v.v GTE
-bf [606]
+bf [616]
 
-:[605]
+:[615]
 pushi.e 21
 conv.i.v
 pushi.e 1
 conv.i.v
 pushloc.v local.t_
 call.i string_copy(argc=3)
-push.s "..."@3010
+push.s "..."@3157
 add.s.v
 pop.v.v local.substr
 
-:[606]
+:[616]
 push.i 16777215
 pop.v.i local.col
 pushi.e -5
@@ -9719,23 +9878,23 @@ conv.v.i
 push.v [array]self.save_quest_status
 pushi.e 2
 cmp.i.v EQ
-bf [608]
+bf [618]
 
-:[607]
+:[617]
 push.i 8847238
 pop.v.i local.col
 
-:[608]
+:[618]
 push.v self.pda_quest_hover
 pushloc.v local._entry
 cmp.v.v EQ
-bf [610]
+bf [620]
 
-:[609]
+:[619]
 push.i 9564927
 pop.v.i local.col
 
-:[610]
+:[620]
 pushi.e 1
 conv.i.v
 pushloc.v local.col
@@ -9752,48 +9911,48 @@ pushloc.v local.q_name_sx
 call.i draw_text_color(argc=8)
 popz.v
 
-:[611]
+:[621]
 push.v local.j
 push.e 1
 add.i.v
 pop.v.v local.j
-b [601]
+b [611]
 
-:[612]
+:[622]
 pushi.e 0
 pop.v.i local._n_active_quest
 pushi.e 0
 pop.v.i local.i
 
-:[613]
+:[623]
 pushloc.v local.i
 pushi.e 30
 cmp.i.v LT
-bf [617]
+bf [627]
 
-:[614]
+:[624]
 pushi.e -5
 pushloc.v local.i
 conv.v.i
 push.v [array]self.save_quest_id
 pushi.e -1
 cmp.i.v NEQ
-bf [616]
+bf [626]
 
-:[615]
+:[625]
 push.v local._n_active_quest
 pushi.e 1
 add.i.v
 pop.v.v local._n_active_quest
 
-:[616]
+:[626]
 push.v local.i
 push.e 1
 add.i.v
 pop.v.v local.i
-b [613]
+b [623]
 
-:[617]
+:[627]
 pushloc.v local._n_active_quest
 pushi.e 12
 sub.i.v
@@ -9814,23 +9973,23 @@ pushi.e 12
 add.i.v
 pushloc.v local._n_active_quest
 cmp.v.v LT
-bf [619]
+bf [629]
 
-:[618]
+:[628]
 pushi.e 1
 pop.v.i local._alpha_down
 
-:[619]
+:[629]
 pushglb.v global.pda_quest_scroll_entry
 pushi.e 0
 cmp.i.v GT
-bf [621]
+bf [631]
 
-:[620]
+:[630]
 pushi.e 1
 pop.v.i local._alpha_up
 
-:[621]
+:[631]
 pushloc.v local._alpha_down
 push.i 16777215
 conv.i.v
@@ -9844,7 +10003,7 @@ pushglb.v global.pda_quest_scroll_down_y
 pushglb.v global.pda_quest_scroll_down_x
 pushi.e 0
 conv.i.v
-pushi.e 1273
+pushi.e 1274
 conv.i.v
 call.i draw_sprite_ext(argc=9)
 popz.v
@@ -9861,7 +10020,7 @@ pushglb.v global.pda_quest_scroll_up_y
 pushglb.v global.pda_quest_scroll_up_x
 pushi.e 1
 conv.i.v
-pushi.e 1273
+pushi.e 1274
 conv.i.v
 call.i draw_sprite_ext(argc=9)
 popz.v
@@ -9886,9 +10045,9 @@ popz.v
 push.v self.pda_quest_showed
 pushi.e -1
 cmp.i.v NEQ
-bf [674]
+bf [684]
 
-:[622]
+:[632]
 pushi.e -5
 push.v self.pda_quest_showed
 conv.v.i
@@ -9897,9 +10056,9 @@ pop.v.v local.quest_id_
 pushloc.v local.quest_id_
 pushi.e -1
 cmp.i.v NEQ
-bf [674]
+bf [684]
 
-:[623]
+:[633]
 pushi.e 2
 conv.i.v
 call.i draw_set_font(argc=1)
@@ -9935,54 +10094,54 @@ pop.v.i local._c2
 push.v self.pda_quest_obj_hover
 pushi.e 1
 cmp.i.v EQ
-bt [625]
+bt [635]
 
-:[624]
+:[634]
 pushglb.v global.sub_state_show_quest
 pushi.e 0
 cmp.i.v EQ
-b [626]
+b [636]
 
-:[625]
+:[635]
 push.e 1
 
-:[626]
-bf [628]
+:[636]
+bf [638]
 
-:[627]
+:[637]
 push.i 9564927
 pop.v.i local._c1
 
-:[628]
+:[638]
 push.v self.pda_quest_obj_hover
 pushi.e 2
 cmp.i.v EQ
-bt [630]
+bt [640]
 
-:[629]
+:[639]
 pushglb.v global.sub_state_show_quest
 pushi.e 1
 cmp.i.v EQ
-b [631]
+b [641]
 
-:[630]
+:[640]
 push.e 1
 
-:[631]
-bf [633]
+:[641]
+bf [643]
 
-:[632]
+:[642]
 push.i 9564927
 pop.v.i local._c2
 
-:[633]
+:[643]
 pushi.e 1
 conv.i.v
 pushloc.v local._c1
 pushloc.v local._c1
 pushloc.v local._c1
 pushloc.v local._c1
-push.s "OBJECTIVE"@6621
+push.s "OBJECTIVE"@6841
 conv.s.v
 push.v self.pda_quest_obj_y
 pushi.e 2
@@ -10001,7 +10160,7 @@ pushloc.v local._c2
 pushloc.v local._c2
 pushloc.v local._c2
 pushloc.v local._c2
-push.s "TEXT"@6622
+push.s "TEXT"@6842
 conv.s.v
 push.v self.pda_quest_text_y
 pushi.e 2
@@ -10021,9 +10180,9 @@ popz.v
 pushglb.v global.sub_state_show_quest
 pushi.e 1
 cmp.i.v EQ
-bf [635]
+bf [645]
 
-:[634]
+:[644]
 pushi.e -5
 pushi.e -5
 push.v self.pda_quest_showed
@@ -10038,30 +10197,30 @@ conv.i.v
 call.i gml_Script_scr_barra_testo_draw(argc=2)
 popz.v
 
-:[635]
+:[645]
 pushglb.v global.sub_state_show_quest
 pushi.e 0
 cmp.i.v EQ
-bf [673]
+bf [683]
 
-:[636]
-push.s ""@45
+:[646]
+push.s ""@176
 pop.v.s local._total_text
 pushi.e 0
 pop.v.i local.i
 
-:[637]
+:[647]
 pushloc.v local.i
 pushloc.v local.quest_id_
 pushglb.v global.quest_type
 call.i array_length_2d(argc=2)
 cmp.v.v LT
-bf [672]
+bf [682]
 
-:[638]
+:[648]
 pushi.e 0
 pop.v.b local._custom_text
-push.s "- "@6609
+push.s "- "@6829
 pushi.e -5
 pushloc.v local.quest_id_
 conv.v.i
@@ -10079,10 +10238,10 @@ pushloc.v local.i
 conv.v.i
 pushaf.e
 call.i string(argc=1)
-push.s " "@1587
+push.s " "@1733
 add.s.v
 pop.v.v local._amount_max
-push.s ""@45
+push.s ""@176
 pop.v.s local._text_obj
 pushi.e -5
 push.v self.pda_quest_showed
@@ -10092,13 +10251,13 @@ pushloc.v local.i
 conv.v.i
 pushaf.e
 call.i string(argc=1)
-push.s "/"@5535
+push.s "/"@5749
 add.s.v
 pushloc.v local._amount_max
 call.i string(argc=1)
 add.v.v
 pop.v.v local._text_progress
-push.s ""@45
+push.s ""@176
 pop.v.s local._text_map
 pushi.e -5
 pushloc.v local.quest_id_
@@ -10107,11 +10266,11 @@ push.v [arraypushaf]self.quest_text_obj
 pushloc.v local.i
 conv.v.i
 pushaf.e
-push.s ""@45
+push.s ""@176
 cmp.s.v EQ
-bf [668]
+bf [678]
 
-:[639]
+:[649]
 pushi.e -5
 pushloc.v local.quest_id_
 conv.v.i
@@ -10121,14 +10280,14 @@ conv.v.i
 pushaf.e
 push.l 0
 cmp.l.v EQ
-bf [647]
+bf [657]
 
-:[640]
-push.s ""@45
+:[650]
+push.s ""@176
 pop.v.s local._text_map
-push.s ""@45
+push.s ""@176
 pop.v.s local._text_obj_to_kill
-push.s "Eliminate "@6629
+push.s "Eliminate "@6849
 pop.v.s local._pre_text
 pushi.e 1
 pop.v.b local._custom_text
@@ -10143,25 +10302,25 @@ pop.v.v local._map_id
 pushloc.v local._map_id
 pushi.e -1
 cmp.i.v NEQ
-bf [642]
+bf [652]
 
-:[641]
-push.s "in the "@6631
+:[651]
+push.s "in the "@6851
 pushi.e -1
 pushloc.v local._map_id
 conv.v.i
 push.v [array]self.map_nome
 add.v.s
-push.s " "@1587
+push.s " "@1733
 add.s.v
 pop.v.v local._text_map
-b [643]
+b [653]
 
-:[642]
-push.s "in any map"@6632
+:[652]
+push.s "in any map"@6852
 pop.v.s local._text_map
 
-:[643]
+:[653]
 pushi.e -5
 pushloc.v local.quest_id_
 conv.v.i
@@ -10171,9 +10330,9 @@ conv.v.i
 pushaf.e
 pushi.e -1
 cmp.i.v EQ
-bf [645]
+bf [655]
 
-:[644]
+:[654]
 pushi.e -5
 pushloc.v local.quest_id_
 conv.v.i
@@ -10190,12 +10349,12 @@ pushi.e -1
 pushloc.v local._npc_id
 conv.v.i
 push.v [array]self.npc_name
-push.s " "@1587
+push.s " "@1733
 add.s.v
 pop.v.v local._text_obj_to_kill
-b [646]
+b [656]
 
-:[645]
+:[655]
 pushi.e -5
 pushloc.v local.quest_id_
 conv.v.i
@@ -10205,11 +10364,11 @@ conv.v.i
 pushaf.e
 pop.v.v local._name_faction
 pushloc.v local._name_faction
-push.s " "@1587
+push.s " "@1733
 add.s.v
 pop.v.v local._text_obj_to_kill
 
-:[646]
+:[656]
 pushloc.v local._pre_text
 pushloc.v local._amount_max
 add.v.v
@@ -10219,7 +10378,7 @@ pushloc.v local._text_map
 add.v.v
 pop.v.v local._text_obj
 
-:[647]
+:[657]
 pushi.e -5
 pushloc.v local.quest_id_
 conv.v.i
@@ -10229,18 +10388,18 @@ conv.v.i
 pushaf.e
 push.l 6
 cmp.l.v EQ
-bf [649]
+bf [659]
 
-:[648]
-push.s ""@45
+:[658]
+push.s ""@176
 pop.v.s local._text_map
-push.s ""@45
+push.s ""@176
 pop.v.s local._text_obj_to_kill
-push.s "Eliminate the target "@6635
+push.s "Eliminate the target "@6855
 pop.v.s local._pre_text
 pushi.e 1
 pop.v.b local._custom_text
-push.s "in the "@6631
+push.s "in the "@6851
 pushi.e -1
 pushi.e -5
 pushloc.v local.quest_id_
@@ -10252,220 +10411,85 @@ pushaf.e
 conv.v.i
 push.v [array]self.map_nome
 add.v.s
-push.s " "@1587
+push.s " "@1733
 add.s.v
 pop.v.v local._text_map
 pushloc.v local._pre_text
 pushloc.v local._text_map
 add.v.v
 pop.v.v local._text_obj
-
-:[649]
-pushi.e -5
-pushloc.v local.quest_id_
-conv.v.i
-push.v [arraypushaf]self.quest_type
-pushloc.v local.i
-conv.v.i
-pushaf.e
-push.l 1
-cmp.l.v EQ
-bf [651]
-
-:[650]
-pushi.e 1
-pop.v.b local._custom_text
-push.s "Collect "@6636
-pop.v.s local._pre_text
-pushi.e -1
-pushi.e -5
-pushloc.v local.quest_id_
-conv.v.i
-push.v [arraypushaf]self.quest_collect_item
-pushloc.v local.i
-conv.v.i
-pushaf.e
-conv.v.i
-push.v [array]self.item_name
-push.s " "@1587
-add.s.v
-pop.v.v local._text_obj_to_collect
-pushloc.v local._pre_text
-pushloc.v local._amount_max
-add.v.v
-pushloc.v local._text_obj_to_collect
-add.v.v
-pop.v.v local._text_obj
-
-:[651]
-pushi.e -5
-pushloc.v local.quest_id_
-conv.v.i
-push.v [arraypushaf]self.quest_type
-pushloc.v local.i
-conv.v.i
-pushaf.e
-push.l 1
-cmp.l.v EQ
-bf [653]
-
-:[652]
-pushi.e 1
-pop.v.b local._custom_text
-push.s "Collect "@6636
-pop.v.s local._pre_text
-pushi.e -1
-pushi.e -5
-pushloc.v local.quest_id_
-conv.v.i
-push.v [arraypushaf]self.quest_collect_item
-pushloc.v local.i
-conv.v.i
-pushaf.e
-conv.v.i
-push.v [array]self.item_name
-push.s " "@1587
-add.s.v
-pop.v.v local._text_obj_to_collect
-pushloc.v local._pre_text
-pushloc.v local._amount_max
-add.v.v
-pushloc.v local._text_obj_to_collect
-add.v.v
-pop.v.v local._text_obj
-
-:[653]
-pushi.e -5
-pushloc.v local.quest_id_
-conv.v.i
-push.v [arraypushaf]self.quest_type
-pushloc.v local.i
-conv.v.i
-pushaf.e
-push.l 18
-cmp.l.v EQ
-bf [658]
-
-:[654]
-pushi.e 1
-pop.v.b local._custom_text
-push.s "Survive "@6638
-pop.v.s local._pre_text
-pushi.e -5
-pushloc.v local.quest_id_
-conv.v.i
-push.v [arraypushaf]self.quest_survive_map
-pushloc.v local.i
-conv.v.i
-pushaf.e
-pushi.e -1
-cmp.i.v NEQ
-bf [656]
-
-:[655]
-push.s "in the "@6631
-pushi.e -1
-pushi.e -5
-pushloc.v local.quest_id_
-conv.v.i
-push.v [arraypushaf]self.quest_survive_map
-pushloc.v local.i
-conv.v.i
-pushaf.e
-conv.v.i
-push.v [array]self.map_nome
-add.v.s
-push.s " "@1587
-add.s.v
-pop.v.v local._text_map
-b [657]
-
-:[656]
-push.s "in any map"@6632
-pop.v.s local._text_map
-
-:[657]
-pushloc.v local._pre_text
-pushloc.v local._amount_max
-add.v.v
-push.s "times "@6639
-add.s.v
-pushloc.v local._text_map
-add.v.v
-pop.v.v local._text_obj
-
-:[658]
-pushi.e -5
-pushloc.v local.quest_id_
-conv.v.i
-push.v [arraypushaf]self.quest_type
-pushloc.v local.i
-conv.v.i
-pushaf.e
-push.l 8
-cmp.l.v EQ
-bf [663]
 
 :[659]
-pushi.e 1
-pop.v.b local._custom_text
-push.s "Survive "@6638
-pop.v.s local._pre_text
 pushi.e -5
 pushloc.v local.quest_id_
 conv.v.i
-push.v [arraypushaf]self.quest_survive_map
+push.v [arraypushaf]self.quest_type
 pushloc.v local.i
 conv.v.i
 pushaf.e
-pushi.e -1
-cmp.i.v NEQ
+push.l 1
+cmp.l.v EQ
 bf [661]
 
 :[660]
-push.s "in the "@6631
+pushi.e 1
+pop.v.b local._custom_text
+push.s "Collect "@6856
+pop.v.s local._pre_text
 pushi.e -1
 pushi.e -5
 pushloc.v local.quest_id_
 conv.v.i
-push.v [arraypushaf]self.quest_survive_map
+push.v [arraypushaf]self.quest_collect_item
 pushloc.v local.i
 conv.v.i
 pushaf.e
 conv.v.i
-push.v [array]self.map_nome
-add.v.s
-push.s " "@1587
+push.v [array]self.item_name
+push.s " "@1733
 add.s.v
-pop.v.v local._text_map
-b [662]
-
-:[661]
-push.s "in any map"@6632
-pop.v.s local._text_map
-
-:[662]
-push.s " with at least "@6640
-pushi.e -5
-pushloc.v local.quest_id_
-conv.v.i
-push.v [arraypushaf]self.quest_survive_min_exp
-pushloc.v local.i
-conv.v.i
-pushaf.e
-call.i string(argc=1)
-add.v.s
-push.s " exp made"@6641
-add.s.v
-pop.v.v local._exp_min_amount
+pop.v.v local._text_obj_to_collect
 pushloc.v local._pre_text
 pushloc.v local._amount_max
 add.v.v
-push.s "times "@6639
-add.s.v
-pushloc.v local._text_map
+pushloc.v local._text_obj_to_collect
 add.v.v
-pushloc.v local._exp_min_amount
+pop.v.v local._text_obj
+
+:[661]
+pushi.e -5
+pushloc.v local.quest_id_
+conv.v.i
+push.v [arraypushaf]self.quest_type
+pushloc.v local.i
+conv.v.i
+pushaf.e
+push.l 1
+cmp.l.v EQ
+bf [663]
+
+:[662]
+pushi.e 1
+pop.v.b local._custom_text
+push.s "Collect "@6856
+pop.v.s local._pre_text
+pushi.e -1
+pushi.e -5
+pushloc.v local.quest_id_
+conv.v.i
+push.v [arraypushaf]self.quest_collect_item
+pushloc.v local.i
+conv.v.i
+pushaf.e
+conv.v.i
+push.v [array]self.item_name
+push.s " "@1733
+add.s.v
+pop.v.v local._text_obj_to_collect
+pushloc.v local._pre_text
+pushloc.v local._amount_max
+add.v.v
+pushloc.v local._text_obj_to_collect
 add.v.v
 pop.v.v local._text_obj
 
@@ -10477,14 +10501,14 @@ push.v [arraypushaf]self.quest_type
 pushloc.v local.i
 conv.v.i
 pushaf.e
-push.l 9
+push.l 18
 cmp.l.v EQ
 bf [668]
 
 :[664]
 pushi.e 1
 pop.v.b local._custom_text
-push.s "Survive "@6638
+push.s "Survive "@6858
 pop.v.s local._pre_text
 pushi.e -5
 pushloc.v local.quest_id_
@@ -10498,7 +10522,7 @@ cmp.i.v NEQ
 bf [666]
 
 :[665]
-push.s "in the "@6631
+push.s "in the "@6851
 pushi.e -1
 pushi.e -5
 pushloc.v local.quest_id_
@@ -10510,17 +10534,152 @@ pushaf.e
 conv.v.i
 push.v [array]self.map_nome
 add.v.s
-push.s " "@1587
+push.s " "@1733
 add.s.v
 pop.v.v local._text_map
 b [667]
 
 :[666]
-push.s "in any map"@6632
+push.s "in any map"@6852
 pop.v.s local._text_map
 
 :[667]
-push.s " with at least "@6640
+pushloc.v local._pre_text
+pushloc.v local._amount_max
+add.v.v
+push.s "times "@6859
+add.s.v
+pushloc.v local._text_map
+add.v.v
+pop.v.v local._text_obj
+
+:[668]
+pushi.e -5
+pushloc.v local.quest_id_
+conv.v.i
+push.v [arraypushaf]self.quest_type
+pushloc.v local.i
+conv.v.i
+pushaf.e
+push.l 8
+cmp.l.v EQ
+bf [673]
+
+:[669]
+pushi.e 1
+pop.v.b local._custom_text
+push.s "Survive "@6858
+pop.v.s local._pre_text
+pushi.e -5
+pushloc.v local.quest_id_
+conv.v.i
+push.v [arraypushaf]self.quest_survive_map
+pushloc.v local.i
+conv.v.i
+pushaf.e
+pushi.e -1
+cmp.i.v NEQ
+bf [671]
+
+:[670]
+push.s "in the "@6851
+pushi.e -1
+pushi.e -5
+pushloc.v local.quest_id_
+conv.v.i
+push.v [arraypushaf]self.quest_survive_map
+pushloc.v local.i
+conv.v.i
+pushaf.e
+conv.v.i
+push.v [array]self.map_nome
+add.v.s
+push.s " "@1733
+add.s.v
+pop.v.v local._text_map
+b [672]
+
+:[671]
+push.s "in any map"@6852
+pop.v.s local._text_map
+
+:[672]
+push.s " with at least "@6860
+pushi.e -5
+pushloc.v local.quest_id_
+conv.v.i
+push.v [arraypushaf]self.quest_survive_min_exp
+pushloc.v local.i
+conv.v.i
+pushaf.e
+call.i string(argc=1)
+add.v.s
+push.s " exp made"@6861
+add.s.v
+pop.v.v local._exp_min_amount
+pushloc.v local._pre_text
+pushloc.v local._amount_max
+add.v.v
+push.s "times "@6859
+add.s.v
+pushloc.v local._text_map
+add.v.v
+pushloc.v local._exp_min_amount
+add.v.v
+pop.v.v local._text_obj
+
+:[673]
+pushi.e -5
+pushloc.v local.quest_id_
+conv.v.i
+push.v [arraypushaf]self.quest_type
+pushloc.v local.i
+conv.v.i
+pushaf.e
+push.l 9
+cmp.l.v EQ
+bf [678]
+
+:[674]
+pushi.e 1
+pop.v.b local._custom_text
+push.s "Survive "@6858
+pop.v.s local._pre_text
+pushi.e -5
+pushloc.v local.quest_id_
+conv.v.i
+push.v [arraypushaf]self.quest_survive_map
+pushloc.v local.i
+conv.v.i
+pushaf.e
+pushi.e -1
+cmp.i.v NEQ
+bf [676]
+
+:[675]
+push.s "in the "@6851
+pushi.e -1
+pushi.e -5
+pushloc.v local.quest_id_
+conv.v.i
+push.v [arraypushaf]self.quest_survive_map
+pushloc.v local.i
+conv.v.i
+pushaf.e
+conv.v.i
+push.v [array]self.map_nome
+add.v.s
+push.s " "@1733
+add.s.v
+pop.v.v local._text_map
+b [677]
+
+:[676]
+push.s "in any map"@6852
+pop.v.s local._text_map
+
+:[677]
+push.s " with at least "@6860
 pushi.e -5
 pushloc.v local.quest_id_
 conv.v.i
@@ -10530,13 +10689,13 @@ conv.v.i
 pushaf.e
 call.i string(argc=1)
 add.v.s
-push.s " roubles made"@6643
+push.s " roubles made"@6863
 add.s.v
 pop.v.v local._exp_min_amount
 pushloc.v local._pre_text
 pushloc.v local._amount_max
 add.v.v
-push.s "times "@6639
+push.s "times "@6859
 add.s.v
 pushloc.v local._text_map
 add.v.v
@@ -10544,27 +10703,27 @@ pushloc.v local._exp_min_amount
 add.v.v
 pop.v.v local._text_obj
 
-:[668]
-push.s ""@45
+:[678]
+push.s ""@176
 pop.v.s local.tt
 pushloc.v local._custom_text
 pushi.e 1
 cmp.b.v EQ
-bf [670]
+bf [680]
 
-:[669]
-push.s "- "@6609
+:[679]
+push.s "- "@6829
 pushloc.v local._text_obj
 add.v.s
-push.s ". "@6644
+push.s ". "@6864
 add.s.v
 pushloc.v local._text_progress
 add.v.v
 pop.v.v local.tt
-b [671]
+b [681]
 
-:[670]
-push.s "- "@6609
+:[680]
+push.s "- "@6829
 pushi.e -5
 pushloc.v local.quest_id_
 conv.v.i
@@ -10573,15 +10732,15 @@ pushloc.v local.i
 conv.v.i
 pushaf.e
 add.v.s
-push.s ". "@6644
+push.s ". "@6864
 add.s.v
 pushloc.v local._text_progress
 add.v.v
 pop.v.v local.tt
 
-:[671]
+:[681]
 pushloc.v local.tt
-push.s "\n"@6645
+push.s "\n"@6865
 add.s.v
 pop.v.v local.tt
 pushloc.v local._total_text
@@ -10592,9 +10751,9 @@ push.v local.i
 push.e 1
 add.i.v
 pop.v.v local.i
-b [637]
+b [647]
 
-:[672]
+:[682]
 pushi.e 200
 conv.i.v
 pushi.e 12
@@ -10606,7 +10765,7 @@ push.v self.pda_quest_obj_x
 call.i draw_text_ext(argc=5)
 popz.v
 
-:[673]
+:[683]
 pushi.e 5
 pop.v.i local.offx
 pushi.e -1
@@ -10617,7 +10776,7 @@ push.v [array]self.save_quest_giver
 conv.v.i
 push.v [array]self.npc_name
 pop.v.v local.name_speaker
-push.s "GIVER : "@6733
+push.s "GIVER : "@6958
 pushloc.v local.name_speaker
 add.v.s
 push.v self.pda_quest_remove_y
@@ -10629,41 +10788,41 @@ add.v.i
 call.i draw_text(argc=3)
 popz.v
 
-:[674]
-b [676]
+:[684]
+b [686]
 
-:[675]
+:[685]
 pushi.e 0
 pop.v.i self.pda_loading_quest_now
 
-:[676]
+:[686]
 push.v 90.state
 push.i gml_Script_scr_player_state_stat
 cmp.i.v EQ
-bf [689]
+bf [699]
 
-:[677]
+:[687]
 pushi.e 0
 conv.i.v
 pushi.e 0
 conv.i.v
 pushi.e 0
 conv.i.v
-pushi.e 1269
+pushi.e 1270
 conv.i.v
 call.i draw_sprite(argc=4)
 popz.v
 push.v self.pda_loading_stat_now
 push.v self.pda_loading_stat_max
 cmp.v.v LT
-bf [679]
+bf [689]
 
-:[678]
+:[688]
 push.v self.pda_loading_stat_now
 push.e 1
 add.i.v
 pop.v.v self.pda_loading_stat_now
-pushi.e 1272
+pushi.e 1273
 conv.i.v
 call.i sprite_get_number(argc=1)
 pushi.e 1
@@ -10683,7 +10842,7 @@ pop.v.v local.pda_index
 pushloc.v local.yy
 pushloc.v local.xx
 pushloc.v local.pda_index
-pushi.e 1272
+pushi.e 1273
 conv.i.v
 call.i draw_sprite(argc=4)
 popz.v
@@ -10699,7 +10858,7 @@ pushi.e 0
 conv.i.v
 call.i draw_set_valign(argc=1)
 popz.v
-push.s "LOADING"@6701
+push.s "LOADING"@6926
 conv.s.v
 pushloc.v local.yy
 pushi.e 32
@@ -10708,16 +10867,16 @@ pushloc.v local.xx
 call.i draw_text(argc=3)
 popz.v
 
-:[679]
+:[689]
 push.v self.pda_loading_stat_now
 push.v self.pda_loading_stat_max
 cmp.v.v GTE
-bf [689]
+bf [699]
 
-:[680]
+:[690]
 call.i gml_Script_scr_draw_geiger_counter(argc=0)
 popz.v
-push.s "reputation"@6734
+push.s "reputation"@6959
 pop.v.s local.t
 pushi.e 0
 conv.i.v
@@ -10767,11 +10926,11 @@ conv.v.i
 push.v [array]self.esperienza_livello
 sub.v.v
 pop.v.v local.exp_da_livello_succ
-pushi.e 1324
+pushi.e 1325
 conv.i.v
 call.i sprite_get_width(argc=1)
 pop.v.v local.sw
-pushi.e 1324
+pushi.e 1325
 conv.i.v
 call.i sprite_get_height(argc=1)
 pop.v.v local.sh
@@ -10824,7 +10983,7 @@ pushloc.v local.y1
 pushloc.v local.x1
 pushi.e 0
 conv.i.v
-pushi.e 1324
+pushi.e 1325
 conv.i.v
 call.i draw_sprite(argc=4)
 popz.v
@@ -10852,7 +11011,7 @@ pushi.e -5
 pushglb.v global.livello_now
 conv.v.i
 push.v [array]self.esperienza_nome_livello
-push.s " Hunter"@6739
+push.s " Hunter"@6964
 add.s.v
 pushloc.v local.yy
 pushi.e 13
@@ -10876,7 +11035,7 @@ pushi.e 0
 conv.i.v
 push.i 16777215
 conv.i.v
-push.s "current: "@6740
+push.s "current: "@6965
 pushglb.v global.esperienza
 call.i floor(argc=1)
 call.i string(argc=1)
@@ -10901,7 +11060,7 @@ pushi.e 0
 conv.i.v
 push.i 16777215
 conv.i.v
-push.s "next level: "@6741
+push.s "next level: "@6966
 pushi.e -5
 pushglb.v global.livello_now
 pushi.e 1
@@ -10932,9 +11091,9 @@ push.v self.surface_testo
 call.i surface_exists(argc=1)
 conv.v.b
 not.b
-bf [688]
+bf [698]
 
-:[681]
+:[691]
 pushloc.v local.text_h
 pushi.e -1
 pushi.e 2
@@ -10965,14 +11124,14 @@ popz.v
 pushi.e 0
 pop.v.i local.i
 
-:[682]
+:[692]
 pushloc.v local.i
 pushglb.v global.stat_id
 call.i array_length_1d(argc=1)
 cmp.v.v LT
-bf [684]
+bf [694]
 
-:[683]
+:[693]
 pushi.e -5
 pushloc.v local.i
 conv.v.i
@@ -10990,9 +11149,9 @@ push.v local.i
 push.e 1
 add.i.v
 pop.v.v local.i
-b [682]
+b [692]
 
-:[684]
+:[694]
 pushi.e 2
 conv.i.v
 call.i draw_set_halign(argc=1)
@@ -11134,14 +11293,14 @@ pop.v.v [array]self.stat_amount
 pushi.e 0
 pop.v.i local.i
 
-:[685]
+:[695]
 pushloc.v local.i
 pushglb.v global.stat_id
 call.i array_length_1d(argc=1)
 cmp.v.v LT
-bf [687]
+bf [697]
 
-:[686]
+:[696]
 pushi.e -5
 pushloc.v local.i
 conv.v.i
@@ -11163,13 +11322,13 @@ push.v local.i
 push.e 1
 add.i.v
 pop.v.v local.i
-b [685]
+b [695]
 
-:[687]
+:[697]
 call.i surface_reset_target(argc=0)
 popz.v
 
-:[688]
+:[698]
 pushi.e -1
 pushi.e 2
 push.v [array]self.testo_start_y
@@ -11220,20 +11379,20 @@ push.v [array]self.testo_cursore_sprite
 call.i draw_sprite(argc=4)
 popz.v
 
-:[689]
+:[699]
 push.v 90.state
 push.i gml_Script_scr_player_state_faction
 cmp.i.v EQ
-bf [693]
+bf [703]
 
-:[690]
+:[700]
 pushi.e 0
 conv.i.v
 pushi.e 0
 conv.i.v
 pushi.e 0
 conv.i.v
-pushi.e 1269
+pushi.e 1270
 conv.i.v
 call.i draw_sprite(argc=4)
 popz.v
@@ -11311,7 +11470,7 @@ pushi.e 0
 conv.i.v
 push.i 16777215
 conv.i.v
-push.s "RELATIONS (IN DEVELOPMENT)"@6742
+push.s "RELATIONS (IN DEVELOPMENT)"@6967
 conv.s.v
 pushi.e 45
 conv.i.v
@@ -11327,11 +11486,11 @@ pushi.e 172
 pop.v.i local._qx
 pushi.e 20
 pop.v.i local._h
-pushi.e 1325
+pushi.e 1326
 conv.i.v
 call.i sprite_get_width(argc=1)
 pop.v.v local._qw
-pushi.e 1325
+pushi.e 1326
 conv.i.v
 call.i sprite_get_height(argc=1)
 pop.v.v local._qh
@@ -11350,14 +11509,14 @@ popz.v
 pushi.e 0
 pop.v.i local.i
 
-:[691]
+:[701]
 pushloc.v local.i
 pushloc.v local._faction
 call.i array_length_1d(argc=1)
 cmp.v.v LT
-bf [693]
+bf [703]
 
-:[692]
+:[702]
 pushloc.v local._ty
 pushloc.v local._h
 pushloc.v local.i
@@ -11366,7 +11525,7 @@ add.v.v
 pushloc.v local._qx
 pushi.e 0
 conv.i.v
-pushi.e 1325
+pushi.e 1326
 conv.i.v
 call.i draw_sprite(argc=4)
 popz.v
@@ -11434,7 +11593,7 @@ pushi.e 1
 conv.i.v
 pushi.e 1
 conv.i.v
-pushi.e 1325
+pushi.e 1326
 conv.i.v
 call.i draw_sprite_part(argc=8)
 popz.v
@@ -11442,36 +11601,36 @@ push.v local.i
 push.e 1
 add.i.v
 pop.v.v local.i
-b [691]
+b [701]
 
-:[693]
+:[703]
 push.v 90.state
 push.i gml_Script_scr_player_state_skill_tree
 cmp.i.v EQ
-bf [728]
+bf [738]
 
-:[694]
+:[704]
 pushi.e 0
 conv.i.v
 pushi.e 0
 conv.i.v
 pushi.e 0
 conv.i.v
-pushi.e 1269
+pushi.e 1270
 conv.i.v
 call.i draw_sprite(argc=4)
 popz.v
 push.v self.pda_loading_skill_tree_now
 push.v self.pda_loading_skill_tree_max
 cmp.v.v LT
-bf [696]
+bf [706]
 
-:[695]
+:[705]
 push.v self.pda_loading_skill_tree_now
 push.e 1
 add.i.v
 pop.v.v self.pda_loading_skill_tree_now
-pushi.e 1272
+pushi.e 1273
 conv.i.v
 call.i sprite_get_number(argc=1)
 pushi.e 1
@@ -11491,7 +11650,7 @@ pop.v.v local.pda_index
 pushloc.v local.yy
 pushloc.v local.xx
 pushloc.v local.pda_index
-pushi.e 1272
+pushi.e 1273
 conv.i.v
 call.i draw_sprite(argc=4)
 popz.v
@@ -11507,7 +11666,7 @@ pushi.e 0
 conv.i.v
 call.i draw_set_valign(argc=1)
 popz.v
-push.s "LOADING"@6701
+push.s "LOADING"@6926
 conv.s.v
 pushloc.v local.yy
 pushi.e 32
@@ -11516,13 +11675,13 @@ pushloc.v local.xx
 call.i draw_text(argc=3)
 popz.v
 
-:[696]
+:[706]
 push.v self.pda_loading_skill_tree_now
 push.v self.pda_loading_skill_tree_max
 cmp.v.v GTE
-bf [728]
+bf [738]
 
-:[697]
+:[707]
 pushi.e 0
 conv.i.v
 pushi.e 0
@@ -11551,7 +11710,7 @@ pushi.e 0
 conv.i.v
 call.i draw_set_valign(argc=1)
 popz.v
-push.s "SKILL POINTS: "@6747
+push.s "SKILL POINTS: "@6972
 pushglb.v global.skill_points
 call.i string(argc=1)
 add.v.s
@@ -11565,13 +11724,13 @@ pop.v.v local.n_skill
 pushi.e 1
 pop.v.i local.i
 
-:[698]
+:[708]
 pushloc.v local.i
 pushloc.v local.n_skill
 cmp.v.v LT
-bf [705]
+bf [715]
 
-:[699]
+:[709]
 pushi.e -5
 pushloc.v local.i
 conv.v.i
@@ -11580,15 +11739,15 @@ pop.v.v local.id_
 pushi.e 0
 pop.v.i local.j
 
-:[700]
+:[710]
 pushloc.v local.j
 pushloc.v local.id_
 pushglb.v global.skill_required
 call.i array_length_2d(argc=2)
 cmp.v.v LT
-bf [704]
+bf [714]
 
-:[701]
+:[711]
 pushi.e -5
 pushloc.v local.id_
 conv.v.i
@@ -11600,9 +11759,9 @@ pop.v.v local.skill_prima
 pushloc.v local.skill_prima
 push.l 0
 cmp.l.v NEQ
-bf [703]
+bf [713]
 
-:[702]
+:[712]
 push.i 16777215
 conv.i.v
 push.i 16777215
@@ -11636,31 +11795,31 @@ add.i.v
 call.i draw_line_width_color(argc=7)
 popz.v
 
-:[703]
+:[713]
 push.v local.j
 push.e 1
 add.i.v
 pop.v.v local.j
-b [700]
+b [710]
 
-:[704]
+:[714]
 push.v local.i
 push.e 1
 add.i.v
 pop.v.v local.i
-b [698]
+b [708]
 
-:[705]
+:[715]
 pushi.e 1
 pop.v.i local.i
 
-:[706]
+:[716]
 pushloc.v local.i
 pushloc.v local.n_skill
 cmp.v.v LT
-bf [711]
+bf [721]
 
-:[707]
+:[717]
 pushi.e -5
 pushloc.v local.i
 conv.v.i
@@ -11672,9 +11831,9 @@ conv.v.i
 push.v [array]self.skill_unlocked
 pushi.e 0
 cmp.b.v EQ
-bf [709]
+bf [719]
 
-:[708]
+:[718]
 pushi.e -5
 pushloc.v local.id_
 conv.v.i
@@ -11691,9 +11850,9 @@ conv.v.i
 push.v [array]self.skill_sprite
 call.i draw_sprite(argc=4)
 popz.v
-b [710]
+b [720]
 
-:[709]
+:[719]
 pushi.e 1
 conv.i.v
 push.i 65535
@@ -11721,20 +11880,20 @@ push.v [array]self.skill_sprite
 call.i draw_sprite_ext(argc=9)
 popz.v
 
-:[710]
+:[720]
 push.v local.i
 push.e 1
 add.i.v
 pop.v.v local.i
-b [706]
+b [716]
 
-:[711]
+:[721]
 pushglb.v global.skill_hover
 pushi.e -1
 cmp.i.v NEQ
-bf [728]
+bf [738]
 
-:[712]
+:[722]
 pushi.e 2
 conv.i.v
 call.i draw_set_font(argc=1)
@@ -11760,18 +11919,18 @@ pop.v.i local.t_w
 pushloc.v local.t_w1
 pushloc.v local.t_w2
 cmp.v.v GT
-bf [714]
+bf [724]
 
-:[713]
+:[723]
 pushloc.v local.t_w1
 pop.v.v local.t_w
-b [715]
+b [725]
 
-:[714]
+:[724]
 pushloc.v local.t_w2
 pop.v.v local.t_w
 
-:[715]
+:[725]
 pushbltn.v builtin.mouse_x
 pushloc.v local.camx
 sub.v.v
@@ -11797,9 +11956,9 @@ pushloc.v local.offx
 add.v.v
 pushi.e 470
 cmp.i.v GT
-bf [717]
+bf [727]
 
-:[716]
+:[726]
 push.v local.xx
 pushi.e 470
 pushloc.v local.xx
@@ -11811,19 +11970,19 @@ sub.v.i
 add.v.v
 pop.v.v local.xx
 
-:[717]
+:[727]
 pushglb.v global.skill_unlocking_now
 pushi.e 10
 cmp.i.v LT
-bf [727]
+bf [737]
 
-:[718]
+:[728]
 pushglb.v global.skill_box_now
 pushglb.v global.skill_box_max
 cmp.v.v LT
-bf [720]
+bf [730]
 
-:[719]
+:[729]
 pushglb.v global.skill_box_now
 pushloc.v local.t_w
 pushloc.v local.offx
@@ -11870,25 +12029,25 @@ pushi.e 2
 conv.i.d
 div.d.v
 sub.v.v
-pushi.e 1934
+pushi.e 1935
 conv.i.v
 call.i gml_Script_scr_draw_box(argc=6)
 popz.v
-b [726]
+b [736]
 
-:[720]
+:[730]
 pushi.e 0
 pop.v.i local.j
 
-:[721]
+:[731]
 pushloc.v local.j
 pushglb.v global.skill_hover
 pushglb.v global.skill_required
 call.i array_length_2d(argc=2)
 cmp.v.v LT
-bf [725]
+bf [735]
 
-:[722]
+:[732]
 pushi.e -5
 pushglb.v global.skill_hover
 conv.v.i
@@ -11900,9 +12059,9 @@ pop.v.v local.skill_prima
 pushloc.v local.skill_prima
 push.l 0
 cmp.l.v NEQ
-bf [724]
+bf [734]
 
-:[723]
+:[733]
 pushi.e 1
 conv.i.v
 pushi.e 255
@@ -11928,14 +12087,14 @@ conv.i.v
 call.i draw_sprite_ext(argc=9)
 popz.v
 
-:[724]
+:[734]
 push.v local.j
 push.e 1
 add.i.v
 pop.v.v local.j
-b [721]
+b [731]
 
-:[725]
+:[735]
 pushi.e 1
 conv.i.v
 pushloc.v local.hh
@@ -11946,7 +12105,7 @@ pushloc.v local.offx
 add.v.v
 pushloc.v local.yy
 pushloc.v local.xx
-pushi.e 1934
+pushi.e 1935
 conv.i.v
 call.i gml_Script_scr_draw_box(argc=6)
 popz.v
@@ -12007,10 +12166,10 @@ add.v.v
 call.i draw_text(argc=3)
 popz.v
 
-:[726]
-b [728]
+:[736]
+b [738]
 
-:[727]
+:[737]
 pushi.e 240
 pop.v.i local.bw
 pushi.e 140
@@ -12035,7 +12194,7 @@ pushloc.v local.bh
 pushloc.v local.bw
 pushloc.v local.sy
 pushloc.v local.sx
-pushi.e 1936
+pushi.e 1937
 conv.i.v
 call.i gml_Script_scr_draw_box(argc=6)
 popz.v
@@ -12057,7 +12216,7 @@ pushi.e 2
 conv.i.v
 pushi.e 2
 conv.i.v
-push.s "unlocking skill"@6754
+push.s "unlocking skill"@6979
 conv.s.v
 pushloc.v local.sy
 pushi.e 30
@@ -12070,7 +12229,7 @@ div.d.v
 add.v.v
 call.i draw_text_transformed(argc=6)
 popz.v
-pushi.e 1272
+pushi.e 1273
 conv.i.v
 call.i sprite_get_number(argc=1)
 pushi.e 1
@@ -12092,34 +12251,34 @@ conv.i.d
 div.d.v
 add.v.v
 pushloc.v local.xb
-pushi.e 1272
+pushi.e 1273
 conv.i.v
 call.i draw_sprite(argc=4)
 popz.v
 
-:[728]
+:[738]
 push.v 90.state
 push.i gml_Script_scr_player_state_skill2
 cmp.i.v EQ
-bf [743]
+bf [753]
 
-:[729]
+:[739]
 pushi.e 0
 conv.i.v
 pushi.e 0
 conv.i.v
 pushi.e 0
 conv.i.v
-pushi.e 1269
+pushi.e 1270
 conv.i.v
 call.i draw_sprite(argc=4)
 popz.v
 push.v self.pda_loading_skill_tree_now
 push.v self.pda_loading_skill_tree_max
 cmp.v.v GTE
-bf [743]
+bf [753]
 
-:[730]
+:[740]
 call.i gml_Script_scr_draw_geiger_counter(argc=0)
 popz.v
 pushglb.v global.sk_startx
@@ -12207,9 +12366,9 @@ popz.v
 pushglb.v global.sk_hover
 pushi.e -1
 cmp.i.v NEQ
-bf [732]
+bf [742]
 
-:[731]
+:[741]
 pushi.e 1
 conv.i.v
 push.i 16777215
@@ -12231,12 +12390,12 @@ pushi.e 3
 sub.i.v
 pushi.e 0
 conv.i.v
-pushi.e 1294
+pushi.e 1295
 conv.i.v
 call.i draw_sprite_ext(argc=9)
 popz.v
 
-:[732]
+:[742]
 push.i 16777215
 conv.i.v
 push.i 16777215
@@ -12268,17 +12427,17 @@ pop.v.v local.hh
 pushglb.v global.sk_selected
 pushi.e -1
 cmp.i.v NEQ
-bf [743]
+bf [753]
 
-:[733]
+:[743]
 pushi.e 1
 pop.v.b local.draw_normal
 pushglb.v global.sk_upgrading
 pushi.e 1
 cmp.b.v EQ
-bf [741]
+bf [751]
 
-:[734]
+:[744]
 pushi.e 0
 pop.v.b local.draw_normal
 pushi.e 1
@@ -12289,7 +12448,7 @@ pushi.e 0
 conv.i.v
 call.i draw_set_valign(argc=1)
 popz.v
-push.s "Hold left mouse button to specialize"@6757
+push.s "Hold left mouse button to specialize"@6982
 pop.v.s local.ttt
 pushi.e 1
 conv.i.v
@@ -12321,13 +12480,13 @@ popz.v
 pushi.e 0
 pop.v.i local.i
 
-:[735]
+:[745]
 pushloc.v local.i
 pushloc.v local.quante_spec
 cmp.v.v LT
-bf [741]
+bf [751]
 
-:[736]
+:[746]
 pushi.e 1
 conv.i.v
 call.i draw_set_halign(argc=1)
@@ -12407,9 +12566,9 @@ popz.v
 pushglb.v global.sk_spec_hover
 pushloc.v local.ss_id
 cmp.v.v EQ
-bf [738]
+bf [748]
 
-:[737]
+:[747]
 pushloc.v local.yy
 pushloc.v local.hh
 pushloc.v local.i
@@ -12418,18 +12577,18 @@ add.v.v
 pushloc.v local.des_x
 pushi.e 0
 conv.i.v
-pushi.e 1295
+pushi.e 1296
 conv.i.v
 call.i draw_sprite(argc=4)
 popz.v
 
-:[738]
+:[748]
 pushglb.v global.sk_unlocking_now
 pushi.e 7
 cmp.i.v GT
-bf [740]
+bf [750]
 
-:[739]
+:[749]
 pushi.e 180
 pop.v.i local.bw
 pushi.e 100
@@ -12454,7 +12613,7 @@ pushloc.v local.bh
 pushloc.v local.bw
 pushloc.v local.sy
 pushloc.v local.sx
-pushi.e 1936
+pushi.e 1937
 conv.i.v
 call.i gml_Script_scr_draw_box(argc=6)
 popz.v
@@ -12476,7 +12635,7 @@ pushi.e 2
 conv.i.v
 pushi.e 2
 conv.i.v
-push.s "Specializing"@6761
+push.s "Specializing"@6986
 conv.s.v
 pushloc.v local.sy
 pushi.e 30
@@ -12489,7 +12648,7 @@ div.d.v
 add.v.v
 call.i draw_text_transformed(argc=6)
 popz.v
-pushi.e 1272
+pushi.e 1273
 conv.i.v
 call.i sprite_get_number(argc=1)
 pushi.e 1
@@ -12511,25 +12670,25 @@ conv.i.d
 div.d.v
 add.v.v
 pushloc.v local.xb
-pushi.e 1272
+pushi.e 1273
 conv.i.v
 call.i draw_sprite(argc=4)
 popz.v
 
-:[740]
+:[750]
 push.v local.i
 push.e 1
 add.i.v
 pop.v.v local.i
-b [735]
+b [745]
 
-:[741]
+:[751]
 pushloc.v local.draw_normal
 pushi.e 1
 cmp.b.v EQ
-bf [743]
+bf [753]
 
-:[742]
+:[752]
 pushi.e 0
 conv.i.v
 call.i draw_set_font(argc=1)
@@ -12618,20 +12777,20 @@ add.v.v
 call.i draw_text_ext(argc=5)
 popz.v
 
-:[743]
+:[753]
 push.v 90.state
 push.i gml_Script_scr_player_state_base
 cmp.i.v EQ
-bf [792]
+bf [802]
 
-:[744]
+:[754]
 pushi.e 0
 conv.i.v
 pushi.e 0
 conv.i.v
 pushi.e 0
 conv.i.v
-pushi.e 1269
+pushi.e 1270
 conv.i.v
 call.i draw_sprite(argc=4)
 popz.v
@@ -12641,7 +12800,7 @@ pushi.e 0
 conv.i.v
 pushi.e 0
 conv.i.v
-pushi.e 1289
+pushi.e 1290
 conv.i.v
 call.i draw_sprite(argc=4)
 popz.v
@@ -12649,21 +12808,21 @@ pushglb.v global.pda_icon_info_y
 pushglb.v global.pda_icon_info_x
 pushi.e 0
 conv.i.v
-pushi.e 1277
+pushi.e 1278
 conv.i.v
 call.i draw_sprite(argc=4)
 popz.v
 pushi.e 0
 pop.v.i local.i
 
-:[745]
+:[755]
 pushloc.v local.i
 pushglb.v global.sl_id
 call.i array_length_1d(argc=1)
 cmp.v.v LT
-bf [753]
+bf [763]
 
-:[746]
+:[756]
 push.i 16777215
 pop.v.i local.cc
 pushi.e -5
@@ -12674,9 +12833,9 @@ pop.v.v local._slot_id
 pushglb.v global.sl_hover
 pushloc.v local._slot_id
 cmp.v.v EQ
-bf [748]
+bf [758]
 
-:[747]
+:[757]
 push.i 9564927
 pop.v.i local.cc
 pushi.e 1
@@ -12698,18 +12857,18 @@ conv.v.i
 push.v [array]self.sl_x
 pushi.e 0
 conv.i.v
-pushi.e 1290
+pushi.e 1291
 conv.i.v
 call.i draw_sprite_ext(argc=9)
 popz.v
 
-:[748]
+:[758]
 pushglb.v global.sl_selected
 pushloc.v local._slot_id
 cmp.v.v EQ
-bf [750]
+bf [760]
 
-:[749]
+:[759]
 push.i 9564927
 pop.v.i local.cc
 pushi.e 1
@@ -12731,21 +12890,21 @@ conv.v.i
 push.v [array]self.sl_x
 pushi.e 1
 conv.i.v
-pushi.e 1290
+pushi.e 1291
 conv.i.v
 call.i draw_sprite_ext(argc=9)
 popz.v
 
-:[750]
+:[760]
 pushi.e -5
 pushloc.v local._slot_id
 conv.v.i
 push.v [array]self.sl_free
 pushi.e 2
 cmp.i.v EQ
-bf [752]
+bf [762]
 
-:[751]
+:[761]
 pushi.e -5
 pushloc.v local._slot_id
 conv.v.i
@@ -12777,42 +12936,42 @@ push.v [array]self.base_sprite
 call.i draw_sprite_ext(argc=9)
 popz.v
 
-:[752]
+:[762]
 push.v local.i
 push.e 1
 add.i.v
 pop.v.v local.i
-b [745]
+b [755]
 
-:[753]
+:[763]
 pushglb.v global.sl_selected
 pushi.e -1
 cmp.i.v NEQ
-bf [789]
+bf [799]
 
-:[754]
+:[764]
 pushi.e -5
 pushglb.v global.sl_selected
 conv.v.i
 push.v [array]self.sl_free
 pushi.e 0
 cmp.i.v EQ
-bf [784]
+bf [794]
 
-:[755]
+:[765]
 call.i ds_list_create(argc=0)
 pop.v.v local.list_already_installed
 pushi.e 0
 pop.v.i local.i
 
-:[756]
+:[766]
 pushloc.v local.i
 pushglb.v global.sl_id
 call.i array_length_1d(argc=1)
 cmp.v.v LT
-bf [760]
+bf [770]
 
-:[757]
+:[767]
 pushi.e -5
 pushloc.v local.i
 conv.v.i
@@ -12821,33 +12980,33 @@ pop.v.v local.bbase_id
 pushloc.v local.bbase_id
 pushi.e -1
 cmp.i.v NEQ
-bf [759]
+bf [769]
 
-:[758]
+:[768]
 pushloc.v local.bbase_id
 pushloc.v local.list_already_installed
 call.i ds_list_add(argc=2)
 popz.v
 
-:[759]
+:[769]
 push.v local.i
 push.e 1
 add.i.v
 pop.v.v local.i
-b [756]
+b [766]
 
-:[760]
+:[770]
 pushi.e 0
 pop.v.i local.i
 
-:[761]
+:[771]
 pushloc.v local.i
 pushglb.v global.base_id
 call.i array_length_1d(argc=1)
 cmp.v.v LT
-bf [775]
+bf [785]
 
-:[762]
+:[772]
 pushi.e -5
 pushloc.v local.i
 conv.v.i
@@ -12863,26 +13022,26 @@ pushloc.v local.i
 conv.v.i
 push.v [array]self.base_id
 cmp.v.v EQ
-bf [764]
+bf [774]
 
-:[763]
+:[773]
 push.i 9564927
 pop.v.i local.cc
 
-:[764]
+:[774]
 pushglb.v global.base_selected
 pushi.e -5
 pushloc.v local.i
 conv.v.i
 push.v [array]self.base_id
 cmp.v.v EQ
-bf [766]
+bf [776]
 
-:[765]
+:[775]
 push.i 9564927
 pop.v.i local.cc
 
-:[766]
+:[776]
 pushi.e 0
 pop.v.b local.already_installed
 pushloc.v local.list_already_installed
@@ -12891,19 +13050,19 @@ pop.v.v local.ll
 pushloc.v local.ll
 pushi.e 0
 cmp.i.v GT
-bf [772]
+bf [782]
 
-:[767]
+:[777]
 pushi.e 0
 pop.v.i local.j
 
-:[768]
+:[778]
 pushloc.v local.j
 pushloc.v local.ll
 cmp.v.v LT
-bf [772]
+bf [782]
 
-:[769]
+:[779]
 pushloc.v local.j
 pushloc.v local.list_already_installed
 call.i ds_list_find_value(argc=2)
@@ -12911,32 +13070,32 @@ pop.v.v local.confronto
 pushloc.v local.b_id
 pushloc.v local.confronto
 cmp.v.v EQ
-bf [771]
+bf [781]
 
-:[770]
+:[780]
 pushi.e 1
 pop.v.b local.already_installed
 
-:[771]
+:[781]
 push.v local.j
 push.e 1
 add.i.v
 pop.v.v local.j
-b [768]
+b [778]
 
-:[772]
+:[782]
 pushloc.v local.already_installed
 pushi.e 1
 cmp.b.v EQ
-bf [774]
+bf [784]
 
-:[773]
+:[783]
 push.d 0.5
 pop.v.d local.aa
 push.i 16777215
 pop.v.i local.cc
 
-:[774]
+:[784]
 pushloc.v local.aa
 pushloc.v local.cc
 pushi.e 0
@@ -12965,15 +13124,15 @@ push.v local.i
 push.e 1
 add.i.v
 pop.v.v local.i
-b [761]
+b [771]
 
-:[775]
+:[785]
 pushglb.v global.base_selected
 pushi.e -1
 cmp.i.v NEQ
-bf [782]
+bf [792]
 
-:[776]
+:[786]
 pushi.e 300
 pop.v.i local.x1
 pushi.e 130
@@ -13022,26 +13181,26 @@ div.d.v
 sub.v.v
 call.i gml_Script_scr_mouse_inside(argc=4)
 conv.v.b
-bf [778]
+bf [788]
 
-:[777]
+:[787]
 push.i 9564927
 pop.v.i local.c1
 
-:[778]
+:[788]
 pushi.e 1
 conv.i.v
 pushloc.v local.c1
 pushloc.v local.c1
 pushloc.v local.c1
 pushloc.v local.c1
-push.s "HOLD HERE TO INSTALL"@6766
+push.s "HOLD HERE TO INSTALL"@6991
 conv.s.v
 pushglb.v global.base_install_y
 pushglb.v global.base_install_x
 call.i draw_text_color(argc=8)
 popz.v
-pushi.e 1301
+pushi.e 1302
 conv.i.v
 call.i sprite_get_width(argc=1)
 pop.v.v local.sw
@@ -13056,15 +13215,15 @@ pushloc.v local.camx
 pushi.e 210
 add.i.v
 cmp.v.v LTE
-bf [780]
+bf [790]
 
-:[779]
+:[789]
 push.v global.base_slider
 pushi.e 2
 sub.i.v
 pop.v.v global.base_slider
 
-:[780]
+:[790]
 pushglb.v global.base_slider_time_max
 pushi.e 0
 conv.i.v
@@ -13095,16 +13254,16 @@ pushi.e 210
 conv.i.v
 pushi.e 0
 conv.i.v
-pushi.e 1301
+pushi.e 1302
 conv.i.v
 call.i draw_sprite_ext(argc=9)
 popz.v
 pushglb.v global.base_slider
 pushglb.v global.base_slider_time_max
 cmp.v.v GTE
-bf [782]
+bf [792]
 
-:[781]
+:[791]
 pushi.e 0
 conv.i.v
 call.i draw_set_font(argc=1)
@@ -13154,13 +13313,13 @@ conv.i.v
 call.i draw_text_ext(argc=5)
 popz.v
 
-:[782]
+:[792]
 pushglb.v global.base_installing_now
 pushi.e 7
 cmp.i.v GT
-bf [784]
+bf [794]
 
-:[783]
+:[793]
 pushi.e 240
 pop.v.i local.bw
 pushi.e 120
@@ -13185,7 +13344,7 @@ pushloc.v local.bh
 pushloc.v local.bw
 pushloc.v local.sy
 pushloc.v local.sx
-pushi.e 1936
+pushi.e 1937
 conv.i.v
 call.i gml_Script_scr_draw_box(argc=6)
 popz.v
@@ -13201,7 +13360,7 @@ pushi.e 0
 conv.i.v
 call.i draw_set_valign(argc=1)
 popz.v
-push.s "Installing "@6767
+push.s "Installing "@6992
 pushi.e -5
 pushglb.v global.base_selected
 conv.v.i
@@ -13226,7 +13385,7 @@ div.d.v
 add.v.v
 call.i draw_text_transformed(argc=6)
 popz.v
-pushi.e 1272
+pushi.e 1273
 conv.i.v
 call.i sprite_get_number(argc=1)
 pushi.e 1
@@ -13248,21 +13407,21 @@ conv.i.d
 div.d.v
 add.v.v
 pushloc.v local.xb
-pushi.e 1272
+pushi.e 1273
 conv.i.v
 call.i draw_sprite(argc=4)
 popz.v
 
-:[784]
+:[794]
 pushi.e -5
 pushglb.v global.sl_selected
 conv.v.i
 push.v [array]self.sl_base_id
 pushi.e -1
 cmp.i.v NEQ
-bf [789]
+bf [799]
 
-:[785]
+:[795]
 pushi.e -5
 pushglb.v global.sl_selected
 conv.v.i
@@ -13288,7 +13447,7 @@ pushi.e -5
 pushloc.v local.bb_id
 conv.v.i
 push.v [array]self.base_name
-push.s " l "@6768
+push.s " l "@6993
 add.s.v
 pushi.e -5
 pushloc.v local.bb_id
@@ -13356,20 +13515,20 @@ div.d.v
 sub.v.v
 call.i gml_Script_scr_mouse_inside(argc=4)
 conv.v.b
-bf [787]
+bf [797]
 
-:[786]
+:[796]
 push.i 9564927
 pop.v.i local.c1
 
-:[787]
+:[797]
 pushi.e 1
 conv.i.v
 pushloc.v local.c1
 pushloc.v local.c1
 pushloc.v local.c1
 pushloc.v local.c1
-push.s "HOLD HERE TO UNINSTALL"@6769
+push.s "HOLD HERE TO UNINSTALL"@6994
 conv.s.v
 pushglb.v global.base_install_y
 pushglb.v global.base_install_x
@@ -13378,9 +13537,9 @@ popz.v
 pushglb.v global.base_installing_now
 pushi.e 7
 cmp.i.v GT
-bf [789]
+bf [799]
 
-:[788]
+:[798]
 pushi.e 240
 pop.v.i local.bw
 pushi.e 120
@@ -13405,7 +13564,7 @@ pushloc.v local.bh
 pushloc.v local.bw
 pushloc.v local.sy
 pushloc.v local.sx
-pushi.e 1936
+pushi.e 1937
 conv.i.v
 call.i gml_Script_scr_draw_box(argc=6)
 popz.v
@@ -13421,7 +13580,7 @@ pushi.e 0
 conv.i.v
 call.i draw_set_valign(argc=1)
 popz.v
-push.s "Uninstalling "@6770
+push.s "Uninstalling "@6995
 pushi.e -5
 pushi.e -5
 pushglb.v global.sl_selected
@@ -13449,7 +13608,7 @@ div.d.v
 add.v.v
 call.i draw_text_transformed(argc=6)
 popz.v
-pushi.e 1272
+pushi.e 1273
 conv.i.v
 call.i sprite_get_number(argc=1)
 pushi.e 1
@@ -13471,25 +13630,25 @@ conv.i.d
 div.d.v
 add.v.v
 pushloc.v local.xb
-pushi.e 1272
+pushi.e 1273
 conv.i.v
 call.i draw_sprite(argc=4)
 popz.v
 
-:[789]
+:[799]
 pushglb.v global.pda_info
 pushi.e 1
 cmp.b.v EQ
-bf [791]
+bf [801]
 
-:[790]
+:[800]
 pushi.e 0
 conv.i.v
 pushi.e 0
 conv.i.v
 pushi.e 0
 conv.i.v
-pushi.e 1270
+pushi.e 1271
 conv.i.v
 call.i draw_sprite(argc=4)
 popz.v
@@ -13523,7 +13682,7 @@ pushi.e 2
 conv.i.v
 pushi.e 2
 conv.i.v
-push.s "Modules"@6771
+push.s "Modules"@6996
 conv.s.v
 pushloc.v local.yy
 pushloc.v local.xx
@@ -13533,7 +13692,7 @@ pushi.e 2
 conv.i.v
 call.i draw_set_font(argc=1)
 popz.v
-push.s "Click anywhere to go back"@6772
+push.s "Click anywhere to go back"@6997
 conv.s.v
 pushloc.v local.yy
 pushi.e 21
@@ -13562,17 +13721,17 @@ conv.i.v
 call.i draw_text_ext(argc=5)
 popz.v
 
-:[791]
+:[801]
 call.i gml_Script_scr_draw_geiger_counter(argc=0)
 popz.v
 
-:[792]
+:[802]
 push.v 90.state
 push.i gml_Script_scr_player_state_choose_map
 cmp.i.v EQ
-bf [803]
+bf [813]
 
-:[793]
+:[803]
 pushi.e -6
 pushi.e 0
 push.v [array]self.view_camera
@@ -13589,7 +13748,7 @@ pushi.e 0
 conv.i.v
 pushi.e 0
 conv.i.v
-pushi.e 1306
+pushi.e 1307
 conv.i.v
 call.i draw_sprite(argc=4)
 popz.v
@@ -13612,9 +13771,9 @@ popz.v
 push.v self.map_selected
 pushi.e -1
 cmp.i.v NEQ
-bf [795]
+bf [805]
 
-:[794]
+:[804]
 pushi.e 2
 conv.i.v
 pushi.e 2
@@ -13643,19 +13802,19 @@ conv.v.i
 push.v [array]self.map_x
 pushi.e 0
 conv.i.v
-pushi.e 1307
+pushi.e 1308
 conv.i.v
 call.i draw_sprite(argc=4)
 popz.v
 
-:[795]
+:[805]
 push.v self.map_selected
 pushi.e -1
 cmp.i.v NEQ
-bf [797]
+bf [807]
 
-:[796]
-push.s "COST: "@6773
+:[806]
+push.s "COST: "@6998
 pushi.e -1
 push.v self.map_selected
 conv.v.i
@@ -13669,18 +13828,18 @@ conv.i.v
 call.i draw_text(argc=3)
 popz.v
 
-:[797]
+:[807]
 push.v self.b_go_hover
 pushi.e 0
 cmp.b.v EQ
-bf [799]
+bf [809]
 
-:[798]
+:[808]
 push.v self.b_go_y
 push.v self.b_go_x
 pushi.e 0
 conv.i.v
-pushi.e 1308
+pushi.e 1309
 conv.i.v
 call.i draw_sprite(argc=4)
 popz.v
@@ -13692,7 +13851,7 @@ pushi.e 0
 conv.i.v
 push.i 16777215
 conv.i.v
-push.s "GO"@6774
+push.s "GO"@6999
 conv.s.v
 push.v self.b_go_y
 pushi.e 3
@@ -13705,14 +13864,14 @@ div.d.v
 add.v.v
 call.i gml_Script_scr_draw_text_outlined(argc=7)
 popz.v
-b [800]
+b [810]
 
-:[799]
+:[809]
 push.v self.b_go_y
 push.v self.b_go_x
 pushi.e 1
 conv.i.v
-pushi.e 1308
+pushi.e 1309
 conv.i.v
 call.i draw_sprite(argc=4)
 popz.v
@@ -13724,7 +13883,7 @@ pushi.e 0
 conv.i.v
 push.i 16777215
 conv.i.v
-push.s "GO"@6774
+push.s "GO"@6999
 conv.s.v
 push.v self.b_go_y
 pushi.e 4
@@ -13738,13 +13897,13 @@ add.v.v
 call.i gml_Script_scr_draw_text_outlined(argc=7)
 popz.v
 
-:[800]
+:[810]
 pushglb.v global.player_weight
 pushglb.v global.max_weight
 cmp.v.v GTE
-bf [802]
+bf [812]
 
-:[801]
+:[811]
 pushi.e 0
 conv.i.v
 call.i draw_set_font(argc=1)
@@ -13761,7 +13920,7 @@ pushi.e 0
 conv.i.v
 pushi.e 174
 conv.i.v
-push.s "ATTENTION! You are over encumbered!"@6775
+push.s "ATTENTION! You are over encumbered!"@7000
 conv.s.v
 pushi.e 2
 conv.i.v
@@ -13770,7 +13929,7 @@ conv.i.v
 call.i gml_Script_scr_draw_text_outlined(argc=7)
 popz.v
 
-:[802]
+:[812]
 pushbltn.v builtin.mouse_y
 pushloc.v local.camy
 sub.v.v
@@ -13784,28 +13943,28 @@ conv.i.v
 call.i draw_sprite(argc=4)
 popz.v
 
-:[803]
+:[813]
 push.v 90.state
 push.i gml_Script_scr_player_state_move
 cmp.i.v EQ
-bf [814]
+bf [824]
 
-:[804]
+:[814]
 pushglb.v global.change_ammo_now
 pushi.e 1
 cmp.b.v EQ
-bf [814]
+bf [824]
 
-:[805]
+:[815]
 pushglb.v global.list_ammo_id
 call.i ds_list_size(argc=1)
 pop.v.v local._tipi_ammo
 pushloc.v local._tipi_ammo
 pushi.e 0
 cmp.i.v GT
-bf [814]
+bf [824]
 
-:[806]
+:[816]
 pushi.e 0
 conv.i.v
 call.i draw_set_font(argc=1)
@@ -13831,13 +13990,13 @@ pop.v.v local.yy
 pushi.e 0
 pop.v.i local.i
 
-:[807]
+:[817]
 pushloc.v local.i
 pushloc.v local._tipi_ammo
 cmp.v.v LT
-bf [814]
+bf [824]
 
-:[808]
+:[818]
 pushi.e 0
 pop.v.i local.subi
 push.i 16777215
@@ -13845,15 +14004,15 @@ pop.v.i local.cc
 pushglb.v global.change_ammo_scelta
 pushloc.v local.i
 cmp.v.v EQ
-bf [810]
+bf [820]
 
-:[809]
+:[819]
 pushi.e 1
 pop.v.i local.subi
 push.i 9564927
 pop.v.i local.cc
 
-:[810]
+:[820]
 pushi.e -5
 push.l 23
 conv.l.i
@@ -13870,19 +14029,19 @@ pushloc.v local.i
 pushglb.v global.list_ammo_qnt
 call.i ds_list_find_value(argc=2)
 pop.v.v local._ammo_qnt
-push.s "["@4670
+push.s "["@4823
 pushloc.v local.key_name
 add.v.s
-push.s "] "@6781
+push.s "] "@7006
 add.s.v
 pushloc.v local._ammo_name
 add.v.v
-push.s " ("@1589
+push.s " ("@1735
 add.s.v
 pushloc.v local._ammo_qnt
 call.i string(argc=1)
 add.v.v
-push.s ")"@704
+push.s ")"@829
 add.s.v
 pop.v.v local._t
 pushi.e 1
@@ -13906,15 +14065,15 @@ popz.v
 pushloc.v local.subi
 pushi.e 1
 cmp.i.v EQ
-bf [813]
+bf [823]
 
-:[811]
+:[821]
 pushloc.v local._tipi_ammo
 pushi.e 1
 cmp.i.v GT
-bf [813]
+bf [823]
 
-:[812]
+:[822]
 pushloc.v local._t
 call.i string_width(argc=1)
 pop.v.v local._t_len
@@ -13944,54 +14103,54 @@ pushi.e 5
 sub.i.v
 pushi.e 0
 conv.i.v
-pushi.e 1357
+pushi.e 1358
 conv.i.v
 call.i draw_sprite_ext(argc=9)
 popz.v
 
-:[813]
+:[823]
 push.v local.i
 push.e 1
 add.i.v
 pop.v.v local.i
-b [807]
+b [817]
 
-:[814]
+:[824]
 pushi.e 0
 pop.v.i local._offset_jam
 push.v 90.state
 push.i gml_Script_scr_player_state_move
 cmp.i.v EQ
-bf [821]
+bf [831]
 
-:[815]
+:[825]
 pushi.e 90
 push.v 90.weapon_slot_now
 conv.v.i
 push.v [array]self.jammed_slot
 pushi.e 1
 cmp.b.v EQ
-bf [821]
+bf [831]
 
-:[816]
+:[826]
 push.v 90.arma_now
 push.l 2
 cmp.l.v NEQ
-bf [818]
+bf [828]
 
-:[817]
+:[827]
 push.v 90.arma_now
 push.l 0
 cmp.l.v NEQ
-b [819]
+b [829]
 
-:[818]
+:[828]
 push.e 0
 
-:[819]
-bf [821]
+:[829]
+bf [831]
 
-:[820]
+:[830]
 pushi.e 0
 conv.i.v
 call.i draw_set_font(argc=1)
@@ -14030,69 +14189,69 @@ pushi.e 0
 conv.i.v
 push.i 9564927
 conv.i.v
-push.s "[LMB] Jam"@6784
+push.s "[LMB] Jam"@7009
 conv.s.v
 pushloc.v local.yy
 pushloc.v local.xx
 call.i gml_Script_scr_draw_text_outlined(argc=7)
 popz.v
 
-:[821]
+:[831]
 push.v 90.state
 push.i gml_Script_scr_player_state_move
 cmp.i.v EQ
-bf [847]
+bf [857]
 
-:[822]
+:[832]
 pushi.e 1
 pop.v.b local._can_draw
-pushi.e 860
+pushi.e 861
 conv.i.v
 call.i instance_exists(argc=1)
 conv.v.b
-bf [827]
+bf [837]
 
-:[823]
-pushi.e 860
-pushenv [826]
+:[833]
+pushi.e 861
+pushenv [836]
 
-:[824]
+:[834]
 push.v self.id_che_parla
 push.v 90.id
 cmp.v.v EQ
-bf [826]
+bf [836]
 
-:[825]
+:[835]
 pushi.e 0
 pop.v.b local._can_draw
 
-:[826]
-popenv [824]
+:[836]
+popenv [834]
 
-:[827]
+:[837]
 pushglb.v global.change_ammo_now
 pushi.e 1
 cmp.b.v EQ
-bf [829]
+bf [839]
 
-:[828]
+:[838]
 pushi.e 0
 pop.v.b local._can_draw
 
-:[829]
+:[839]
 pushloc.v local._can_draw
 pushi.e 1
 cmp.b.v EQ
-bf [847]
+bf [857]
 
-:[830]
+:[840]
 pushglb.v global.list_interact
 call.i ds_list_size(argc=1)
 pushi.e 0
 cmp.i.v GT
-bf [847]
+bf [857]
 
-:[831]
+:[841]
 pushi.e 0
 conv.i.v
 call.i draw_set_font(argc=1)
@@ -14120,14 +14279,14 @@ pop.v.v local.yy
 pushi.e 0
 pop.v.i local.i
 
-:[832]
+:[842]
 pushloc.v local.i
 pushglb.v global.list_interact
 call.i ds_list_size(argc=1)
 cmp.v.v LT
-bf [847]
+bf [857]
 
-:[833]
+:[843]
 pushi.e 0
 pop.v.i local.subi
 push.i 16777215
@@ -14135,15 +14294,15 @@ pop.v.i local.cc
 pushglb.v global.p_int_instance_id
 pushloc.v local.i
 cmp.v.v EQ
-bf [835]
+bf [845]
 
-:[834]
+:[844]
 pushi.e 1
 pop.v.i local.subi
 push.i 9564927
 pop.v.i local.cc
 
-:[835]
+:[845]
 pushi.e -5
 push.l 6
 conv.l.i
@@ -14161,33 +14320,33 @@ pushglb.v global.list_interact
 call.i ds_list_find_value(argc=2)
 push.l 5
 cmp.l.v EQ
-bf [839]
+bf [849]
 
-:[836]
+:[846]
 pushbltn.v builtin.room
 pushi.e 16
 cmp.i.v EQ
-bf [839]
+bf [849]
 
-:[837]
+:[847]
 push.v 90.y
 push.v 18.map_height
 cmp.v.v GT
-bf [839]
+bf [849]
 
-:[838]
-push.s "Exit"@6786
+:[848]
+push.s "Exit"@7011
 pop.v.s local.tt
 
-:[839]
+:[849]
 pushloc.v local.i
 pushglb.v global.list_interact
 call.i ds_list_find_value(argc=2)
 push.l 1
 cmp.l.v EQ
-bf [843]
+bf [853]
 
-:[840]
+:[850]
 pushloc.v local.i
 pushglb.v global.list_interact_id
 call.i ds_list_find_value(argc=2)
@@ -14195,21 +14354,21 @@ pop.v.v local._chest_id
 pushloc.v local._chest_id
 call.i instance_exists(argc=1)
 conv.v.b
-bf [843]
+bf [853]
 
-:[841]
+:[851]
 pushloc.v local._chest_id
 pushi.e -9
 push.v [stacktop]self.already_looted
 pushi.e 1
 cmp.b.v EQ
-bf [843]
+bf [853]
 
-:[842]
+:[852]
 push.i 7105644
 pop.v.i local.cc
 
-:[843]
+:[853]
 pushi.e 1
 conv.i.v
 pushi.e 1
@@ -14217,10 +14376,10 @@ conv.i.v
 pushi.e 0
 conv.i.v
 pushloc.v local.cc
-push.s "["@4670
+push.s "["@4823
 pushloc.v local.key_name
 add.v.s
-push.s "] "@6781
+push.s "] "@7006
 add.s.v
 pushloc.v local.tt
 add.v.v
@@ -14237,20 +14396,20 @@ popz.v
 pushloc.v local.subi
 pushi.e 1
 cmp.i.v EQ
-bf [846]
+bf [856]
 
-:[844]
+:[854]
 pushglb.v global.list_interact
 call.i ds_list_size(argc=1)
 pushi.e 1
 cmp.i.v GT
-bf [846]
+bf [856]
 
-:[845]
-push.s "["@4670
+:[855]
+push.s "["@4823
 pushloc.v local.key_name
 add.v.s
-push.s "] "@6781
+push.s "] "@7006
 add.s.v
 pushloc.v local.tt
 add.v.v
@@ -14283,72 +14442,72 @@ pushi.e 5
 sub.i.v
 pushi.e 0
 conv.i.v
-pushi.e 1357
+pushi.e 1358
 conv.i.v
 call.i draw_sprite_ext(argc=9)
 popz.v
 
-:[846]
+:[856]
 push.v local.i
 push.e 1
 add.i.v
 pop.v.v local.i
-b [832]
+b [842]
 
-:[847]
+:[857]
 pushglb.v global.general_debug
 pushi.e 1
 cmp.b.v EQ
-bf [880]
+bf [890]
 
-:[848]
+:[858]
 pushi.e 1
 pop.v.b local._show_debug
 pushglb.v global.debug_hide_hud
 pushi.e 1
 cmp.b.v EQ
-bf [850]
+bf [860]
 
-:[849]
+:[859]
 pushi.e 0
 pop.v.b local._show_debug
 
-:[850]
+:[860]
 pushi.e 90
 conv.i.v
 call.i instance_exists(argc=1)
 conv.v.b
-bf [856]
+bf [866]
 
-:[851]
+:[861]
 pushbltn.v builtin.room
 pushi.e 16
 cmp.i.v EQ
-bf [853]
+bf [863]
 
-:[852]
+:[862]
 push.v 90.state
 push.i gml_Script_scr_player_state_start
 cmp.i.v EQ
-b [854]
+b [864]
 
-:[853]
+:[863]
 push.e 0
 
-:[854]
-bf [856]
+:[864]
+bf [866]
 
-:[855]
+:[865]
 pushi.e 0
 pop.v.b local._show_debug
 
-:[856]
+:[866]
 pushloc.v local._show_debug
 pushi.e 1
 cmp.b.v EQ
-bf [858]
+bf [868]
 
-:[857]
+:[867]
 pushi.e 0
 conv.i.v
 call.i draw_set_font(argc=1)
@@ -14361,7 +14520,7 @@ pushi.e 0
 conv.i.v
 call.i draw_set_valign(argc=1)
 popz.v
-push.s "DEBUG [F1]"@6789
+push.s "DEBUG [F1]"@7014
 conv.s.v
 pushi.e 1
 conv.i.v
@@ -14370,13 +14529,13 @@ conv.i.v
 call.i draw_text(argc=3)
 popz.v
 
-:[858]
+:[868]
 push.v self.debug_menu
 pushi.e 1
 cmp.b.v EQ
-bf [862]
+bf [872]
 
-:[859]
+:[869]
 pushi.e 50
 pop.v.i local.box_x
 pushi.e 50
@@ -14393,7 +14552,7 @@ pushloc.v local.box_h
 pushloc.v local.box_w
 pushloc.v local.box_y
 pushloc.v local.box_x
-pushi.e 1935
+pushi.e 1936
 conv.i.v
 call.i gml_Script_scr_draw_box(argc=6)
 popz.v
@@ -14412,14 +14571,14 @@ popz.v
 pushi.e 0
 pop.v.i local.i
 
-:[860]
+:[870]
 pushloc.v local.i
 push.v self.d_k
 call.i array_length_1d(argc=1)
 cmp.v.v LT
-bf [862]
+bf [872]
 
-:[861]
+:[871]
 pushi.e -1
 pushloc.v local.i
 conv.v.i
@@ -14456,16 +14615,16 @@ push.v local.i
 push.e 1
 add.i.v
 pop.v.v local.i
-b [860]
+b [870]
 
-:[862]
+:[872]
 pushi.e 113
 conv.i.v
 call.i keyboard_check_direct(argc=1)
 conv.v.b
-bf [876]
+bf [886]
 
-:[863]
+:[873]
 pushi.e 1
 conv.i.v
 pushi.e 220
@@ -14476,7 +14635,7 @@ pushi.e 25
 conv.i.v
 pushi.e 25
 conv.i.v
-pushi.e 1935
+pushi.e 1936
 conv.i.v
 call.i gml_Script_scr_draw_box(argc=6)
 popz.v
@@ -14495,14 +14654,14 @@ popz.v
 pushi.e 0
 pop.v.i local.i
 
-:[864]
+:[874]
 pushloc.v local.i
 pushglb.v global.sk_k
 call.i array_length_1d(argc=1)
 cmp.v.v LT
-bf [876]
+bf [886]
 
-:[865]
+:[875]
 pushi.e 0
 pop.v.i local.xx
 pushi.e 0
@@ -14510,56 +14669,56 @@ pop.v.i local.hh
 pushloc.v local.i
 pushi.e 18
 cmp.i.v GTE
-bf [867]
+bf [877]
 
-:[866]
+:[876]
 pushloc.v local.i
 pushi.e 36
 cmp.i.v LT
-b [868]
+b [878]
 
-:[867]
+:[877]
 push.e 0
 
-:[868]
-bf [870]
+:[878]
+bf [880]
 
-:[869]
+:[879]
 pushi.e 130
 pop.v.i local.xx
 pushi.e 18
 pop.v.i local.hh
 
-:[870]
+:[880]
 pushloc.v local.i
 pushi.e 36
 cmp.i.v GTE
-bf [872]
+bf [882]
 
-:[871]
+:[881]
 pushloc.v local.i
 pushi.e 54
 cmp.i.v LT
-b [873]
+b [883]
 
-:[872]
+:[882]
 push.e 0
 
-:[873]
-bf [875]
+:[883]
+bf [885]
 
-:[874]
+:[884]
 pushi.e 260
 pop.v.i local.xx
 pushi.e 36
 pop.v.i local.hh
 
-:[875]
+:[885]
 pushi.e -5
 pushloc.v local.i
 conv.v.i
 push.v [array]self.sk_na
-push.s " "@1587
+push.s " "@1733
 add.s.v
 pushi.e -5
 pushloc.v local.i
@@ -14585,16 +14744,16 @@ push.v local.i
 push.e 1
 add.i.v
 pop.v.v local.i
-b [864]
+b [874]
 
-:[876]
+:[886]
 pushi.e 114
 conv.i.v
 call.i keyboard_check_direct(argc=1)
 conv.v.b
-bf [880]
+bf [890]
 
-:[877]
+:[887]
 pushi.e 1
 conv.i.v
 pushi.e 220
@@ -14605,7 +14764,7 @@ pushi.e 25
 conv.i.v
 pushi.e 25
 conv.i.v
-pushi.e 1935
+pushi.e 1936
 conv.i.v
 call.i gml_Script_scr_draw_box(argc=6)
 popz.v
@@ -14616,14 +14775,14 @@ popz.v
 pushi.e 0
 pop.v.i local.i
 
-:[878]
+:[888]
 pushloc.v local.i
 pushglb.v global.sk_id
 call.i array_length_1d(argc=1)
 cmp.v.v LT
-bf [880]
+bf [890]
 
-:[879]
+:[889]
 pushi.e -5
 pushloc.v local.i
 conv.v.i
@@ -14634,7 +14793,7 @@ pushloc.v local.get_id
 conv.v.i
 push.v [array]self.sk_lvl
 call.i string(argc=1)
-push.s "  "@6794
+push.s "  "@7019
 add.s.v
 pushi.e -5
 pushloc.v local.get_id
@@ -14654,22 +14813,22 @@ push.v local.i
 push.e 1
 add.i.v
 pop.v.v local.i
-b [878]
+b [888]
 
-:[880]
+:[890]
 push.v 90.state
 push.i gml_Script_scr_player_state_item_spawn
 cmp.i.v EQ
-bf [891]
+bf [901]
 
-:[881]
+:[891]
 pushi.e 0
 conv.i.v
 pushi.e 0
 conv.i.v
 pushi.e 0
 conv.i.v
-pushi.e 1321
+pushi.e 1322
 conv.i.v
 call.i draw_sprite(argc=4)
 popz.v
@@ -14688,25 +14847,25 @@ popz.v
 pushi.e 0
 pop.v.i local.i
 
-:[882]
+:[892]
 pushloc.v local.i
 pushi.e 4
 cmp.i.v LT
-bf [886]
+bf [896]
 
-:[883]
+:[893]
 push.i 16777215
 pop.v.i local._c
 pushglb.v global.item_spawn_page
 pushloc.v local.i
 cmp.v.v EQ
-bf [885]
+bf [895]
 
-:[884]
+:[894]
 push.i 9564927
 pop.v.i local._c
 
-:[885]
+:[895]
 pushi.e 1
 conv.i.v
 pushloc.v local._c
@@ -14739,32 +14898,32 @@ push.v local.i
 push.e 1
 add.i.v
 pop.v.v local.i
-b [882]
+b [892]
 
-:[886]
+:[896]
 pushi.e 0
 pop.v.i local.i
 
-:[887]
+:[897]
 pushloc.v local.i
 pushglb.v global.item_spawn_name
 call.i array_length_1d(argc=1)
 cmp.v.v LT
-bf [891]
+bf [901]
 
-:[888]
+:[898]
 push.i 16777215
 pop.v.i local._c
 pushglb.v global.item_spawn_cat
 pushloc.v local.i
 cmp.v.v EQ
-bf [890]
+bf [900]
 
-:[889]
+:[899]
 push.i 9564927
 pop.v.i local._c
 
-:[890]
+:[900]
 pushi.e 1
 conv.i.v
 pushloc.v local._c
@@ -14787,42 +14946,42 @@ push.v local.i
 push.e 1
 add.i.v
 pop.v.v local.i
-b [887]
+b [897]
 
-:[891]
+:[901]
 pushi.e 0
 pop.v.b local.collisione
 pushi.e 90
-pushenv [895]
+pushenv [905]
 
-:[892]
+:[902]
 push.v self.state
 push.i gml_Script_scr_player_state_start
 cmp.i.v NEQ
-bf [895]
+bf [905]
 
-:[893]
+:[903]
 pushi.e 28
 conv.i.v
 push.v self.y
 push.v self.x
 call.i place_meeting(argc=3)
 conv.v.b
-bf [895]
+bf [905]
 
-:[894]
+:[904]
 pushi.e 1
 pop.v.b local.collisione
 
-:[895]
-popenv [892]
+:[905]
+popenv [902]
 pushloc.v local.collisione
 pushi.e 1
 cmp.b.v EQ
-bf [897]
+bf [907]
 
-:[896]
-push.s "You are stuck, hold CTRL and press WASD to move in that direction"@6796
+:[906]
+push.s "You are stuck, hold CTRL and press WASD to move in that direction"@7021
 pop.v.s local.t_
 pushi.e 2
 conv.i.v
@@ -14852,33 +15011,33 @@ conv.i.v
 call.i gml_Script_scr_draw_text_outlined(argc=7)
 popz.v
 
-:[897]
+:[907]
 pushglb.v global.general_debug
 pushi.e 1
 cmp.b.v EQ
 bf [end]
 
-:[898]
+:[908]
 pushi.e 97
 conv.i.v
 call.i keyboard_check(argc=1)
 conv.v.b
 bf [end]
 
-:[899]
+:[909]
 pushbltn.v builtin.room
 pushi.e 16
 cmp.i.v EQ
 bf [end]
 
-:[900]
+:[910]
 pushi.e 18
 conv.i.v
 call.i instance_exists(argc=1)
 conv.v.b
 bf [end]
 
-:[901]
+:[911]
 pushi.e 18
 pop.v.i local.o
 pushi.e 10
@@ -14900,13 +15059,13 @@ popz.v
 pushi.e 0
 pop.v.i local.i
 
-:[902]
+:[912]
 pushloc.v local.i
-push.l 19
+push.l 20
 cmp.l.v LT
 bf [end]
 
-:[903]
+:[913]
 pushloc.v local.o
 pushi.e -9
 pushloc.v local.i
@@ -14918,7 +15077,7 @@ div.d.v
 call.i string(argc=1)
 pop.v.v local._t
 pushloc.v local._t
-push.s "   : "@6797
+push.s "   : "@7022
 add.s.v
 pushloc.v local.o
 pushi.e -9
@@ -14941,6 +15100,6 @@ push.v local.i
 push.e 1
 add.i.v
 pop.v.v local.i
-b [902]
+b [912]
 
 :[end]
