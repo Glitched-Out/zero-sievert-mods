@@ -20,10 +20,10 @@ The PDA will be able to analyze all the items and display overlays in the invent
 
 ## Installation
 
-Last version: v0.28.3
+Last version: v0.29.4
 
 1. Check that the version of your game matches the last version of the mod.
-2. Download the `data.win` [here](https://github.com/Glitched-Out/zero-sievert-mods/releases/download/v0.28.3/pda_prices_mod.zip).
+2. Download the `data.win` [here](https://github.com/Glitched-Out/zero-sievert-mods/releases/download/v0.29.4/pda_prices_mod.zip).
 3. Go to the installation folder of your game (the folder where you can find `ZERO Sievert.exe`).
 4. Make a backup of the original `data.win` in case you want to play again without the mod.
 5. Replace the `data.win` file with the file you just downloaded.
